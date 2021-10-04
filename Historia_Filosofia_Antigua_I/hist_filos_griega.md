@@ -22,15 +22,15 @@ Se expresó a través de aforismos. Los aforismos son enunciado que no pertenece
 
 #### Contrarios y Contradictorios
 
-Los **contrarios** *(ta enantia)* se co-pertenecen, lo que explica el movimiento, su reversibilidad y finalmente el **tiempo**. 
+Los **contrarios** *(τα εναντια)* se co-pertenecen, lo que explica el movimiento, su reversibilidad y finalmente el **tiempo**. 
 
-Los **contradictorios** *(ta antiphasea)*, en cambio no están relacionados con el movimiento. Suponen una transformación irreversible de la realidad. Acontecen súbitamente. Son la realidad última a la que se refieren los aforismos. Un contradictorio siempre está presente, aunque no se le perciba, por lo que se puede afirmar que la ausencia es.
+Los **contradictorios** *(τα αντηφασεα)*, en cambio no están relacionados con el movimiento. Suponen una transformación irreversible de la realidad. Acontecen súbitamente. Son la realidad última a la que se refieren los aforismos. Un contradictorio siempre está presente, aunque no se le perciba, por lo que se puede afirmar que la ausencia es.
 
 ### El Tiempo en Grecia
 
-1. El tiempo visto desde la muerte es *kronos*.
-2. El tiempo visto desde la vida: eternidad, necesidad simple (no compuesta), *aidios*. 
-3. Cruce entre la eternidad y la muerte: un instante eterno *(aion)*. Este es el tiempo al que se refieren los aforismo. El *logos* de heráclito es reunión que enlanza lo diferente. 
-4. El **espacio** en el que se produce el *aion*: el *kairos*, que tiene la misma raiz que la **gracia** y la **caridad**. 
+1. El tiempo visto desde la muerte es *χρονος*.
+2. El tiempo visto desde la vida: eternidad, necesidad simple (no compuesta), *αιδος*. 
+3. Cruce entre la eternidad y la muerte: un instante eterno *(αιον)*. Este es el tiempo al que se refieren los aforismo. El *λογος* de heráclito es reunión que enlanza lo diferente
+4. El **espacio** en el que se produce el *αιον*: el *καιρσς*, que tiene la misma raiz que la **gracia** y la **caridad**. 
 
 ### Las Declinaciones del Fuego

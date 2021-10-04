@@ -34,3 +34,9 @@ Los **contradictorios** *(τα αντηφασεα)*, en cambio no están relacio
 4. El **espacio** en el que se produce el *αιον*: el *καιρσς*, que tiene la misma raiz que la **gracia** y la **caridad**. 
 
 ### Las Declinaciones del Fuego
+
+Al contrario de los que se dice como lugar común, Heráclito nunca afirmó que todo está en movimiento. Tal idea se deba a Traquilo, que fue discípulo de Heráclito y maestro de Platón. El acontecer no es movimiento. Tampoco afirmo que el tiempo fuera el **principio** *(αρχη)* de las cosas. 
+
+1. El fuego es el enlace de los fenómenos físicos en la tierra.
+2. En el cielo, el lugar del fuego lo ocupa el sol, que da luz y calor, y que no debe sobrepasar una medida debido al siempre presente acontecer de los contradictorios.
+3. El **rayo** del pensamiento humano, que enlaza ambas esferas: la celeste y la terrestre. El rayo es sincrónicante luz y oscuridad.

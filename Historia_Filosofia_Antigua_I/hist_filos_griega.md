@@ -1,3 +1,30 @@
 # SEMINARIO PERMANENTE DE HISTORIA DE LA FILOSOFÍA GRIEGA (CURSO 2021/2022) 
 
 ## Clase sobre Heráclito (noviembre 2018)
+
+Las siguientes notas se han tomado a partir de [la siguiente clase](https://www.youtube.com/watch?v=vWUUOfyUlMA)
+La traducción de los textos se ha hecho teniendo muy en cuenta las aportaciones de los intérpretes. Sobre todo se ha centrado en la **ontología**.
+
+### Influencia en el Pensamiento Contemporáneo
+
+Heráclito vivio entre los años 540-480 a.C., aproximádamente. Se le atribuye una colección de **aforismos**. Ya alcanzó un gran reconocimiento en la antigüedad. El pensamiento de Heráclito ha experimentado una revitalización desde la filosofía de **Hegel**. Asimismo, **Nietzsche** se concibió a sí mismo como un discípulo de Heráclito. El **Heidegger** maduro también es heraclíteo.
+
+Junto con **Parménides**, es el primer **ontólogo del lenguaje**. Es decir, sostiene que es el lenguaje lo que proporciona el ser, con lo que no es ligüístico no es.
+
+**Gallagher**, padre de la **hermenéutica** actual también se define como heraclíteo. También **Schiegel**, el post-estructuralista más destacado se considera seguidor de Heráclito.
+
+### Aspectos Generales
+
+#### Los Aforismos
+
+Se expresó a través de aforismos. Los aforismos son enunciado que no pertenecen a una lógica interpretativa, con lo que no pueden deducirse ni inducirse, con lo que abre las puertas a un **instante eterno**. Los aforismos acontecen en el espacio **sincrónico** de la mente. Da que pensar y necesita ser interpretado para ser comprendido.
+
+#### Contrarios y Contradictorios
+
+Los **contrarios** *(ta enantia)* se co-pertenecen, lo que explica el movimiento, su reversibilidad y finalmente el **tiempo**. 
+
+Los **contradictorios** *(ta antiphasea)*, en cambio no están relacionados con el movimiento. Suponen una transformación irreversible de la realidad. Acontecen súbitamente. Son la realidad última a la que se refieren los aforismos. Un contradictorio siempre está presente, aunque no se le perciba, por lo que se puede afirmar que la ausencia es.
+
+### El Tiempo en Grecia
+
+El tiempo visto desde la muerte es *kronos*.

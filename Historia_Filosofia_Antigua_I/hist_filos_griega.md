@@ -2,7 +2,8 @@
 
 ## Clase sobre Heráclito (noviembre 2018)
 
-Las siguientes notas se han tomado a partir de [la siguiente clase](https://www.youtube.com/watch?v=vWUUOfyUlMA)
+Las siguientes notas se han tomado a partir de [la siguiente clase](https://www.youtube.com/watch?v=vWUUOfyUlMA).
+
 La traducción de los textos se ha hecho teniendo muy en cuenta las aportaciones de los intérpretes. Sobre todo se ha centrado en la **ontología**.
 
 ### Influencia en el Pensamiento Contemporáneo
@@ -27,4 +28,9 @@ Los **contradictorios** *(ta antiphasea)*, en cambio no están relacionados con 
 
 ### El Tiempo en Grecia
 
-El tiempo visto desde la muerte es *kronos*.
+1. El tiempo visto desde la muerte es *kronos*.
+2. El tiempo visto desde la vida: eternidad, necesidad simple (no compuesta), *aidios*. 
+3. Cruce entre la eternidad y la muerte: un instante eterno *(aion)*. Este es el tiempo al que se refieren los aforismo. El *logos* de heráclito es reunión que enlanza lo diferente. 
+4. El **espacio** en el que se produce el *aion*: el *kairos*, que tiene la misma raiz que la **gracia** y la **caridad**. 
+
+### Las Declinaciones del Fuego

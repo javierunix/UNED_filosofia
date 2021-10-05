@@ -14,13 +14,12 @@ Junto con **Parménides**, es el primer **ontólogo del lenguaje**. Es decir, so
 
 **Gallagher**, padre de la **hermenéutica** actual también se define como heraclíteo. También **Schiegel**, el post-estructuralista más destacado se considera seguidor de Heráclito.
 
-### Aspectos Generales
 
-#### Los Aforismos
+### Los Aforismos
 
 Se expresó a través de aforismos. Los aforismos son enunciado que no pertenecen a una lógica interpretativa, con lo que no pueden deducirse ni inducirse, con lo que abre las puertas a un **instante eterno**. Los aforismos acontecen en el espacio **sincrónico** de la mente. Da que pensar y necesita ser interpretado para ser comprendido.
 
-#### Contrarios y Contradictorios
+### Contrarios y Contradictorios
 
 Los **contrarios** *(τα εναντια)* se co-pertenecen, lo que explica el movimiento, su reversibilidad y finalmente el **tiempo**. 
 
@@ -39,4 +38,24 @@ Al contrario de los que se dice como lugar común, Heráclito nunca afirmó que 
 
 1. El fuego es el enlace de los fenómenos físicos en la tierra.
 2. En el cielo, el lugar del fuego lo ocupa el sol, que da luz y calor, y que no debe sobrepasar una medida debido al siempre presente acontecer de los contradictorios.
-3. El **rayo** del pensamiento humano, que enlaza ambas esferas: la celeste y la terrestre. El rayo es sincrónicante luz y oscuridad.
+3. El **rayo** del pensamiento humano, que enlaza ambas esferas: la celeste y la terrestre. El rayo es sincrónicante luz y oscuridad. El logos enlaza las diferencias en la diferencia, sin anularlas.
+
+### Teología
+
+El mundo no ha sido creado por ningún dios. Existe una estructura legislativa sagrada, pero que no tiene sujeto ni se corresponde con ningún dios. Intentar ir más allá de los limites del conocimiento es la mayor de las locuras. 
+
+Desde el punto de vista del logos todo es bueno y justo: son los seres humanos los que dividen. Las leyes del logos ni castran ni limitan, sino que posibilitan y enriquecen.
+
+Existe una crítica al antropocentrismo de la teología tradicional.
+
+Lo divino es la ley legislante *(logos)*. El *logos* tiene la capacidad de autoincrementarse. 
+
+### Citas 
+
+- ¿Hasta dónde retirarse de lo que siempre está?
+- Camina, camina; nunca encontrarás la profundidad del alma humana, tan profundo logos tiene.
+- Siendo este logos siempre, los hombres no lo comprenden.
+- Es sabio reconocer que uno es todo.
+- No hay orden sin caos, **caosmos** en términos contemporáneos.
+- Como polvo esparcido al azar es el cosmos.
+- Este mundo no lo hizo ningún dios ni ningún hombre, sino que siempre ha existido, como fuego que se enciende y se apaga según medida. 

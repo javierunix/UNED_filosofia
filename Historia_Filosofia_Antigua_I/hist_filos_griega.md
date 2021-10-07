@@ -74,5 +74,5 @@ Nace en Elea, en torno al 530 a 515 a. JC. La escuela eleana tiene tres represen
 
 Lo hizo a través de un poema, escricto en hexámentros dactílicos, como los de los poemas homéricos. Hay que tener en cuenta que la filosofía nace como una crítica a la teología antropomórfica, que entiende la divinidad como una proyección de los caracteres humanos.
 
-Jenófanes afirma que, frente a las doxas humanas, adaptadas por consenso hay leyes ontológicas, referidas a la naturaleza y a la polis que son absolutas. Estas leyes son verdad, *(aletheia)*.
+Jenófanes afirma que, frente a las doxas humanas adaptadas por consenso, hay leyes ontológicas, referidas a la naturaleza y a la polis que son absolutas. Estas leyes son verdad *(aletheia)*.
 

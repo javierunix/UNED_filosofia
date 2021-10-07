@@ -40,6 +40,7 @@ En el famoso **mito de la caverna** el hombre virtuoso es el que sale de la cuev
 Cada clase social se caracteriza por una virtud característica.
 
 El fin de la política debe ser el buen funcionamiento de la sociedad. La justicia consiste en que cada uno cumpla con su función. La ética y la política, por lo tanto están intimamente relacionadas y se complementan.
+
 En **La República** describe una sociedad ideal.
 ## Aristóteles: la ética de la felicidad
 

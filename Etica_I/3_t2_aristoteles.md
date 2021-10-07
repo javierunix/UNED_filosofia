@@ -23,8 +23,24 @@ Los griegos no relacionan virtud con la riqueza.
 
 ## Los sofistas, Sócrates y Platón: la virtud es conocimiento
 
-Los sofistas (de *sophos*, sabio) cobraban por enseñar, por lo que estaban mal vistos. Se les consideraba mercenarios del conocimiento. Eran maestros de la retórica y la persuasión. No buscan la verdad. Entre ellos citamos a Protágoras, que afirma que el hombre es la medida de todas las cosas.
+Los sofistas (de *sophos*, sabio) cobraban por enseñar, por lo que estaban mal vistos. Se les consideraba mercenarios del conocimiento. Eran maestros de la retórica y la persuasión. Entre ellos citamos a Protágoras, que afirma que el hombre es la medida de todas las cosas.
 
+### Sócrates
+
+Sócrates busca que cada uno encuentre las respuestas mediante el método dialéctico, que se basa en preguntas y respuestas. No se considera un maestros, sino una especie de matrono que ayuda cada a dar a luz la verdad que tiene dentro **(mayéutica)**. Se caracteriza por una humildad intelectual poco común en su cultura. La ética de Sócrates se basa en el **conócete a ti mismo**. Su muerte fue un ejemplo de coherencia y honradez intelectual. 
+
+No obstante, es difícil decir hasta que punto la visión que se tiene de Sócrates se debe a la idealización que hizo Platón de él.
+
+### Platón
+
+Desconfía de la política. Los cargos públicos deberían estar ostentados por los filósofos. Ilustra sus ideas con un lenguaje figurado, a la manera de los mitos.
+
+En el famoso **mito de la caverna** el hombre virtuoso es el que sale de la cueva.  La virtud es conocimento, por lo que ser sabio es lo mismo que ser virtuoso. Se trata de una mentalidad clasista y elitista.
+
+Cada clase social se caracteriza por una virtud característica.
+
+El fin de la política debe ser el buen funcionamiento de la sociedad. La justicia consiste en que cada uno cumpla con su función. La ética y la política, por lo tanto están intimamente relacionadas y se complementan.
+En **La República** describe una sociedad ideal.
 ## Aristóteles: la ética de la felicidad
 
 ### La virtud y la felicidad

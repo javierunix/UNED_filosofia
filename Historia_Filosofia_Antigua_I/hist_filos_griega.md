@@ -70,9 +70,58 @@ Parménides busca el fundamento teológico inmanente de toda teología política
 
 ### Vida y Obra
 
-Nace en Elea, en torno al 530 a 515 a. JC. La escuela eleana tiene tres representantes: Jenófanes, Zenón y Parménides. Filósofo, teólogo, político y legislador. Sus conciudadanos le dedicaron una estatua, debido a que les dio una constituación.
+Nace en Elea, en torno al 530 a 515 a. JC. La escuela eleana tiene tres representantes: Jenófanes, Zenón y Parménides. Filósofo, teólogo, político y legislador. Sus conciudadanos le dedicaron una estatua, debido a que les dio una constituación. Probablemente estuviera familiarizado con Heráclito.
+
 
 Lo hizo a través de un poema, escricto en hexámentros dactílicos, como los de los poemas homéricos. Hay que tener en cuenta que la filosofía nace como una crítica a la teología antropomórfica, que entiende la divinidad como una proyección de los caracteres humanos.
 
 Jenófanes afirma que, frente a las doxas humanas adaptadas por consenso, hay leyes ontológicas, referidas a la naturaleza y a la polis que son absolutas. Estas leyes son verdad *(aletheia)*.
 
+El poema tiene dos partes.
+
+1. Sobre la Verdad *(aletheia)*. Contiene la raíz ontológica de la filosofía.
+2. Sobre la opinión *(doxa)*. Esta parte se ha perdido.
+
+### Adversarios de Doctrina
+
+- Polemiza con **Hesíodo**. Párménides sostiene que la temporalidad cronológica del mortal debe estar subordinada a la eternidad. Debe subordinarse lo contingente a lo necesario. Hesiodo sostenía que sólo había cosmogonías y teogonías, tanto el cosmos como la divinidad son generadas. Parménides, por contra concibe lo divino como necesario y eterno.
+
+- Discute con su maestro pitagórico. El pitagorismo concebía dos primeros principios: el uno-todo y la diada-indefinida. Parménides combate el dualismo y el dicotomismo, afirmando que hay un único principio, que a su vez permite la multiplicidad. Según Parmenides hay una pluralidad originaria simultánea **(sincronía)**. 
+
+- Combate también una cierta retórica sofista que niega la existencia de leyes ontológicas absolutas.
+
+### Sobre la Verdad *(peri ten aletheian)*
+
+Un poeta conducido por dos yeguas, a su vez conducidas por las hijas del sol, es llevado por caminos que lo alejan de las opiniones comunes y de las costumbres.
+
+En su camino no se aleja de la oscuridad, sino que camina en el límite entre el día y la noche.
+
+El poeta llega al cielo, donde la **Justicia** guarda una puerta de doble hoja. Las hijas del Sol convencen a la Justicia para que abra la puerta. Se entra en el ámbito de la **Verdad**, que **no tiene contrario**.
+
+El poeta al limite más alla del cual ya no es posible desear. En el límite del deso comparece la diosa *(¿de la verdad), ¿de la memoria?)*. 
+
+La diosa le enseña las vías que conducen, tanto a la verdad, como a la no verdad. También le enseña la condición de verdad de los juicios que no son evidentes.
+
+Al contrario que Heráclito, Parménides si cree que hay un modo que permite pensar certeramente. Comienza la ontología de la verdad y del error; es decir la **Lógica**. 
+
+### Vías de la Diosa
+
+El ser puede ser de varias maneras:
+- necesario. Es y no puede no ser. Es simple
+- posible. No es, pero podría ser.
+- imposible. No puede ser.
+- contigente. Es, pero podría no ser.
+
+1. **Ser es y no-ser es**. Es un afirmación contradictoria.
+2. **Ser es y no-ser no es**. De primeras es una postura sensata. Sin embargo, si el no-ser no es, no parece posible ni el tiempo ni el movimiento.
+3. **Ser es y no es**. Quienes lo afirman se contradicen a sí mismos. Son indiferentes a la verdad. Equivale a decir que ser equivale a un movimiento que no está legislado.
+4. **Ser es**. Única vía posible en el ámbito de la verdad.
+
+### Consecuencias e Implicaciones
+
+- El ser no tiene principio ni generación. Es eterno.
+- No tiene cantidad ni cualidades sensibles. Es simple y espiritual.
+- Es el límite limitante que posibilita todo lo demás.
+- Lo mismo es pensar y ser. Sin embargo, pensar en Pármenides no es lo mismo que para Descartes. En el filósofo pensar es una accion de la conciencia. En Parménides pensar se refiere a los juicios sintéticos del lenguaje; en otras palabras la espiritualidad inmanente del alma.
+- Los hombres deben subordinar el tiempo diacrónico al tiempo sincrónico.
+- Pensar es enlazar las cuatro dimensiones del tiempo: pasado, futuro, presente y espacio. Pensar es una realidad comunitaria y espiritual que define los conceptos sin ser un concepto.

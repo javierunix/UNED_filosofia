@@ -1,6 +1,6 @@
 # SEMINARIO PERMANENTE DE HISTORIA DE LA FILOSOFÍA GRIEGA (CURSO 2021/2022) 
 
-## Clase sobre Heráclito (noviembre 2018)
+## Clase sobre Heráclito de Éfeso (noviembre 2018)
 
 Las siguientes notas se han tomado a partir de [la siguiente clase](https://www.youtube.com/watch?v=vWUUOfyUlMA).
 
@@ -59,3 +59,20 @@ Lo divino es la ley legislante *(logos)*. El *logos* tiene la capacidad de autoi
 - No hay orden sin caos, **caosmos** en términos contemporáneos.
 - Como polvo esparcido al azar es el cosmos.
 - Este mundo no lo hizo ningún dios ni ningún hombre, sino que siempre ha existido, como fuego que se enciende y se apaga según medida. 
+
+## Clase sobre Parménides de Elea
+
+Las siguientes notas se han tomado a partir de [la siguiente clase](https://www.youtube.com/watch?v=YyEUnMUXR08).
+
+### Introducción
+
+Parménides busca el fundamento teológico inmanente de toda teología política. Heidegger dedica su última gran obra, *Tiempo y Ser* a discutir con **Hegel** la interpretación del poema de Parménides. También hay importantes postestructuralistas parmenídeos.
+
+### Vida y Obra
+
+Nace en Elea, en torno al 530 a 515 a. JC. La escuela eleana tiene tres representantes: Jenófanes, Zenón y Parménides. Filósofo, teólogo, político y legislador. Sus conciudadanos le dedicaron una estatua, debido a que les dio una constituación.
+
+Lo hizo a través de un poema, escricto en hexámentros dactílicos, como los de los poemas homéricos. Hay que tener en cuenta que la filosofía nace como una crítica a la teología antropomórfica, que entiende la divinidad como una proyección de los caracteres humanos.
+
+Jenófanes afirma que, frente a las doxas humanas, adaptadas por consenso hay leyes ontológicas, referidas a la naturaleza y a la polis que son absolutas. Estas leyes son verdad, *(aletheia)*.
+

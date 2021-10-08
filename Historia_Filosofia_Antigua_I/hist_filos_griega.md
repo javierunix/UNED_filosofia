@@ -1,3 +1,21 @@
+# LOS GRIEGOS Y NOSOTROS
+De [este video](https://canal.uned.es/video/5b88f48db1111fee608b4567)
+
+Como **Zubiri** dice *"los griegos sobre nosotros"*. 
+
+Además de la filosofía, una de las grandes creaciones de Grecia es el teatro. Destaca la tragedia, ya que en la tragedia clásica practicamente se establecieron todos los permisos y prohibiciones de la historia. Las tragedias griegas son perfectamente contemporánea.
+
+En la hermenéutica la filosofía de la tragedia ocupa un lugar destacado. Una noción central de la tragedia griega es la *"hybris"* o desmesura. 
+
+El tema fundamental de **Antígona** es la pregunta de por qué se obedecen las leyes. Hay dos respuesta, la que se funda en el consenso y la que se funda en la naturaleza.
+
+Cada vuelta a Grecia se produce según el modo propio de cada cultura que se vuelve a ella.
+
+El arte tiene una finalidad política, ya que puede llevarnos a cuestionar cómo somos y cómo percibimos el mundo.
+
+El gran tema trágico es el de la **muerte**. 
+
+
 # SEMINARIO PERMANENTE DE HISTORIA DE LA FILOSOFÍA GRIEGA (CURSO 2021/2022) 
 
 ## Clase sobre Heráclito de Éfeso (noviembre 2018)

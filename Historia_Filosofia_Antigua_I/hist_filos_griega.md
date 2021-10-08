@@ -15,6 +15,14 @@ El arte tiene una finalidad política, ya que puede llevarnos a cuestionar cómo
 
 El gran tema trágico es el de la **muerte**. 
 
+# DEMÓCRITO Y EL ATOMISMO ANTIGUO
+
+Vivió entre los años 470 y 360 a. C. Originario de la ciudad de **Hapdera** y discípulo de **Leucipo**. Aunque contemporáneo de Sócrates, se le incluye entre los presocráticos. Es, por tanto, un filósofo de transición, ya que se preocupa por la naturaleza, aunque participa en el giro antropológico.
+
+Fue viajero y se aprecian las influencias de oriente medio. Recupera la matemática, la astronomía. 
+
+Se le conoció como el filósofo risueño, en lo que contrasta con Heráclito. 
+
 
 # SEMINARIO PERMANENTE DE HISTORIA DE LA FILOSOFÍA GRIEGA (CURSO 2021/2022) 
 

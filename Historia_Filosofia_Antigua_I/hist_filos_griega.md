@@ -15,15 +15,6 @@ El arte tiene una finalidad política, ya que puede llevarnos a cuestionar cómo
 
 El gran tema trágico es el de la **muerte**. 
 
-# DEMÓCRITO Y EL ATOMISMO ANTIGUO
-
-Vivió entre los años 470 y 360 a. C. Originario de la ciudad de **Hapdera** y discípulo de **Leucipo**. Aunque contemporáneo de Sócrates, se le incluye entre los presocráticos. Es, por tanto, un filósofo de transición, ya que se preocupa por la naturaleza, aunque participa en el giro antropológico.
-
-Fue viajero y se aprecian las influencias de oriente medio. Recupera la matemática, la astronomía. 
-
-Se le conoció como el filósofo risueño, en lo que contrasta con Heráclito. 
-
-
 # SEMINARIO PERMANENTE DE HISTORIA DE LA FILOSOFÍA GRIEGA (CURSO 2021/2022) 
 
 ## Clase sobre Heráclito de Éfeso (noviembre 2018)
@@ -151,3 +142,26 @@ El ser puede ser de varias maneras:
 - Lo mismo es pensar y ser. Sin embargo, pensar en Pármenides no es lo mismo que para Descartes. En el filósofo pensar es una accion de la conciencia. En Parménides pensar se refiere a los juicios sintéticos del lenguaje; en otras palabras la espiritualidad inmanente del alma.
 - Los hombres deben subordinar el tiempo diacrónico al tiempo sincrónico.
 - Pensar es enlazar las cuatro dimensiones del tiempo: pasado, futuro, presente y espacio. Pensar es una realidad comunitaria y espiritual que define los conceptos sin ser un concepto.
+
+# DEMÓCRITO Y EL ATOMISMO ANTIGUO
+
+Vivió entre los años 470 y 360 a. C. Originario de la ciudad de **Hapdera** y discípulo de **Leucipo**. Aunque contemporáneo de Sócrates, se le incluye entre los presocráticos. Es, por tanto, un filósofo de transición, ya que se preocupa por la naturaleza, aunque participa en el giro antropológico.
+
+Fue viajero y se aprecian las influencias de oriente medio. Recupera la matemática, la astronomía. 
+
+Se le conoció como el filósofo risueño, en lo que contrasta con Heráclito. 
+
+La mayor parte de su obra se ha perdido. Puede que trece tetralogías. La mayor parte de lo que se conserva es sobre el atomismo. Sin embargo, se le conoce muy bien indirectamente por Aristóteles, que cita largos párrafos de Demócrito.
+
+Consideraba que la materia estaba constitido por innumerables átomos, en continuo movimiento en el vacío. Esta ídea la toma de Leucipo. Los átomos son indivisibles y son lo lleno. El vacío es el no-ser. Por lo tanto, la verdadera naturaleza no es lo visible. Todo lo natural tiene una causa necesaria. 
+
+Su pensamiento realmente original es de carácter antropológico y político. 
+
+Aristóteles le hace una serie de críticas:
+1. Traiciona el pluralismo, la riqueza y la complejidad, dando lugar a un mundo muerto, artificioso y pasivo.
+2. El propio concepto vacío.
+3. Es un materialismo abstracto que contradice la experiencia.
+
+El atomismo parece incompatible con la libertad. 
+
+Son asimismo importante sus enseñanzas éticas. Defiende la sabiduría y la mesura. La sabiduría construye la personalidad y ayudar a ser buenos y felices.

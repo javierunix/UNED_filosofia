@@ -96,3 +96,5 @@ No tiene en cuenta la modestia ni la humildad. Mantiene unido a los ciudadanos.
 La ética comunitaria es más importante que la individual. La ley es necesaria para que se cumplan los imperativos éticos **(coacción)**.
 
 ## La ética de las escuelas helenistas. S. IV-III aC. Cínicos, estoicos y Epicuro
+
+

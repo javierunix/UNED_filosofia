@@ -143,6 +143,20 @@ El ser puede ser de varias maneras:
 - Los hombres deben subordinar el tiempo diacrónico al tiempo sincrónico.
 - Pensar es enlazar las cuatro dimensiones del tiempo: pasado, futuro, presente y espacio. Pensar es una realidad comunitaria y espiritual que define los conceptos sin ser un concepto.
 
+# EMPÉDOCLES DE AGRIGENTO 
+
+Nació en torno al 490 a. C., en el seno de una familia aristocrática. Mantuvo un importante compromiso democrático. Agrigento, en la **Magna Grecia** era una próspera *Polis*. También fue un eminente médico y un famoso adivino.
+
+En una época en la que la guerra era un estilo de vida, situa en el centro de la realidad el amor, en su manifiesto.
+
+*El Papiro de Estrasburgo* contiene muchos de los versos de Empédocles. Se conservan fragmentos de dos obras: *Purificaciones* y *Sobre la Naturaleza*. 
+
+Aristóteles dialoga continuamente con Empédocles. Habla de que hay cuatros raíces de todo lo que existe, que son de naturaleza divina: la tierra, el agua, el aire y el fuego. Los elementos se unen y separan, regidos, respectivamente, por el amor y el odio. Es la muerte lo que posibilita nuevas formas de vida. Hay un movimiento de las especies, tanto de las animadas como de las inertes. Lo que percibimos (la vida, la muerte...) es mera apariencia y lo verdaderamente real es eterno.
+
+Propone dejar atras los sacrificios cruentos, sustituyéndolos por néctar e incienso. Las plantas y los animales deben ser tratados como iguales (**isonomía**).
+
+Es uno de los presocráticos por los que existe más interés en la actualidad. Atisba la evolución de las especie. Inspira corrientes ecológicas y el pensamiento *queer*.
+
 # DEMÓCRITO Y EL ATOMISMO ANTIGUO
 
 Vivió entre los años 470 y 360 a. C. Originario de la ciudad de **Hapdera** y discípulo de **Leucipo**. Aunque contemporáneo de Sócrates, se le incluye entre los presocráticos. Es, por tanto, un filósofo de transición, ya que se preocupa por la naturaleza, aunque participa en el giro antropológico.

@@ -97,4 +97,30 @@ La ética comunitaria es más importante que la individual. La ley es necesaria 
 
 ## La ética de las escuelas helenistas. S. IV-III aC. Cínicos, estoicos y Epicuro
 
+### Cínicos
 
+En general es un pensamiento contracultural, provocativo y anárquico. La virtud es suficiente para vivir. Fue un pensamiento poco desarrollado teoréticamente. El objetivo de la virtud es la libertad y la autoarquía. 
+
+Destaca **Diógenes el Cínico**. Pensaba que no debía haber esclavos.
+
+**Antístenes el cínico** promueve el respeto a las mujeres.
+
+### Estoicos
+
+Es una escuela mucho más sistemática, aunque poco homogénea, ya que habia diferentes opiniones. Destacan **Zenón, Epicteto, Séneca y Marco Aurelio**. Defienden la libertad y el conocimiento de las necesidades.
+
+El objetivo de la filosofía es el conocimiento de la ley natural inevitable. Es una filosofía determinista y materialista. No tiene sentido pensar en una vida más allá de la muerte. La muerte forma parte del orden natural de las cosas. El hombre debe resignarse ante la adversidad.
+
+Se busca la **ataraxia**: aceptar lo que no se puede evitar ni depende de nosotros. Hay una **concepción cósmica de la igualdad**. Lo importante es ser y sentirse libres: *"no hay esclavitud más vergonzosa que la voluntaria"* (Epicteto). El pensamiento nos hace libres, ya que no está tan determinado como otros aspectos.
+
+### Epicuro
+
+El individuo y su conciencia son el núcleo de la moral, influyendo en el cristianismos. El epicureísmo es un sistema filosófico, que engloba todos los aspectos de la vida, de manera similar a la religión.
+
+Algunos aspectos a destacar:
+
+- La ciencia y la lógica son importante si ayudan a encontrar la felicidad. Se tiene una visión materialista de la naturaleza. Los dioses son invenciones humanas.
+- La felicidad se centra en el placer o ausencia del dolor.
+- El hombre debe evitarse miedos innecesarios, como la muerte o los dioses.
+- Se busca la idependencia de los deseos y de los demás **(autoarquía)**.
+- La política es un estorbo, ya que cambiar el mundo es una ilusión. Se valora la amistad porque incluye la utilidad. Es una ética austera, individualista pero solidaria. Desprecia las ambiciones y el poder.

@@ -30,6 +30,28 @@ Propone dejar atras los sacrificios cruentos, sustituyéndolos por néctar e inc
 
 Es uno de los presocráticos por los que existe más interés en la actualidad. Atisba la evolución de las especie. Inspira corrientes ecológicas y el pensamiento *queer*.
 
+# PARMÉNIDES DE ELEA
+
+Hijo de una familia de nobles jonios expulsado por los persas. Su pensamiento es fundacional e innovador. Se le puede considerar el padre de la **ontología** y de la **metafísica**, que influyó en Platón, Aristóteles, Hegel y Heidegger. 
+
+Discípulo del poeta Jenófanes, un crítico del antroporfismo de los dioses. 
+
+Se conservan 19 fragmentos y 160 versos de *Sobre la Naturaleza*. De la parte metafísica se ha conservado la mayoría. De la parte fenoménica, apenas se ha conservado nada. Es una *guía docente* que promete el conocimiento de todo sobre el todo. 
+
+El principio indivisible del ser no tiene contrario. 
+
+*Sobre la Opinión* (libro no conservado) intentaría dar cuenta de los fenómenos del mundo físico.
+
+Tradicionalmente se ha hablado de dos vías:
+1. La que conduce a la verdad.
+2. La innombrable, inexistinte. 
+
+Otros autores, en cambio, defienden la existencia de tres vías, añadiendo una que es válida para el mundo físico, pero no lo es para el mundo de los principios.
+
+Otras interpretaciones hablan de la existencia de una única vía: no existe nada de lo que peribimos, existiendo únicamente Dios.
+
+Parménides sienta el principio de identidad y el principio de no-contradicción.
+
 # ANAXÁGORAS DE CLAZÓMENAS
 
 De [este vídeo](https://canal.uned.es/video/5d0b7989a3eeb0f26f8b4568)
@@ -49,7 +71,6 @@ También se interesó por la actividad en la *Polis*. Sugiere que hay un princip
 Se le juzgó por impiedad y se le condenó al exilio.
 
 Su influencia se aprecia principalmente en Aristóteles, especialmente en lo que se refiere a la causa final. También influyó en **Leibniz**. 
-
 
 
 # DEMÓCRITO Y EL ATOMISMO ANTIGUO

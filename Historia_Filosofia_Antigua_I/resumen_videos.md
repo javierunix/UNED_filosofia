@@ -1,4 +1,5 @@
 # LOS GRIEGOS Y NOSOTROS
+
 De [este video](https://canal.uned.es/video/5b88f48db1111fee608b4567)
 
 Como **Zubiri** dice *"los griegos sobre nosotros"*. 
@@ -28,6 +29,28 @@ Aristóteles dialoga continuamente con Empédocles. Habla de que hay cuatros ra�
 Propone dejar atras los sacrificios cruentos, sustituyéndolos por néctar e incienso. Las plantas y los animales deben ser tratados como iguales (**isonomía**).
 
 Es uno de los presocráticos por los que existe más interés en la actualidad. Atisba la evolución de las especie. Inspira corrientes ecológicas y el pensamiento *queer*.
+
+# ANAXÁGORAS DE CLAZÓMENAS
+
+De [este vídeo](https://canal.uned.es/video/5d0b7989a3eeb0f26f8b4568)
+
+Clazómenas era una ciudad Jonia, de la actual Turquía. Huyó a Atenas cuando su ciudad fue conquistada por los Persas. Tuvo una relación muy estrecha con Pericles. 
+
+La escuela de Clazómenas estaba muy influida por la de Mileto. Por lo tanto, hay una clara influencia del materialismo animista. Fue un reputado astrónomo, matemático y físico.
+
+Asimismo estuvo muy influido por Parménides, se embarcó en la búsqueda del principio material de las cosas. Establece la existencia de dos principios:
+1. Un principio material, que contiene todas las posibilidades, que llama **semillas**, aunque es un concepto difícil de entender, y que se ha interpretado de manera divirsas. Los **chremata** (bienes o recursos), aquello necesario para permitir el orden. Es un concepto similar al de los infinitesimales de **Newton** o **Leibniz**.
+2. **Nous**. Principio inteligente que va a determinar todo lo que acontecerá en el mundo material. Es una inteligencia espiritual.
+
+*Las cosas tienen una porción de todo, pero el nous no se mezcla con nada, ya que está separado y es infinito y autónomo, ya que existe por sí mismo*.
+
+También se interesó por la actividad en la *Polis*. Sugiere que hay un principio que regula la actividad colectiva. 
+
+Se le juzgó por impiedad y se le condenó al exilio.
+
+Su influencia se aprecia principalmente en Aristóteles, especialmente en lo que se refiere a la causa final. También influyó en **Leibniz**. 
+
+
 
 # DEMÓCRITO Y EL ATOMISMO ANTIGUO
 

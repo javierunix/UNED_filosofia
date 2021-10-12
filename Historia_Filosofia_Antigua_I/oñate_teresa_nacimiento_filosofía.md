@@ -35,10 +35,19 @@ Todo ello sin olvidar el Sócrates de **Jenofonte**, mucho más *normal* y *tosc
 
 ## La Cuestión de los *Archaí* Ontológicos: El Lugar de los Principios y Leyes del Ser-Pensar. El *Lógos* de la Verdad Puesto en Cuestión. Aristóteles y los Presocráticos
 
+Los últimos escritos de platón de son de marcada tendencia pitagórica. 
+
 La crisis de la Teoría de las Ideas (la de la *méthesis* o participación) se solucionó mediante la vía mitológica de la *mímesis* o imitación. Como consecuencia:
 1. Las realidades sensibles dejaron de ser *naturaleza*, con su orden inmanente, y se convirtieron en arte-factos.
 2. Se apelaba a un dios antromórfico, el *Demiurgo*.
 3. Se retomaban las viejas cosmogonías de Homero y Hesíodo.
 4. El propio tiempo pasaba a ser algo creado (diacronismo.)
 
-Nacía así la **ontoteología**. Los últimos escritos de platón de son de marcada tendencia pitagórica.
+Nacía así la **ontoteología**. 
+
+La tendencia crítica de Aristóteles tenía partidarios en la Academia. No obstante la vía mitológico-pitagórica del *Timeo*, como falsa solución a las aporías de las Ideas, abrió un abismo insalvable entre Aristóteles y el último Platón. Aristóteles buscó inspiración en los primeros filósofos, que culminó en un politeismo racional ontológico de las diferencias vivas, o teología pluralista:
+1. De Anaximandro aprendió que en el ser-pensar los contrarios se daban de manera sincrónica. Al mismo, tiempo los no contrarios podían darse en una simultaneidad plural. Esta fue la base del **Principio de no contradicción ontológico**.
+2. De Parménides aprendió que las divisiones numéricas no dividen el ser pensar ni su experiencia, ya que el *arché* es la univocidad modal del ser absolutamente. Por lo tanto, la verdad ontológica (*alétheia*) no tiene contrario.
+3. De Heráclito aprendió que las acciones plenas auto-expresivas y auto-amentativas pertenecen al ámbito de la intensidad y no de la extensión. Asimismo, la primacía de lo simple y su pluralidad.
+4. Empédocles le dio el punto de partida para entender una causa extática y no-motriz, a partir del deseo de lo amado. Anaxágoras le proporcionó elementos para la elaboración de una teoría del entendimiento (*nous*).
+

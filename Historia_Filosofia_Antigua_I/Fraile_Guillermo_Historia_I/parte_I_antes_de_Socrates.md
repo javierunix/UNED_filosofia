@@ -29,7 +29,7 @@ Como primer principio señala el απειρον, anterior a todas las determinac
 
 Para explicar la formación de las cosas propone un proceso de *separación* o de diferenciación de contrarios. Queda por primera vez definida así la oposición fundamental entre "finito" e "infinito", que va a marcar toda la historia de la Filosofía.
 
-Hay un movimiento eterno que agita el cosmos, siendo la primera sedación ocurrida la de lo caliente y lo frío.
+Hay un movimiento eterno que agita el cosmos, siendo la primera separación ocurrida la de lo caliente y lo frío.
 
 ### Biología
 Del fango primitivo proceden todos los seres debido a la acción del sol.

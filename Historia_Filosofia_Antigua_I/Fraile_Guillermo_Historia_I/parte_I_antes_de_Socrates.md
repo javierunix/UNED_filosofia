@@ -98,3 +98,16 @@ Ejerció una profunda influencia en la filosofía griega:
 - Su forma de atender a la antítesis Uno-Múltiple será tomada por los atomistas.
 - Idea de un cosmos presidido por una ley universal
 - Su ideal ético-filosófico influirá profundamente en Platón.
+
+## La escuela pitagórica
+Entre los siglos VI y V figuran numerosos nombres hasta la destrucción de la escuela de Crotona, en la que se formó Hipócrates.
+
+Hay:
+- Astrónomos, como Cercops y Petrón de Himera.
+- Médicos como Alcmeón de Crotona.
+- Botánicos, como Menestor de Síbaris.
+
+También destacan:
+
+- Filolao de Tarento, maestro de Demócrito.
+- Arquitos de Tarento, gran amigo de Platón.

@@ -45,3 +45,56 @@ Escribió un libro en prosa y, sobre todo, cultivó la Meteorología. En muchos 
 Entiende la Tierra como un disco plano rodeado de agua.
 
 Mileto fue arrasada por los persas en 494, a.C., poco después de su muerte.
+
+# Capítulo II. La Filosofía en la Magna Grecia
+
+En relación con Pitágoras es difícil separar entre lo histórico y lo fantástico. Se sabe que era natural de Samos y que no escribió nada.
+
+## El pitagorismo primitivo
+
+De acuerdo con Zeller, el pitagorismo...
+1. Es obra de distintos hombres y en distintos tiempos.
+2. Es difícil identificar que elementos pertenecen propiamente a Pitágoras.
+
+Se asemeja en muchos aspectos al orfismo. El problema fundamental es el de los uno y lo múltiple.
+
+Como notas originales, se puede señalar:
+1. Haber utilizado el concepto milesio de la "respiración cósmica" para explicar la pluralidad.
+2. Derivar en una concepción matemática de la realidad.
+
+### Física
+- Los números son las esencias de las cosas, en el sentido literal.
+- Dentro del pneuma ilimitado se formó un cosmos esférico y limitado, que es un ser vivo que respira. Al respirar inhala el pneuma y el vacío, que al penetrar en él lo disgregaron.
+- La oposición fundamental es la que hay entre el Uno, que es el Cosmos compacto y la Diada, que son dos Unos separados por el vacío. De aquí provienen los demás números, las figuras geométricas y, en definitiva, todas las cosas. Cada número y cada figura tiene sus virtudes y poderes, y se consagran a los distintos dioses. No obstante, la mística de los números sufrió un rudo golpe, cuando se descubrieron los números irracionales.
+- El vínculo que coordina a los contrarios es la **armonía**, siendo está según algunos especialista la idea fue fundamental del pitagorismo.
+
+### Astrología
+
+El cosmos está constituido por esferas que giran en torno a la Tierra, que es esférica e inmóvil. Todo el universo está regido por una regularidad matemática.
+
+### Antropología
+
+El hombre tiene dos partes: un cuerpo terrestre y un alma celeste. Las almas (que también son números) son partículas desprendidas del pneuma infinito.
+
+Como en el orfismo se cree en la transmigración de las almas.
+
+### Ética
+Es una doctrina con un marcado carácter ético. Se aspira a la pureza para librarse de la reencarnación. La pureza comprende al cuerpo (dieta vegetariana) y al alma (dedicación a la ciencia). La música tiene un papel fundamental en la catarsis.
+
+### Teología
+
+Se entiende lo divino como lo primordial indeterminado, al modo de los milesios. No existe la idea de un Dios único y trascendente. 
+
+### La sociedad pitagórica
+
+Su carácter primero fue ético. Se cultivaba la física, la astronomía, las matemáticas, la medicina y la música.
+
+El secreto de la escuela se guardaba con celo, aunque no se sabe con certeza a qué aspectos afectaba (ciencia, ritos o política)
+
+### Importancia del pitagorismo
+
+Ejerció una profunda influencia en la filosofía griega:
+- El matematismo elevó el estudio de la ciencia.
+- Su forma de atender a la antítesis Uno-Múltiple será tomada por los atomistas.
+- Idea de un cosmos presidido por una ley universal
+- Su ideal ético-filosófico influirá profundamente en Platón.

@@ -111,3 +111,19 @@ También destacan:
 
 - Filolao de Tarento, maestro de Demócrito.
 - Arquitos de Tarento, gran amigo de Platón.
+
+# Capítulo III. Heráclito: monismo dinámico
+
+Es el pensador más eminente entre los presocráticos. Formula de manera vigorosa el problema de la unidad permanente del ser frente a la pluralidad e inestabilidad de las cosas particulares y aspira a resolverlo estableciendo la existencia de una ley universal fija que es el fundamento de la armonía del cosmos por encima de todas las antítesis y contradicciones.
+
+## Epistemología
+
+Establece la distinción entre dos órdenes de conocimiento: el *sensitivo*, que es fuente de la opinión, y el *racional*, que es el único que llega a descubrir la verdad.
+
+No desconfía totalmente de los sentidos, pero cree que su testimonio debe ser corregido por la razón.
+
+## Ontología
+
+De marcado carácter polémico. Por una parte, mantiene la unidad primordial de la Naturaleza, pero acentúa su aspecto dinámico, con un profundo sentido del movimiento, inestabilidad e impermanencia de las cosas particulares: que se hacen y deshacen continuamente regidas por la ley del *Logos*.
+
+## Física

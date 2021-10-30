@@ -246,3 +246,103 @@ Fue un formidable dialéctico. Polemizó principalmente contra pitagorismo infin
 1. Los seres extensos no pueden originarse a partir de puntos inextensos.
 2. El espacio de los seres sólo puede ser algo o nada. Si es algo a su vez necesita de un espacio. Si el espacio es nada, los seres estarían en la nada.
 3. Sería imposible el movimiento, ya que implicaría atravesar un número infinito de puntos en un tiempo limitado.
+
+# Capítulo V- Eclecticismo
+
+## Empédocles
+
+Su vida se rodeó muy pronto de elementos legendarios. Escribió dos poemas, en dialecto jónico, cuya diferencia de estilo y de carácter han dado origen al llamado "enigma de Empédocles".
+
+Se trata de un eclecticismo polémico, en el que intenta hacer unas síntesis de las distintas corrientes de su tiempo.
+
+### El poema "Sobre la Naturaleza"
+
+#### Gnoseología
+
+Confía a la vez en los sentidos y en la razón.
+
+#### Física
+
+Concibe las cuatro raices (o elementos) como eternos e indestructibles. La realidad pasa por un ciclo con dos fases, caracterizadas, respectivamente, por la unidad y la disgregación. El ciclo dura unos 30000 años y se pueden distiguir estas etapas:
+1. Predominio del Amor (Unidad).
+2. Comienzo de la separación.
+3. Triunfo de la Discordia.
+4. Triunfo del Amor.
+
+No hay nacimiento ni muerte, sino solo unión o separación de los elementos.
+
+#### Antropología
+
+El hombre se compone de una mezcla equilibrada de los cuatro elementos. De él procede una escuela médica siciliana. Explica la sensación según el principio de que lo semejante conoce lo semejante. 
+
+Defiende el *hilozoismo universal*. En el hombre se distigue un alma orgánica y mortal de un demonio divino, que es inmortal.
+
+#### Teología
+
+Dios y la Naturaleza son una misma cosa.
+
+### El poema de las "Purificaciones"
+
+- Abundan los elementos del *Orfismo*.
+- Pesimismo. Las almas están lejos de su patria, encerradas en un cuerpo material.
+- Las almas transmigran de un cuerpo a otro, debido a una ley expiatoria. Se condenan los sacrificios sangrientos y el comer animales.
+- Hay un camino purificador, en tres etapas: sabios -> héroes -> dioses (en el que ya se encontraba Empédocles). Las salvación no es universal ni definitiva, pues está sujeta al ciclo de las cosas.
+- El concepto de Dios se ha espiritualizado.
+
+# Capítulo VI. Pluralismo heterogéneo
+
+## Anaxágoras de Clazómenes
+
+Primer filósofo que abrió una escuela en Atenas. Tipo perfecto de sabio jónico: cosmopolita, individualista y apátrida. Se interesaba por la ciencia sin ninguna inquietud moral o religiosa. Pensaba que el fin de la vida humana era la contemplación, mediante la cual se alcanzaba la libertad.
+
+### Física
+
+- Concibe dos principios: uno pasivo (la materia caótica) y uno activo (inteligente y regulador).
+- "Todo está en todo". La materia es divisible infinitamente. Hay tantos elementos (Aristóteles los llama "homeomerías") como especies diferentes.
+- El movimiento de la materia amorfa fue iniciado por el "Nous" (entendimiento), que es infinito, puro y conocedor de todas las cosas. Se dio así origen al cosmos.
+
+### Discípulos
+
+Destacan Diógenes de Apolonia, tal vez el primer filósofo en formular la noción de sustancia.
+
+# Capítulo VII. Pluralismo homogéneo. El atomismo
+
+## Leucipo
+
+Sentó las bases del atomismo.
+
+## Demócrito
+
+Fue un escritor elegante y fecundo. Cronológicamente, no fue un presocrático, ya que fue contemporáneo (y probablemente rival) de Platón. Perefccionó las ideas de su maestro Leucipo, enriqueciéndolas con apliacaciones psicológicas y éticas.
+
+## El atomismo
+
+Es una anticipación genial de las teorías modernas acerca de la constritución de la materia.
+
+### Física
+
+- En el principio existían de manera separada el Ser material lleno (*pleres*). el Gran Vacío o No-ser (*megas kenon*) y el Movimiento eterno.
+- El vacío, impulsado por el movimiento, penetró en el Ser, disgregándolo en infinitos corpúsculos indivisibles (*atomoi*), que tiene extensíón, masa y volumen.
+- La mezcla de átomos y vacío es la causa de las diferentes cualidades.
+- Los cuerpos se construyen por la asociación de átomos y se destruyen por su separación. 
+- El movimiento, choque y agrupación depende de una ley inmanente a la materia, mecánica y ciega, sin finalidad.
+
+### Psicología
+
+- Tambien el alma es material. Está compuesta de átomos muy sutiles y móviles.
+- La sensación y la intelección también son procesos mecánicos. La diferencia entre uno y otro sólo es de grado.
+- En último término las sensaciones se deben a los choques de los átomos.
+
+### Teología
+
+- No hay lugar para un Dios trascendente y personal.
+- Los dioses también están compuestos de átomos.
+
+### Ética y Política
+
+- El criterio ético es el placer, que debe estar regulado por la razón. La única felicidad posible se bsasb en la tranquilidad, la paz interior, el buen humor, la serenidad y el optimismo.
+- En lo político, las leyes son un mal necesario.
+
+## Escuela atomista
+
+Con frecuencia los atomistas derivaron en el escepticismo. El atomismo influyó en Epicuro.

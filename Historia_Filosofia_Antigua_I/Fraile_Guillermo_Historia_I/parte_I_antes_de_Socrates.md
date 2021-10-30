@@ -199,4 +199,50 @@ Predica una vida austera.
 
 ## Parménides
 
+Escribió un poema en hexámeros, del que se conservan numerosos fragmentos de la primera parte y algunos de la segunda. Adopta una actitud polémica, por una parte contra el dualismo de los pitagóricos y por otra conyta el movilismo de Heráclito.
 
+### Carácter general
+
+Lleva a antítesis irreductible la contraposición presocrática entre "Naturaleza" y "cosas" particulares. De manera paralela, distingue entre conocimiento sensitivo, engañoso y fuente únicamente de opinión, y conocimiento racional, que es el único que procura la verdad. La consecuencia es un monismo estático absoluto, que suprime la realidad de los seres particulares y el movimiento.
+
+### El poema sobre la Naturaleza
+
+
+#### El camino de la verdad
+
+Hay tres caminos:
+
+1. El de la *verdad*: el ser es y no puede no ser.
+2. El del *error*: el no-ser es. Es la vía de los pitagóricos
+3. El de la *opinión*: el ser es y no es. Propia de Heráclito.
+
+Parménides toma por guía la sola *razón* y prescinde por completo de los sentidos. De la vía de la verdad se concluye que es imposible la división interna del ser, por lo que no existen ni los seres particulares ni el movimiento. 
+
+El ser es eterno, inmóvil, homogéneo, compacto e indivisible. "Ser y pensar es lo mismo", en el sentido de que lo que no existe no se puede pensar.
+
+
+#### El mundo de la "opinión"
+
+Es una caricatura de la física de sus contemporáneos, con elementos jónicos y pitagóricos.
+
+### El "realismo" de Parménides
+
+En el razonamiento de Parménides se pueden identificar estos errores:
+1. **Abstraccionismo**. Prescinde de todas las modalidades de los seres múltiples.
+2. **Subjetivismo**. Prescinde por completo de los sentidos y se recluye en su inteligencia.
+3. **Idealismo**. Atribuye existencia y realidad ontológicas a su concepto abstracto de ser.
+
+En definitiva se trata de un *realismo idealista* que guarda semejanza con el de Platón, Plotino y algunos filósofos medievales.
+
+Dado lo extravagante de sus conclusiones, no se puede descartar que la primera parte del poema tenga un carácter irónico. En cualquier caso, lanzó al pensamiento un desafío que aún hoy no ha terminado de resolverse.
+
+### Influencia
+
+Puso de manifiest como la pluralidad de los seres no se podía explicar a partir de un único principio. No obstante, su aportación fue más negativa que lo de los pitagóricos.
+
+## Zenón de Elea
+
+Fue un formidable dialéctico. Polemizó principalmente contra pitagorismo infinitesimal, que dividía infinitamente la extensión. Por *reductio ad absurdum* demostró como es imposible un ser múltiple, continuo y móvil a partir de los infinitesimales:
+1. Los seres extensos no pueden originarse a partir de puntos inextensos.
+2. El espacio de los seres sólo puede ser algo o nada. Si es algo a su vez necesita de un espacio. Si el espacio es nada, los seres estarían en la nada.
+3. Sería imposible el movimiento, ya que implicaría atravesar un número infinito de puntos en un tiempo limitado.

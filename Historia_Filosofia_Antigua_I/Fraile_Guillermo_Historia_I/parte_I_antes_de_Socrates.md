@@ -124,6 +124,47 @@ No desconfía totalmente de los sentidos, pero cree que su testimonio debe ser c
 
 ## Ontología
 
-De marcado carácter polémico. Por una parte, mantiene la unidad primordial de la Naturaleza, pero acentúa su aspecto dinámico, con un profundo sentido del movimiento, inestabilidad e impermanencia de las cosas particulares: que se hacen y deshacen continuamente regidas por la ley del *Logos*.
+De marcado carácter polémico. Por una parte, mantiene la unidad primordial de la Naturaleza, pero acentúa su aspecto dinámico, con un profundo sentido del movimiento, inestabilidad e impermanencia de las cosas particulares, que se hacen y deshacen continuamente regidas por la ley del *Logos*.
 
 ## Física
+
+### Las dos vías
+
+La transformación universal sigue dos vías: una descendente (fuego -> aire -> agua -> tierra) y una descendente (en sentido contrario).
+
+### Los contrarios
+
+Hay dos fuerzas cósmicas antagónicas que rigen la génesis y la destrucción periódica de las cosas: la *Discordia* o *Guerra* y la *Concordia* o *Paz*.
+
+### El Logos
+
+Es una razón eterna que rige y gobierna todas las cosas y está presente en todas, haciendo que todo cambie mientras el *Logos* permanece inmutable e inalterable.
+
+### La armonía universal
+
+En último término los contrarios son una misma cosa.
+
+### Relativismo del bien y del mal
+
+### Optimismo universal
+
+"Todas las cosas en la divinidad son bellas, buenas y justas. Son los hombres los que estiman unas justas y otras injustas".
+
+## Astrología y meteorología
+
+De las cosas se desprenden *exhalaciones*, que pueden ser frías o calientes. 
+
+### Palingenesia universal
+
+El cosmos es el resultado de la vía descendente, cuando el fuego se empieza a extinguir. Los ciclo del mundo es de 10800 años.
+
+## Antropología
+
+Los cuerpos provienen de la vía descendente, mientras que las almas de la ascendente. "Las almas más secas son las mejores y más sabias".
+
+En algunos momentos, parece aludir a la inmortalidad del alma.
+
+## Discípulos
+
+Destaca Cratilo, que fue maestro de Platón.  
+

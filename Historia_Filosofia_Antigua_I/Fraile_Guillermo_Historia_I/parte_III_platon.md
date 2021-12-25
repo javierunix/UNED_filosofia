@@ -73,15 +73,92 @@
 ## Método para la Exposición del Platonismo
 
 - El pensamiento de Platón es dinámico, con una estrecha interdependencia de los distintos aspectos. Cada parte hay que entenderla en función delo todo.
+
 - Lo específico de Platón es **la aspiración hacia una realidad absoluta, la cual se concentra en la Teoría de las Ideas, con la que se trata de dar respuesta a los tres grandes problemas: el saber, el ser y el obrar**. 
+
+  
 
 # Capítulo XII. El Camino de la Ciencia
 
+- El concepto platónico de ciencia, escalonada en grados, sigue un desarrollo paralelo al de su concepto de realidad.
+- Hereda de Sócrates el método dialéctico. Sin embargo, marca más bien un retroceso, pues agrava la viejas antítesis Heráclito-Parménides.
+
+## Concepto Platónico de Ciencia
+
+- Atribuye existencia real a los conceptos universales de Sócrates.
+- Hay una correspondencia exacta entre los grados del ser y los grados del conocer:
+  - Sólo el ser es cognoscible.
+  - El no-ser es totalmente incognoscible.
+  - A la mezcla de ser y no-ser le corresponde la **opinión**.
+
+## Tres Grados de Conocimiento
+
+1. Conocimiento sensitivo (física).
+2. Conocimiento racional discursivo (matemática). Versa sobre los números y las cantidades.
+3. Conocimiento racional intuitivo (dialéctica). Sobre los seres que carecen de materia y cantidad.
+   - Una vez se conocen las ideas, la dialéctica debe serguir su labor reduciendo todas las ideas a su último principio (en *La República* aparece la idea de **Bien**).
+   - Los filósofos deben guiar a los demás.
+   - El conocimiento perfecto no se puede alcanzar en esta vida.
 
 
 
+# Capítulo XIII. Los Caminos del Amor y del Ascetismo
+
+## La Filosofía como purificación
+
+- El Amor, la Virtud y el Conocimiento convergen.
+- Para Platón la pura razón es insuficiente.
+- Más que demostrar racionalmente la existencia de un bien superior, se considera ya "percibido" por la reminiscencia. Platón se esforzará por evocarlo, sugerirlo y recordarlo, mediante los procedimientos más dispares.
+- La existencia del Bien es más bien un postulado, una intuición, una aspiración y una adivinazión poética, sentimental y extrarracional.
+- La filosofía adquiere un profundo sentido moral, aspirando al retorno a la felicidad primera del ser humano (*catarsis*).
+- Es necesaria una **ascesis** del cuerpo y de los sentidos. 
+
+## La Filosofía como *meditatio mortis*
+
+- La contemplación directa de las ideas es imposible mientras el alma esté unida al cuerpo.
+
+## La *reminiscencia*
+
+- Está relacionada con la idea pitagórica de la preexistencia de las almas. 
+- El alma no es una *tabula rasa* (al contrario que para Aristóteles).
+- Es la base de la **Dialéctica** y una prueba de la Teoría de las Ideas.
+- Es el despertar del conocimiento que el alma tenía antes de caer en el mundo.
+- También prueba que el alma es inmortal.
 
 
+
+# Capítulo XIV. El ser. El mundo de las Ideas
+
+## Desarrollo del pensamiento platónico
+
+- La Teoría de las Ideas es el eje del platonismo.
+- Aunque formulada de varias maneras, Platón nunca la abandonó
+- Manifiesta todos los problemas del pluralismo de los pitagóricos, el movilismo de Heráclito y el monismo estático de los eléatas. 
+
+## De los *conceptos* socráticos a las Ideas subsistentes
+
+- El Mundo de las Ideas es el reino de lo concreto, definido, medido, fijo y estable.
+- Los primeros indicios aparecen en *Hippias mayor*.
+- En *Menón* se plantea la reminiscencia como una prueba.
+- *Crátilo*: se sugiere la existencia de unas realidades permanentes e inmutables.
+- *Banquete*: se propone la existencia de la **Belleza en sí**.
+- *Fedón*: aumenta el número de las ideas. Se precisan mejor sus caracteres. Se usa habitualmente la palabra *eidos*. Se afirma claramente la existencia de dos mundos. Se esboza la primacía de **el Bien**.
+- *República*: esbozo de jerarquía. Se consolida la primacía del Bien.
+- *Fedro*: se acentúa la diferancia entre el mundo físico y el de las Ideas. La relación entre uno y otro se expresa en términos de *imitación*.
+- *Teeteto*: Sin el mundo de las Ideas la ciencia es imposible. El saber ha de ir más allá de lo sensible.
+- *Parménides*: Crítica implacable de la Teoría. La idea de "participación" es absurda. Tanto la participación como la imitación introducen una pluralidad infinita en las ideas. A pesar de todas, las dificultades se mantiene la convicción de que sin Ideas es imposible la ciencia.
+- *Sofista*: trata de liberarse del inmovilismo de los eléatas. El ser se comunica sin multiplicarse ni dividirse, sin perder su identidad. El ser es idéntico y diverso al mismo tiempo. Se atribuye una función positiva al no-ser. Se define el *Logos* como ser subsistente. La labor de la dialéctica es distinguir las ideas, para posteriormente combinarlas.
+- *Timeo*. Se propone la existencia de un *demiurgo* que modela las cosas sensibles a imagen y semejanza de las Ideas.
+
+## Los números ideales
+
+## Número de Ideas
+
+## Jerarquía de las Ideas
+
+## Relaciones entre el mundo ideal y el sensible
+
+## Interpretaciones
 
 
 

@@ -152,13 +152,78 @@
 
 ## Los números ideales
 
+- Hay un predominio creciente de elementos pitagóricos.
+- Los seres matemáticos serían intermedios entre los seres sensibles y las Ideas.
+- Hay tres clases de números:
+  1. Los números *ideales* (con existencia real). De la misma naturaleza que las Ideas.
+  2. Los números *matemáticos* (conceptos).
+  3. Los números *sensibles*.
+
 ## Número de Ideas
+
+- Nunca se determinó con precisión.
+- Como norma general, se puede hablar de tantas cuantos grupos de individuos pueden designarse con un mismo nombre.
 
 ## Jerarquía de las Ideas
 
+No se puede hablar de un orden fijo y definitivo.
+
+1. Ideas simples y puras: *Belleza*, *Bien*, *Ser* y *Uno*.
+2. Ideas que expresan elementos de una composición: *Mónada-Díada*, *Uno-Múltiple*, *Bien-Mal*, *Igualdad-Desigualdad*.
+3. Ideas compuestas superiores: *Justicia*, *Logos*.
+4. Ideas compuestas inferiores: *Números*, *Figuras Geométricas*, *lo Vivo*...
+5. Especies del mundo físico.
+
 ## Relaciones entre el mundo ideal y el sensible
+
+- Hay un estrecho paralelismo entre ambos.
+- Se recurre a dos coonceptos para expresar la relación: **participación** e **imitación**. En la vejez predomina el segundo.
 
 ## Interpretaciones
 
+- Se han dado interpretaciones muy diversas del pensamiento platónico.
+- En cualquier caso, debe entenderse que existen dos órdenes distintos de seres.
+- Es un pensamiento fruto de una fuerte aspiración hacial el realismo y lo absoluto, que deriva, paradójicamente, el un idealismo, al confundir lógico y ontológico.
 
 
+
+# Capítulo XV. Teología
+
+## Lo "divino"
+
+- Es complicado precisar qué entiende Platón por divino.
+- No hay un Dios personal, trascendente e infinito, sino infinitas personificaciones de lo "divino" (**hilozoismo**).
+- Ser, vivo y divino son equivalentes, ya que todo lo que existe es divino.
+- La Idea divina por antonomasia es el *Bien*.
+
+## Pruebas de la existencia de Dios
+
+- No hay pruebas de la existencia de Dios sino pruebas de la existencia de lo divino.
+- El pensamiento de Platón es profundamente religioso (y cada vez más a lo largo de su vida).
+- Rechaza las cosmovisiones ateas y mecanicistas.
+- Respeta los dioses tradicionales, pero critica duramente los mitos.
+- El fin de la **Dialéctica** es el conocimiento de lo divino, que culmina en la contemplación del **Bien**, tras mucho esfuerzo y dificultades. En cierto modo, esboza el argumento ontológico.
+- El **Amor** permite llegar a la **Belleza**.
+- La existencia del mundo exige la existencia de una causas eficiente divina, pues nada puede empezar sin causa.
+- El orden y la armonía del mundo revelan la existencia de una causa inteligente, rechazando que se pueda deber al azar.
+- El movimiento del mundo físico reclama la existencia de un **Primer Motor**.
+- La vida mortal reclama la existencia de un Viviente Inmortal (**Alma Cósmica**).
+- La sanción moral, tambien requiere de la existencia de un alma inmortal. No obstante, en ningún momento se habla de una intervención directa de las Ideas o de lo divino en los actos humanos.
+
+## Atributos de lo "divino"
+
+- Inmutable, eterno, incorruptible y perfecto.
+
+## El Demiurgo
+
+- Se menciona por primera vez en *La República*.
+- Tal vez sea un concepto más poético que filosófico.
+- Ser divino, pero inferior a las ideas que de alguna manera carga con la "culpa" de haber hecho el mundo
+- No es creador, sino ordenador.
+
+## Valor de la Teología Platónica
+
+- Planteó perfectamente el problema de la necesidad de Dios, dada la existencia de un mundo contingente e imperfecto.
+- La teología de Aristóteles y de los escolásticos está ya prefigurada en Platón.
+- Sin embargo su teología es desvirtuada, dada su vaguedad del concepto de lo divino.
+- Solo falta llegar al propio concepto de Dios.

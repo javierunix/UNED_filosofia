@@ -227,3 +227,89 @@ No se puede hablar de un orden fijo y definitivo.
 - La teología de Aristóteles y de los escolásticos está ya prefigurada en Platón.
 - Sin embargo su teología es desvirtuada, dada su vaguedad del concepto de lo divino.
 - Solo falta llegar al propio concepto de Dios.
+
+
+
+# Capítulo XVI. El mundo sensible. La obra del Demiurgo
+
+## Sentido del *Timeo*
+
+- Es una enciclopedia científica que recoge el saber de su tiempo.
+- Su propósito es sobre todo político.
+- Es la primera parte de una trilogía que Platón no acabó.
+
+## Los elementos de la "creación"
+
+- Podemos distinguir 3 elementos:
+  1. El mundo perfecto de las **Ideas subsistentes**.
+  2. El **Demiurgo**, que es un ser divino inferior a las Ideas.
+  3. La **Materia**
+
+- No se trata de una verdadera creación *ex nihilo*, sino más bien de una ordenación de unos elementos ya existentes, pues son eternos.
+- El resultado son *cosmos* sucesivos que se repiten en ciclos de 10000 años.
+- El concepto de **Espacio** es sumamente confuso. Al igual que el Demiurgo es una realidad intermedia entre las Ideas y la Materia, que sirve como recipiente.
+
+## Física
+
+El Demiurgo ordenó la materia tomando como modelos las Ideas.
+
+### El Alma cósmica
+
+Esta compuesto de tres elementos: lo **idéntico**, lo **diverso** y la **esencia**. En su formación no participa ningún elemento material.
+
+### El Cuerpo del mundo
+
+Se trata de la materia amorfa.
+
+### Las esferas celestes
+
+En las exteriores predomina lo **idéntico**, mientras que en el interior lo **diverso**.
+
+### Las cuatro especies de vivientes
+
+1.  Los **dioses celestes**, formados del elemento fuego.
+2. Las **almas humanas**, que por destino corresponden a la tierra.
+3. Las **aves**, que pertenecen al aire.
+4. Los **peces**, que pertenecen al agua.
+
+### Los elementos
+
+- La Tierra, esférica y con movimiento de rotación, está en el centro del Universo.
+- El elemento tierra no puede transformarse en ningún otro, mientras que los otros tres sí pueden transformarse entre sí.
+
+### Optimismo universal
+
+La obra del Demiurgo es las mejor y más hermosa que era posible hacer.
+
+## Antropología
+
+### Evolución de la Psicología platónica
+
+- Platón es consciente de la dificultad de describir de manera completa y detallada la naturaleza del alma, ya que sólo se perciben sus operaciones.
+- El carácter ético predomina sobre el científico.
+- Se combinan los elementos órficos, pitagóricos y de Píndaro (origen celeste, preexistencia y transmigración), con otros originales (innatismo y reminiscencia).
+- El alma humana es una realidad inmaterial distinta (incluso contrapuesta) al cuerpo.
+  1. En *Fedón* se dice que es inmortal y simple, siendo su operación propia el *pensamiento*. Se admite su eternidad y se tiene un mal conecpto del cuerpo, subrayando la necesidad de un ascetismo.
+  2. En *República* se habla de que el alma tiene tres partes (*racional*, *irascible* y *concupiscible*). El alma está encadenada al cuerpo como castigo. El número de almas permanece constante.
+  3. En *Fedro* se atribuyen al alma las mismas características que a la divinidad (inmaterial, intangible e invisible). Se mueve a sí misma y mueve el cuerpo. La unión alma-cuerpo es accidental.
+  4. En *Timeo* se considera que sólo el alma *racional* (alojada en el cerebro) fue creada directamente por el Demiurgo. El alma *pasional* fue creada por los dioses inferiores y reside en el tórax. El alma *concupsicible* está en el abdomen. La visión del cuerpo es menos pesimista. El alma pertenece a la esfera celeste, a la que por naturaleza tiende a volver.
+
+### La inmortalidad del alma
+
+- Platón siempre estuvo convencido de que el alma humana es inmortal y que existe vida más allá de la muerte.
+- Es una inmortalidad personal, pues el alma conserva sus operaciones individuales.
+- El destino futuro del hombre depende de su conducta durante la vida mundana.
+- La inmortalidad es exclusiva del alma *racional*.
+- *Fedón* (libro donde aborda expresamente la cuestión). Como argumentos se encuentran:
+  - La sucesión cíclica de los contrarios.
+  - La reminiscencia.
+  - La naturaleza simple y afín a las Ideas del alma.
+  - El alma participa en la propia Idea de vida.
+- En *República* se añade un nuevo argumento: los males propios del alma son la injusticia, el desenfreno, la cobardía, etc. Los cuales, aunque la pervierten, no la destruyen.
+- En *Timeo* se modifica el concepto de inmortalidad. Las almas no son simples, sino compuestas. No son eternas ni les corresponde por naturaleza la inmortalidad. Sin embargo, el Demiurgo las dotó de inmortalidad, siendo solo imperecedera el alma superior.
+
+## Escatología y sanciones
+
+- En el platonismo hay un vivísimo sentido de la Justicia.
+- Es una filosofía con un fuerte sentido moral.
+- Platón cree profundamente en la existencia de un mundo ultraterreno, en el que reina la Justicia verdadera, que describe utilizando las tradiciones, si bien acomodándolas a su propósito.

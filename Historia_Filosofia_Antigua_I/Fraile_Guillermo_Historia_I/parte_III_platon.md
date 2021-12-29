@@ -313,3 +313,8 @@ La obra del Demiurgo es las mejor y más hermosa que era posible hacer.
 - En el platonismo hay un vivísimo sentido de la Justicia.
 - Es una filosofía con un fuerte sentido moral.
 - Platón cree profundamente en la existencia de un mundo ultraterreno, en el que reina la Justicia verdadera, que describe utilizando las tradiciones, si bien acomodándolas a su propósito.
+
+
+
+# Capítulo XVII. Ética
+

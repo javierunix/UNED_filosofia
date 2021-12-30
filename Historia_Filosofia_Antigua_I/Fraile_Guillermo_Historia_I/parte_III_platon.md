@@ -318,3 +318,45 @@ La obra del Demiurgo es las mejor y más hermosa que era posible hacer.
 
 # Capítulo XVII. Ética
 
+## El Sumo Bien
+
+- "Todos los hombres aspiran a la felicidad".
+- Platón nunca aceptó la doctrina hedonista como ideal. En *Fedón* la aspiración a la felicidad después de la muerte le hace inclinase por el ascetismo. En *República* propone como ideal el cultivo de la virtud y de la sabiduría.
+
+## La escala de bienes en "Filebo"
+
+- *Fiailebo* no expresa el platonismo completo, sino sólo una respuesta a circunstancias concretas. Ante las actitudes contrapuestas dentro de la Academia, como lo eran el hedonismo de Eudoxo y el ascetismo de Espeusipo, Platón adopta una posición intermedia. 
+- No se condena el placer, pero éste debe someterse a la razón. El placer no puede ser el Sumo Bien, porque es inestable e insuficiente, ya que solo satisface a la parte más baja del ser humano. Tampoco lo puede ser la razón pura, ya que no satisfacería al hombre completo. 
+
+## El Bien en sí y las Ideas
+
+- Solo el Ser Verdadero puede constituir el Bien absoluto, que es el fin de la vida virtuosa y el fundameto de la felicidad.
+- *Dialéctica* y *Virtud* son convergentes.
+- A diferencia de Aristóteles, tiene la convicción de que hay un Bien supremo que es accesible para el hombre, al menos por *contemplación*: "es feliz el que amando el Bien lo hace suyo".
+
+## La Virtud
+
+- "Todo cuanto oro hay encima y debajo de la tierra no es bastante para darlo en cambio por la virtud".
+- Esboza muchas ideas que luego Aristóteles usará para sistematizar las virtudes.
+- Supera el relativismo de los sofistas. La virtud vuelve a ser un reflejo del orden que caracteriza el mundo.
+- Criterios de la virtud:
+  1. La virtud como armonía, ya que unifica los elementos del compuesto humano.
+  2. La virtud como salud del alma.
+  3. La virtud como purificación. Tiene un sentido más ascético en *Fedón* y más amoroso en *Fedro*.
+  4. La virtud como imitación de Dios. En *Leyes* se dice que la vida virtuosa es la más completa expresión de la religiosidad.
+  5. Las Ideas (especialmente la Idea de Bien) como norma de la virtud.
+  6. División de las virtudes:
+     - En *Laques* y *Menón* se plantea el problema de la unidad o multiplicidad de las virtudes sin llegar a ninguna solución.
+     - En *República* se establece una división en especies, aún habiendo una unidad fundamental.
+       - La respuesta varía, de acuerdo con el criterio usado para determinar la naturaleza de la virtud: si este es la armonía la preeminencia pertenece a la *Justicia*. Si el criterio es el fin último, la preeminencia le correspone a la *Sabiduría* o a la *Prudencia*.
+       - Conforme a la composición tripartita del alma, se puede hablar de 4 virtudes:
+         1. **Justicia** (*dikaiosyne*). Comprende todas las demás, pues se refiere a la armonía entre los elementos del hombre.
+         2. **Prudencia** o **Sabiduría** (*phronesis*, *sophía*). Virtud del alma racional, que consiste en "la orientación hacia los bienes divinos".
+         3. **Fortaleza** o **Valor** (*andreía*). Capacidad de sacrificar el bienestar o el placer para cumplir con el deber.
+         4. **Templanza** (*soophrosyne*). Orden, armonía y moderación en las actividades propias de la parte inferior del ser humano.
+     - En sus diálogos se mencionan casi todo los elementos que Aristóteles usará en su sistematización.
+
+
+
+# Capítulo XVIII. Política
+

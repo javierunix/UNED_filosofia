@@ -360,3 +360,109 @@ La obra del Demiurgo es las mejor y más hermosa que era posible hacer.
 
 # Capítulo XVIII. Política
 
+Platón dedica a este tema sus dos diálogos más extenos: *Leyes* y *República*, además de otra obra específica: *Político*.
+
+## Origen de la sociedad
+
+Aristóteles le reprocha que se centre en factores económicos.
+
+## Organización de la sociedad
+
+- Debe tenerse en cuenta que su concepto de la sociedad no va más alla de la Ciudad-Estado griega.
+- En la sociedad brotaría de manera espotánera la división del trabajo y de las funciones.
+- El bien común trasciende y se sobrepone a los bienes particulares.
+- La división del trabajo daría lugar a una división en clases, que en Platón no son cerradas a manera de las castas.
+  1. Al elemento *concupiscible* le corresponde la clase inferior, compuesta por aquellos que se dedican a **trabajos materiales**. Pueden tener bienes y familia propios. 
+  2. Al elemento *fogoso* o *colérico* corresponde la clase de los **guardianes** o **auxiliares**. Su numero no debe exceder el millar. Reciben una educación especial. De ellos, por selección, sale los miembros de la tercera clase.
+  3. Al elemento *racional* se corresponde los **guardianes superiores perfectos** o **gobernantes**. Conocen la *Dialéctica*.
+
+## La Justicia
+
+- Es el tema fundamental de *República*.
+- La justicia en la sociedad y en el individuo es fundamentalmente lo mismo. Se trata de la armonía u orden entre partes diferentes de un mismo todo.
+- Los gobernates han de ser prudentes, los guardianes valientes y todos los ciudadanos templados. Por encima de estas virtudes específicas estaría la justicia, que las comprende y posibilita todas.
+
+## La ley
+
+-  Platón busca un fundamento sólido, estable y universal para la ley.
+- La ley sería un pensamiento razonado que brota de una razón verdadera y recta, que es recogida por el legislador y aceptada por el pueblo.
+- El propósito de la ley es el bien común.
+
+## La educación
+
+### Introducción
+
+- Platón da una importancia de primer orden a la educación.
+- No prescribe una educación específica para la clase inferior.
+- Concibe la educación en dos aspectos:
+  1. **Intelectual**. Despertar las almas mediante la *reminiscencia*.
+  2. **Moral**. Disciplinar las tendencias inferiores mediante el ejercicio de la virtud.
+
+### Planteamiento en *República*
+
+#### Ciclo elemental
+
+- Es común a todos los guardianes.
+- Consiste sobre todo en gimnasia al ritmo de la música. En esta música se excluyen los modos que se consideran afeminados.
+- También hay poesía. Se excluye de ella cualquier enseñanza que atente contra las buenas costumbres.
+- Los niños serían sometidos a pruebas y peligros.
+- Termina a los 17-20 años.
+
+#### Segundo ciclo
+
+- Implica otros 10 años.
+- Hay una selección previa.
+- Incluye: **Aritmética**, **Geometría Plana**, **Estereometría**, **Astronomía** y **Música**.
+
+#### Tercer ciclo
+
+- Tras otra selección.
+- Supone otros cinco años, dedicados al estudio de la **Dialéctica**.
+- Los ciudadanos no podrían gobernar hasta cumplidos los 50 años y lo harían por turnos.
+
+### Otras consideraciones
+
+- Platón concede gran importancia a la función de gobernar. Es la tarea más excelsa y es esencialmente aristocrática.
+- Sólo los filósofos deberían ser gobernantes.
+- En *República* la ciudad se encarga de los niños desde los 6 años. La educación de ambos sexos es idéntica.
+- En *Leyes*, la educación de los 3-6 años es idéntica en niños y niñas. A partir de los 6 los niños se ejercitarían en la música y en gimnasia varonil, mientras que las niñas harían una ginmasia más suave y se prepararían para las tareas domésticas. En ningún caso se habla del estudio de la *Dialéctica*.
+
+## El comunismo de Platón
+
+- No debe equipararse con las utopías del renacimiento, ni mucho menos con el socialismo o el comunismo moderno.
+- Se trata de un reglamento sacrificado que se impone a los guardianes y gobernantes, que no podrían tener bienes ni familia, para que se consagraran al servicio de la ciudad.
+- La gran mayoría de los ciudadanos (agricultores, artesanos, comerciantes...) podrían tener bienes y familia.
+- Hay aspectos eugenésicos, que incluye el matar a los niños débiles o enfermos.
+
+## Formas de gobierno
+
+En *República* los cinco modos de alma corresponden cinco modos de gobierno.
+
+De más perfecto a más degradado (en una especie de proceso de evolución inversa) se distinguen:
+
+1. **Monarquía**
+   -  El mano es ejercido por el mejor o los mejores hombres.
+2. **Timocracia** o **Timoarquía**
+   - Predomina el elemento militar, que oprime a la clase inferior.
+   - Es de inspiración espartana.
+3. **Oligarquía**
+   - Los oligarcas (zánganos con aguijón) dominan mediante el terror a un pueblo que los aborrece.
+4. **Democracia**
+   - Una vez eliminados los oligarcas domina la anarquía.
+5. **Tiranía**
+   - En medio del desorden que impera en la democracia, el demagogo favorito se hace con el poder y suprime por completo la libertad.
+   - Destaca por sus vivísimos rasgos la descripción que Platón hace del alma del tirano.
+
+En *Político*, Platón simplifica las formas de gobierno, reduciéndose a tres: monarquía, aristocracia y democracia.
+
+## Diferencia entre *República* y *Leyes*
+
+- *Leyes* es una obra bastante desordenada en la que están presentes todas las experiencias de Platón.
+- El idealismo anterior se ha atenuado mucho. El poder absoluto de un monarqua ideal se ha sustituido por la dictadura de la ley.
+- Se propone una forma de gobierno mixta, que combina monarquía y democracia. El poder es ejercido por 37 "guardianes de la ley", que son elegidos por voto popular y universal de las cuatro clase de ciudadanos. Se decribe minuciosamente un complejo aparato de funcionarios estatales.
+- La ciudad (dividida en 12 barrios) es principalemente agrícola, con un número de familias que no puede superar 5040. 
+- Las tierras son estatales, pero la explotación sería particular.
+- No habría posesión privada de oro ni plata.  
+- Desaparece el comunismo de mujeres. El matrimonio sería obligatorio y los deberes conyugales deben ser rigurosamente guardados, con severos castigos de las infidelidades.
+- Se acentúa el sentido religioso del Estado, que se integraría dentro del cosmos regido por el Alma del Universo; siendo el ateísmo el delito más grave. 
+

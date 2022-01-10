@@ -62,6 +62,91 @@ Hay tres listas:
 
 # Capítulo XX. La realidad
 
+## Actitud de Aristóteles
+
+Es una respuesta contra...
+
+1. **El monismo de Parménides**. Introduce los conceptos de *potencia* y *acto* y de *per se* y *per accidens*. Es decir "el ente y el uno se dicen de muchas maneras". El ser único y homogéneo no es más que un concepto abstracto de la mente.
+2. **El movilismo de Heráclito**. En el movimiento permanecen las esencias de las cosas.
+3. **El pluralismo idealista de Platón**. Los universales (sustancias segundas) no son entes ontológicos, sino lógicos, que son formados en la mente mediante la abstracción.
+
+## La idea de orden y jerarquía en el sistema de Aristóteles
+
+Considerados numerosos puntos de vista, hay una escala de seres: desde el más ínfimo, que es la materia prima, hasta el supremo, que es Dios. Estos puntos de vista son:
+
+1. Acto y potencia.
+2. Forma y la materia.
+3. Movimiento.
+4. La causa final.
+
+
+
+# Capítulo XXI. La ciencia
+
+## El conocimiento científico
+
+Hay dos órdenes de conocimiento:
+
+1. Sensitivo. Es verdadero, aunque no científico, ya que está sujeto a movimientos y mutaciones.
+2. Intelectivo.
+
+## Propiedades del conocimiento científico
+
+Universal (es decir, fijo, estable, necesario y cierto) sobre las cosas, que llega hasta sus esencias, las expresa en definiciones y las explica por sus causas.
+
+Las sustancias materiales también son objeto de ciencia, pues, aun no siendo necesarias ontológicamente, sí es posible hallar una necesidad lógica (no absoluta, pero si suficiente) de ellas. 
+
+No en todas las ciencias es exigible el mismo grado de necesidad, certeza y exactitud.
+
+## Formación del concepto universal
+
+- Hay un proceso de unificación, estabilización y desmaterialización.
+- Se da gracias a la estrecha colaboración entre las razón y los sentidos.
+- Son necesarios dos etapas previas:
+  1. En el aspecto lógico, la **inducción**.
+  2. En el aspecto psicológico, la **acción iluminadora del entendimiento** sobre los fantasmas de la imaginación.
+- A continuación, ocurririría la abstracción en sentido estricto.
+- Debe representar de manera integra y exacta la esencia de la cosa representada.
+
+### Inducción
+
+Hay una serie de grados. En sentido ascendente:
+
+1. **Sensación**.
+2. **Memoria**.
+3. **Experiencia**.
+4. **Concepto universal**. Ya se entra en el campo *intelectivo*.
+5. **Arte**. Conoce la cosa, el hecho y su causa.
+6. **Ciencia**. Se diferencia del arte en que no tiene por objeto el placer o satisfacer una necesidad.
+
+### Iluminación del entendimiento agente
+
+(Libro III *De anima*)
+
+1. El *sentido común* depura y unifica las sensaciones, que pasan a la *fantasía*.
+2. Sobre las imágenes de la *fantasía* actúa el *entendimiento agente*, que la despoja totalmente de su materialidad y corporalidad, haciendo aparecer la *idea universal*.
+
+Para que los conceptos se usen de manera científica debe participar otra potencia: el *entendimiento pasible* o posible.
+
+## División de las ciencias 
+
+- Se basa en su concepto plural y analógico del ser. El conocer debe ajustarse al ser (al contrario de lo que sucede con Kant).
+- Las ciencias se desarrollan y se diferencian mucho más que con Platón.
+- (Del libro IV de la *Metafísica*). Hay tres clases de ciencias:
+  1. *Teoréticas*. 
+     1. **Física**. Sobre los seres móviles y materiales.
+     2. **Matemáticas**. Sobre los seres inmóviles y materiales.
+     3. **Teología**. Sobre el ser supremo (inmóvil e inmaterial)
+  2. *Prácticas*. 
+  3. Poéticas.
+- Sin embargo, el pensamiento completo del filósofo es mucho más rico y matizado de lo expuesto.
+
+
+
+# Capítulo XXII. Filosofía primera
+
+
+
 
 
 

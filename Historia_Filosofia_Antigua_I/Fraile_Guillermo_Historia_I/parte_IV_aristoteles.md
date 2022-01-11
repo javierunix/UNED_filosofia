@@ -145,9 +145,137 @@ Para que los conceptos se usen de manera científica debe participar otra potenc
 
 # Capítulo XXII. Filosofía primera
 
+## Noción
 
+- Se trata de una agrupación de monografías diversas, por contenido y cronología.
+- Aristóteles nunca empleó la palabra *Metafísica*. De hecho, esta palabra es desconocida en el Occidente latino hasta el siglo XII.
 
+## Objeto
 
+- Es la ciencia que estudia el ser en cuanto ser y las propiedades que el corresponden en cuanto tal.
+- Es la ciencia más general y la previa a todas las demás, que establece las bases firmes sobre la que se asientan todas las ciencias particulares y de la que toman sus nociones fundamentales.
+- Es la ciencia más abstracta.
+- La confusión entre Teología y Filosofía Primera fue el error en el que incurrieron Parménides y Plotino.
 
+## Propiedades del ser
 
+Son propiedades generalísimas que los escolásticos denominaron trascendentales (*Unum, Verum, Bonum, Aliquid*).
 
+## Modos de Ser
+
+Se concibe de acuerdo con cuatro binomios:
+
+1. *Per se-per accidens*
+2. *Verdadero-falso*.
+   - La verdad se identifica con el ser y la falsedad con el no-ser. 
+   - El entendimiento no crea la verdad, sino que la verdad del entendimiento consiste en la ajustarse a lo que las cosas son en sí mismas, siendo las cosas en cuanto son, siempre verdaderas.
+   - La verdad y la falsedad se dan en el juicio, cuando se afirma o niega un predicado de un sujeto.
+3. Acto y potencia
+4. Categorías
+
+## Acto y potencia
+
+- Es un concepto fundamental en Aristóteles, con aplicaciones a toda las partes de la Filosofía.
+
+- Son las primeras determinaciones del ser. 
+
+- No son definibles, ya que no pueden reducirse a otros conceptos anteriores.
+
+- Cabe entender la potencia como una especie de intermedio entre ser y no ser.
+
+- ### El acto 
+
+  - Un ser en acto es aquel que posee existencia actual.
+  - Se insinúa la distinción entre acto *entitativo* (estático) y acto *operativo* (dinámico), que está ordenado a la acción y al movimiento.  
+
+- ### La potencia
+
+  - El paso de la potencia al acto, siempre requiere de la participación de una causa eficiente. 
+  - La potencia de suyo indica imperfección y siempre se ordena al acto.
+  - Potencia siempre supone acto, pero acto no siempre supone potencia.
+
+- ### Relaciones entre potencia y acto
+
+  - El acto es anterior a la potencia, lógica y antológicamente.
+  - El acto es la causa final de la potencia.
+
+- ### Aplicaciones de la teoría del acto y de la potencia
+
+  - 
+
+  - #### Física
+
+    - El movimiento y la pluralidad de los seres.
+
+  - #### Ontología
+
+    - Determina el puesto ocupado por cada uno en la escala de la realidad.
+    - La materia prima sería potencia pura, mientras que Dios sería el acto puro.
+
+  - #### Biología
+
+    - La vida no proviene de la materia, sino de la forma.
+
+  - #### Teología
+
+    - Determina la diferecia entre el ser propio de Dios y el de los demás seres.
+
+## Categorías
+
+- En sentido ontológico se refiere a los individuos realmente existentes. Es decir, son los distintos modos de ser de las sustancias individuales.
+  1. *Sustancias*
+  2. *Accidentes*
+     1. Determinaciones intrínsecas de las sustancias.
+        1. *Cantidad*
+        2. *Cualidad*
+     2. Determinaciones extrínsecas de las sustancias.
+        1. *Relación*
+        2. *Dónde*
+        3. *Cuándo*
+        4. *Situación*
+        5. *Posesión*
+        6. *Acción*
+        7. *Pasión*
+- En sentido lógico son conceptos elaborados por el intelecto. En otras palabras, los diversos modos de predicado
+
+## Sustancias
+
+- A diferencia de los accidentes existe por sí misma.
+- No está en ningún sujeto y puede recibir contrarios.
+- Dos sentidos:
+  - **Lógico** (sustancias segundas): son los conceptos universales.
+  - **Ontológico** (sustancias primeras): son los individuos concretos.
+
+## Accidentes
+
+Son modificaciones adventicias que sobrevienen a las sustancias y no pueden existir por sí mismos.
+
+## Postpredicamentos
+
+- *Oposición*
+- *Prioridad y posterioridad.*
+- *Simultaneidad.*
+- *Mutación.*
+- *Posesión.*
+
+## Las causas 
+
+En Aristóteles el ser es actividad. No hay un estudio sistemático de la causalidad.
+
+#### Características
+
+Son el principio de la explicación científica.
+
+Las causas **dan el ser:** 1º) Se distinguen del efecto. 2º). Son ontológicamente anteriores a los efectos. 3º) El ser del efecto depende de la causa.
+
+#### División
+
+1. *Material*.
+2. *Formal*.
+3. *Eficiente*: se aplica sobre todo al movimiento. En sentido propio es el individuo en acto.
+4. *Final*. Es la primera causa. Es el fin o perfección del ser. Todo movimiento o cambio se hace de cara a un fin. Al rechazar el mecanicismo incurre en un determinismo finalista.
+
+## El primer principio
+
+- Del concepto universálisimo de ser se deriva el principio de no contradicción, que tiene un alcance psicológico, lógico y ontológico. 
+- No se puede demostrar su evidencia y porque toda demostración lo supone necesariamente.

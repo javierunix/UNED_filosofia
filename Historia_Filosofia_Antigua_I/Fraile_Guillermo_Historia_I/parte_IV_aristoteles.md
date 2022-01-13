@@ -279,3 +279,89 @@ Las causas **dan el ser:** 1º) Se distinguen del efecto. 2º). Son ontológicam
 
 - Del concepto universálisimo de ser se deriva el principio de no contradicción, que tiene un alcance psicológico, lógico y ontológico. 
 - No se puede demostrar su evidencia y porque toda demostración lo supone necesariamente.
+
+
+
+# Física
+
+No se trata de una física en el sentido moderno de la palabra, sino de una serie de principios generales.
+
+
+
+## El ente móvil
+
+- Todas las sustancias del Universo son móviles.
+- El movimiento es el paso de la potencia al acto.
+- Los movimientos son teleológicos y su fin es la perfección del ser.
+- Hay que distinguir entre cambios *accidentales* y cambios *sustanciales*.
+
+## El lugar
+
+- Se define como "primer término inmóvil del cuerpo circundante".
+
+- El Universo, que es finito y fuera del cual sólo hay vacío no se encuentra en ningún lugar.
+- Hay dos tipos de movimiento:
+  - El *circular*, propio de los cuerpos celestes.
+  - El *rectilíneo*, que es propio de los elementos terrestres.
+- Los movimientos de los cuerpos hacia sus lugares naturales son acelerados.
+
+## El tiempo
+
+- Se define como "la medida del movimiento según lo anterior y lo posterior".
+- Presupone la existencia de una inteligencia capaz de medir y comparar.
+- Como el movimiento, el tiempo es eterno y continuo.
+
+## Las sustancias del mundo terrestre
+
+#### Los principios
+
+##### La materia. Propiedades
+
+- Es potencia pura (indeterminada, pero infinitamente determinable).
+- Es un sustrato eterno, de donde provienen todas las cosas corpóreas.
+- No existe aislada, ya que debe estar unida a una forma.
+- Por sí misma es incognoscible e imperceptible.
+
+##### La forma
+
+- Se define como el acto primero de todo cuerpo físico.
+- Las cuatro primeras formas son cada uno de los cuatro elementos.
+
+##### El compuesto
+
+- Proviene de la unión de la materia (potencia) y de la forma (acto).
+- Las formas son aplicadas a la materia por la causa eficiente.
+- Ontológicamente, la forma es anterior y superior a la materia.
+- Lo que diferencia a un individuo de otro es la forma, ya que la materia es idéntica en todos los seres.
+- Cada individuo tiene su propia forma.
+
+#### Los elementos
+
+- Es el primer compuesto inmanente de un ser, indivisible en partes especícamente diferentes.
+- No pueden descomponerse, ya que sólo constan de materia y de forma, pero sí pueden transformarse unos en otros.
+
+#### Los mixtos
+
+- Provienen de la unión de los elementos.
+- Cada mixto es una sustancia nueva, con su forma propia.
+
+#### Generación y corrupción
+
+- En todo cambio permanece la materia, y sólo se altera la forma.
+- Actúa la causa eficiente, que cambia los accidentes, hasta que llega un punto en el que el sujeto ya no puede seguir manteniendo la forma que tenía.
+- El cambio de forma es instantáneo, ya que la materia nunca puede estar sin forma. 
+
+#### El individuo sustancial
+
+En todo individuo intervienen las cuatro causas: eficiente, final, material (sobre la que actúa la causa eficiente) y formal.
+
+##### Por parte de la forma
+
+La especie solo tiene un sentido lógico, ya que cada individuo sustancial posee su forma propia y exclusiva.
+
+##### Por parte de la materia
+
+En cada individuo solo interviene una porción de la materia.
+
+
+

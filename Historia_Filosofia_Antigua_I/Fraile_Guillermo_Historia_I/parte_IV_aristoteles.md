@@ -138,7 +138,7 @@ Para que los conceptos se usen de manera científica debe participar otra potenc
      2. **Matemáticas**. Sobre los seres inmóviles y materiales.
      3. **Teología**. Sobre el ser supremo (inmóvil e inmaterial)
   2. *Prácticas*. 
-  3. Poéticas.
+  3. *Poéticas*.
 - Sin embargo, el pensamiento completo del filósofo es mucho más rico y matizado de lo expuesto.
 
 
@@ -362,6 +362,125 @@ La especie solo tiene un sentido lógico, ya que cada individuo sustancial posee
 ##### Por parte de la materia
 
 En cada individuo solo interviene una porción de la materia.
+
+
+
+# Capítulo XXIV
+
+Aristóteles puede ser considerarse el "padre" de la biología. Una gran parte del *Corpus aristotelicum* se dedica al estudio de la biología.
+
+## Noción de vida
+
+- Los seres vivos se caracterizan porque tienen un principi intrínseco de movimiento, que tiende hacia su propio bien o fin.
+
+- Los vivientes no se distinguen de los no-vivientes por la materia, sino por la forma.
+
+- El principio de la vida es el alma, que se define como acto primero de un cuerpo orgánico, que tiene vida en potencia. 
+
+## Grados de vivientes
+
+Cada grado superior incluye los inferiores.
+
+1. **Plantas**. Sólo tienen alma *nutritiva* o *vegetativa*.
+2. **Animales imperfectos**, coon alma *sensitiva*.
+3. **Animales perfectos**. Tienen, además, *fantasía*, *memoria* y *facultad* *locomotora*.
+4. **Ser humano**. Con entendimiento y voluntad.
+
+## Relaciones entre alma y cuerpo
+
+F. NUYGENS ha distinguido tres etapas (ya visto en el capítulo XIX):
+
+1. **Platónica**.
+2. **De transición**
+3. **Entelenquismo**.
+
+## Potencias del alma
+
+El alma es una y su esencia es simple, pero realiza varias funciones y operaciones.
+
+### Vida vegetativa
+
+Sus tres funciones son la nutrición, el crecimiento y la generación.
+
+### Vida sensitiva
+
+#### El conocimiento sensitivo
+
+Debe haber proporción entre el sujeto y el objeto, pues sólo lo semejante conoce lo semejante.
+
+Es pasivo y receptivo, frente a la actividad del objeto conocido.
+
+#### Sentidos y sensibles
+
+Hay sentidos internos y externos:
+
+1. Los externos son: vista, oido, olfato, gusto y tacto. Necesitan la presencia actual inmediata de su objeto.
+2. Los internos son: sentido común, imaginación, estimativa y memoria. No necesitan la presencia actual inmediata de su objeto.
+
+También distingue entre sensibles propios y sensibles comunes:
+
+1. Son percibidos únicamente por uno de los sentidos: color, sonido...
+2. Son comunes la magnitud, la figura, el número, la unidad...
+
+Aristóteles cree en la objetividad de los sentidos.
+
+#### Los sentidos internos
+
+##### El sentido común
+
+En todos los animales. Tiene tres funciones:
+
+1. Percepción de los sensibles comunes.
+2. Reflexiva (conciencia de sí mismo).
+3. Discernir, comparar y coordinar.
+
+##### Imaginación 
+
+Solo en los animales más perfectos. Doble función: conservar las impresiones y reproducirlas en ausencia del objeto.
+
+##### Estimación
+
+Para determinar lo que es conveniente y lo que no.
+
+##### Memoria
+
+##### Apetito
+
+### La vida intelectiva
+
+#### El conocimiento
+
+- El conocimiento es totalmente incorpóreo. El entensimiento no tiene la forma de ninguno de los elementos, ni tampoco es actuado directamente por las formas sustanciales. 
+- En el orden cognoscitivo, el alma del niño es pura potencia.
+
+#### Los dos entendimientos, pasivo y activo
+
+Atribuye al alma capacidades que trascienden completamente lo corpóreo.
+
+Las facultades del alma no son sustancias, sino accidentes. Por lo tanto, no habría que hablar de dos entendimientos diferentes, sino de una única alma realizando dos funciones. No obstante, el laconismo, las ambigüedades y la oscuridad de los textos, no permiten solucionar fácilmente el problema.
+
+En *De anima*, afirma que en el hombre se dan tres principios: cuerpo, alma y entendimiento. Además distingue entre un entendimiento pasivo, que se corrompe junto con el cuerpo y un entendimiento activo, que es separable del cuerpo, incorruptible e inmortal. entendimiento pasivo es capaz de recibir las formas. Está en potencia. No tiene mezcla ni está mezclado al cuerpo. El entendimiento activo produce los inteligibles. Ninguno de los dos entendimientos es forma del cuerpo.
+
+Tradicionalmente ha habido dos interpretaciones:
+
+1. El entendimiento activo esta separado y es subsistente: Zeller, Teofrasto y tradición árabe.
+2. Los entendimientos activo y pasivo son potencias personales del alma (San Alberto y Santo Tómas).
+
+#### La voluntad
+
+Es un apetito correspondiente a la vida intelectiva y estrechamente vinculado a la inteligencia práctica.
+
+En el apetito intelectivo hay una relación de causalidad entre la voluntad y la inteligencia práctica. La voluntad quiere el fin, pero a la inteligencia práctica le corresponde la deliberación acerca de los medios.
+
+Se admite por completo la libertad y la responsabilidad. No obstante, los hábitos la pueden debilitar.
+
+## La inmortalidad
+
+En la *Metafísica* se limita a la parte intelectual de ser humano.
+
+En *Ética a Nicómaco* se dice "podemos desear cosas imposibles, como, por ejemplo, la inmortalidad".
+
+En cualquier caso, no hay fundamento alguno para la interpretación árabe de la inmortalidad impersonal, basada en la subsistencia de un entendimiento activo, común a todos los hombres.
 
 
 

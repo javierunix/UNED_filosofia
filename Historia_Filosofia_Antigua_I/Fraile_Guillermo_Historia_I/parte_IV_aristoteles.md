@@ -484,3 +484,24 @@ En cualquier caso, no hay fundamento alguno para la interpretación árabe de la
 
 
 
+# Capítulo XXV. Astrología
+
+Su principal interés está en la manera en que gradúa las sustancias de acuerdo con su perfección.
+
+## Las sustancias del mundo terrestre
+
+- Adopta las teorías del platónico Eudoxo de Cnido.
+- Por encima del mundo terrestre, que está compuesto por los cuatro elementos, con sustancias móviles y corruptibles, hay un mundo superior.
+- En el Universo, geocéntrico,  hay una serie de esferas animadas, cada una con su propia forma, más perfectas conforme más lejos están de la Tierra. 
+- La última esfera es movida por el Primer Motor.
+
+## El Primer Motor
+
+Es a su vez movido por la atracción que ejerce sobre él el Acto Puro, que está fuera del Universo y que lo mueve como causa final.
+
+El primer motor se mueve de manera circular eternamente.
+
+
+
+
+

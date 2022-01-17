@@ -503,5 +503,56 @@ El primer motor se mueve de manera circular eternamente.
 
 
 
+# Capítulo XXVI. Teología
+
+## La sustancia divina trascendente
+
+- Dios es la sustancia suprema, el Acto Puro, que transciende el Universo.
+- Dios no plantea la existencia de Dios desde la existencia del mundo sino desde la existencia del movimiento. Por la tanto, sus pruebas son de carácter mecánico y no de carácter ontológico. Entre otras cosas porque Aristóteles careció de la noción de creación.
+
+## Pruebas de la existencia de Dios  
+
+1. **El orden del mundo**. Se trata de una prueba típicamente platónica, que aparece en su diálogo *Sobre la Filosofía*.
+2. **Por los grados de perfección de los seres**, de lo que se deduce que debe haber un ser sumamente perfecto.
+3. **Experiencias psicológicas**, tales como los sueños, la adivinación y las experiencias cercanas a la muerte.
+4. **Por el movimiento**. Se trata del argumento típicamente aristotélico. Aparece en la *Física* y en la *Metafísica*, con notables diferencias entre ambas obras, que pueden considerarse complementarias.
+
+## El Primer Motor Inmóvil de la "Física"
+
+- El mundo es eterno (Cap. I y II).
+- Unos seres están en reposo y otros en movimiento (Cap. III).
+- "Todo lo que se mueve es movido por otro" (Cap. IV). Es necesario llegar a una causa primera del movimiento, que mueva todas las cosas.
+- Debe haber un primer motor, que es único, eterno e inmóvil (Cap. V)
+- El primer motor es indivisible e inextenso. Además, dada la jerarquía de las sustancias debe ser inmaterial, inteligente y dotado de voluntad (Cap. X)
+
+Este primer motor no aparece fuera de universo, sino que forma parte de él. Tampoco se le da el calificativo de Dios.
+
+## El Acto Puro de la "Metafísica"
+
+- Hay tres clases de sustancias:
+
+  1. **Terrestres**. Móviles y corruptibles.
+
+  2. **Celestes**. Móviles e incorruptibles.
+
+  3. **Superior**. Inmóvil e incorruptible.
+
+- Dado que lo más no puede proceder de lo menos, el ser no puede proceder del caos. Es necesario que exista una sustancia primera, inmaterial, Acto Puro, que es la causa del movimiento.
+
+- Además tiene estos atributos: eterna, separada de la materia, simple, cerrada a los demás seres, inmutable, y bella, buena y feliz en grado sumo.
+
+  | PRIMER MOTOR DE LA FÍSICA                      | ACTO PURO DE LA METAFÍSICA                                   |
+  | ---------------------------------------------- | ------------------------------------------------------------ |
+  | Inmanente, pues forma parte del Universo.      | Trascendente, ya que se haya más allá del Universo.          |
+  | Mueve de manera mecánica, por contacto físico. | Mueve como causa final, por atracción y amor, al Primer Motor |
+  | Comunica el movimiento al primer móvil.        | Comunica el movimiento al primer motor.                      |
+  | Conoce el Universo y el primer móvil.          | No conoce el Universo y el primer motor.                     |
 
 
+
+## Causalidad de Dios sobre el mundo
+
+- Dios tiene la vida más elevada, siendo pensamiento puro.
+- No conoce nada fuera de sí mismo, ya que esto supondría imperfección.
+- No ha creado el mundo.
+- Se excluye la providencia.

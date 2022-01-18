@@ -556,3 +556,127 @@ Este primer motor no aparece fuera de universo, sino que forma parte de él. Tam
 - No conoce nada fuera de sí mismo, ya que esto supondría imperfección.
 - No ha creado el mundo.
 - Se excluye la providencia.
+
+
+
+# Capítulo XXVII. Ética
+
+## El Ser y el Bien
+
+- Cada sustancia tiene su propio ser y a cada una le corresponde su propio bien.
+- El objeto de la Ética es investigar cuáles son el bien, la perfección y la felicidad que corresponden al hombre.
+- El bien propio del hombre está limitado por su naturaleza, en lo que se adivina un matiz de resignación y de melancolía en Aristóteles.
+
+## El Sumo Bien
+
+- La Ética de Aristóteles es finalista y eudemonista. Toda acción humana se orienta a la consecución de un bien, al cual van unidos el placer y la felicidad.
+- El Bien del hombre no puede ser Dios, ya que es incomunicable y el ser humano no tiene acceso a Él. Sin embargo en su *Ética a Eudemo* se propone el culto y la contemplación de Dios como fin del hombre.
+- Tampoco puede serlo el placer, pues sería una ética de animales o brutos.
+- El Bien del hombre es "vivir conforme a la razón", siendo la vida más dichosa la contemplativa. No obstante, es un ideal al alcance de pocos.
+- Situa las virtudes intelectuales por encima de las morales, ya que el pensamiento es lo más divino del hombre.
+
+
+
+## El Bien y el placer
+
+- El placer no es un bien ni un mal absoluto. Se define como "un acto de una cualidad conforme a la naturaleza".
+- Los placeres del alma son preferíbles a los del cuerpo.
+- El verdadero valor del placer no está en sí mismo sino en la acción que le corresponde y del cual resulta, de lo que se deduce que son posibles placeres abominables.
+- "Los verdaderos placeres son las acciones conforme a la virtud".
+
+## La virtud
+
+- Define la felicidad como cierta acción del alma dirigida por la virtud perfecta.
+- Las pasiones no son en sí mismas moralmente buenas o malas, ya que ni los vicios ni las virtudes son pasiones o potencias, sino hábitos. Los hábitos perfeccionan las potencias en orden a la acción.
+- La virtud es un hábito bueno, que hace bueno al hombre y sus acciones.
+- Los vicios son hábitos malos.
+- Hay muchas virtudes, si bien la vida virtuosa es una.
+
+#### La virtud es un hábito adquirido
+
+- Se logra mediante la constancia. Requiere esfuerzo y tenacidad.
+- Tal vez, por naturaleza, haya personas mejor predispuestas a ellas que otras.
+- Rara vez se da en los jóvenes, y hay que llegar a la madurez para estar seguros de su posesión.
+
+#### La virtud es un hábito voluntario
+
+- No basta con conocer el bien para practicarlo.
+- Implica deliberación y elección.
+- Tampoco cabe llamar virtuoso al que obra bien sin esfuerzo.
+- En un acto voluntario podemos distinguir una serie de etapas:
+  1. Conocimiento del objeto y del fin.
+  2. Voluntad de alcanzarlo.
+  3. Deliberación sobre los medios adecuados.
+  4. Elección.
+  5. Firmeza en la decisión de obrar.
+
+#### Las virtudes se sitúan en un justo medio entre dos extremos viciosos
+
+El valor sería el justo medio entre la cobardía y la temeridad.
+
+#### No basta con conocer especulativamente en qué consiste la virtud, sino que hay que esforzarse por poseerla y practicarla
+
+## Criterio de moralidad
+
+La virtud es un hábito adquirido, voluntario, deliberado, que consiste en el justo medio en relación a nosotros, tal y como lo determinaría el buen juicio de una varón prudente y sensato, juzgando conforme a la recta razón y a la experiencia.
+
+## División de las virtudes
+
+- Virtudes intelectuales (dianoéticas)
+  - Entendimiento teórico o especulativo:
+    - Entendimiento intuitivo.
+    - Ciencia.
+    - Sabiduría.
+  - Entendimiento directivo o práctico:
+    - Prudencia:
+      - Individual.
+      - Económica.
+      - Política.
+    - Virtudes complementarias a la prudencia (discreción, perspicacia y buen consejo).
+- Virtudes morales (éticas)
+  - Parte irracional de alma:
+    - Fortaleza.
+    - Templanza.
+    - Pudor
+  - Relaciones sociales:
+    - Liberalidad.
+    - Magnificencia.
+    - Magnanimidad.
+    - Dulzura.
+    - Veracidad.
+    - Buen humor.
+    - Amabilidad.
+    - Némesis (horror al mal y a la injusticia).
+    - Justicia:
+      - Natural, común a todos los hombres.
+      - Social.
+    - Equidad.
+
+## La justicia
+
+Consiste en:
+
+1. La obediencia a las leyes.
+2. En las relaciones con los demás, considerados como ciudadanos iguales y libres.
+
+En la relación con el primer aspecto, en las leyes:
+
+-  Hay una parte común (derecho natural). Tiene un valor universal
+- Hay una parte local y particular de cada sociedad.
+
+En relación con lo segundo:
+
+- El hombre no sólo debe buscar su bien, sino el de los demás.
+- Las relaciones humanas deben estar presididas por la *igualdad*.
+
+Hay que distinguir entre una justicia:
+
+1. **Distributiva**. De la sociedad con el individuo.
+2. **Correctiva**. Que regula las relaciones entre ciudadanos.
+
+## La equidad
+
+Es un hábito permanente para interpretar y aplicar la ley, determinando lo que es justo **en cada caso en particular**.
+
+"Lo equitativo parece que es justo, pero es equitativo lo justo más allá de la ley escrita".
+

@@ -676,7 +676,109 @@ Hay que distinguir entre una justicia:
 
 ## La equidad
 
-Es un hábito permanente para interpretar y aplicar la ley, determinando lo que es justo **en cada caso en particular**.
+- Es un hábito permanente para interpretar y aplicar la ley, determinando lo que es justo **en cada caso en particular**.
 
-"Lo equitativo parece que es justo, pero es equitativo lo justo más allá de la ley escrita".
+- "Lo equitativo parece que es justo, pero es equitativo lo justo más allá de la ley escrita".
+
+
+
+# Capítulo XXVIII. Política
+
+Para comprender la Política de Aristóteles es necesario tener en cuenta el conjunto de su filosofía.
+
+## La Política en la escala de las ciencias
+
+La *Ética* se subordina a la *Política*.
+
+## El ser en la comunidad política
+
+El hombre no existe como algo aislado de sus semejantes. La comunidad no es algo artificial, sino *natural* en el ser humano: "el hombre por naturaleza es un animal político". Una prueba de la sociabilidad del hombre es el uso de la palabra, y la capacidad de discernir entre justo e injusto.
+
+Se distinguen varios niveles:
+
+1. Familia
+2. Aldea
+3. Ciudad. Es el fin al que tienden las forman anteriores. Le corresponde la prioridad de naturaleza, perfección y dignidad.
+
+## Estructura de la comunidad
+
+La comunidad es un *todo*, que está integrado por partes heterogéneas. Prevalece sobre la familia y los individuos.
+
+## El bien común
+
+- No fue más allá de la polis griega.
+- Los hombres se unen con un propósito que va más allá de la satisfacción de las necesidades materiales.
+- El fin de la polis no es vivir, sino *vivir bien*
+
+## El bien y el fin de la comunidad
+
+- Los regímenes que buscan únicamente el bien de los gobernantes son defectuosos. Solo son rectos los que procuran el bien común.
+- "La justicia consiste en la igualdad entre los iguales y la desigualdad entre los desiguales".
+
+## Interferencia entre el bien individual y el bien común
+
+- No distingue claramente entre bien particular y bien común.
+
+- En algunos pasajes se subordina la ética a la política, y en otros se hace a la inversa.
+
+## Particularismo del bien común
+
+- En su ideal ético, la política se convierte en un medio para que un grupo de privilegiados pueda perfeccionar su vida, dedicándose a la práctica de la virtud y de la contemplación científica, a costa de una especie de esclavitud de la mayoría.
+- De la vida feliz se excluye a las mujeres, extranjeros, esclavos, artesanos, comerciantes. 
+- Sólo los guerreros, los sacerdotes y los magistrados serían verdaderamente libres.
+
+## La ley
+
+- Tienen un fundamento natural, anterior a la costumbre y a las leyes positivas.
+- Aunque las leyes positivas protegen de las injusticias, no tienen la capacidad de hacer buenos y justos a los ciudadanos.
+- Las leyes son más eficaces que los gobernantes, porque no están sujetas a las pasiones.
+
+## Ciudadanos y esclavos
+
+- La ciudad es la asociación de los hombres libres.
+- Vuelve a un concepto arcaico de esclavitud, que ya Platón había dejado atrás, al considerar que hay hombres "a los que por naturaleza les corresponde la esclavitus como cosa buena y justa".
+
+## La guerra
+
+Aunque pueda justificarse en ciertos casos, no puede ser el ideal de ninguna comunidad.
+
+## Comunismo
+
+Es muy crítico con el comunismo de Platón.
+
+## Formas de gobierno
+
+Distingue tres grandes modelos:
+
+1. Monarquía.
+2. Aristocracia.
+3. Democracia.
+
+Se inclina por un regimen intermedio de "hombres libres", en el que prevalezca una clase media.
+
+
+
+# Platonismo y aristotelismo
+
+- Aristóteles es la cima del pensamiento griego. Es el más perfecto entre los filósofos e investigadores, con un saber enciclopédico y una gran curiosidad que extendió a todas las ramas del saber de su tiempo. No obstante, como él mismo confiesa, descuidó un tanto las matemáticas.
+- Platonismo y aristotelismo son dos actitudes muy distintas que han influido muchísimo en la historia del pensamiento. Los intentos de armonizarlos con frecuencia han acabado en confusiones y callejones sin salida, como los del neoplatonismo y la filosofía árabe.
+- Puede concluirse que muchos de los grandes esfuerzos de Platón por solucionar las grandes cuestiones filosóficas fracasaron por la adopción de un método equivocado.
+
+#### Ciencia
+
+- Platón aspira a un saber fijo, estable y cierto. Para ello imagina un mundo de realidades trascendentes, cayendo en un idealismo y un matematicismo exagerado, que tendrá seguidores en Descartes, Leibniz, Malebranche o Spinoza, en el que toda experiencia sensible es despreciada. Con ello se alejó del camino trazado por su maestro Sócrates.
+- Frente al caracter "descendente" del método de Platón, Aristóteles propone un método ascendente, mucho más en la línea de lo sugerido por Sócrates. Reivindica la experiencia sensible como punto de partida de todo conocimiento.
+
+#### Naturaleza del conocimiento
+
+- A la vez que descarta la experiencia sensible, Platón no acaba de confiar en la razón. Es por ello que recurre a la anamnesis y a la dialéctica del amor para justificar el conocimiento.
+- Aristóteles confía en la labor combinada de sentidos y de la razón para alcanzar la verdad. Se preocupó vivamente del estudio del mundo físico, ya que "en cada parcela de la naturaleza siempre hay alguna maravilla".
+
+#### El alma 
+
+La psicología platónica carece de cualquier valor científico.
+
+#### Moral
+
+- La moral platónica es más elevada. No obstante, la de Aristóteles está mucho mejor sistematizada y es más rigurosa, sin ese exceso de sentimentalismo, por la que en términos generales supone un avance indiscutible.
 

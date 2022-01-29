@@ -1,4 +1,4 @@
-# Capítulo I: El ámbito de la moral	
+# Capítulo 1: El ámbito de la moral	
 
 La Ética es una disciplina filosófica que trata de la conducta humana, bajo el punto de vista del bien, del deber o del valor.
 
@@ -91,3 +91,99 @@ De acuerdo con muchos, más que de dos tipos de ética se trata de las difícile
 
 - **Descriptivistas**. Los principios éticos son susceptibles de juicios acerca de su verdad o falsedad. Destacan las éticas **naturalistas**, que sostiene que las condiciones de verdad son similares a las de las ciencias empíricas.
 - **No-descriptivistas.** Los conceptos de verdad o falsedad no son aplicables a los enunciados éticos. Destacan el **emotivismo** (un enunciado ético sólo expresa una emoción en el interlocutor) y el **prescriptivismo**.
+
+
+
+# Capítulo 4. Ética y psicología: psicogénesis de la moral
+
+## 1. Importancia de la Psicología para la Ética
+
+- Según Kant toda moral precisa conocer al hombre. 
+- Aranguren señala que la estructura moral del hombre se enraiza en su constitución psicobiológica, y que la psicología de la moral permiten tender un puente entre la moral vivida y la Ética. 
+
+## 2. Ética y Psicología en la tradición filosófica
+
+- Ya Platón establece un relación entre las partes del alma y las principales virtudes.
+- Con David Hume y la independicización del alma de cualquier presupuesto metafísico se hace posible la psicología experimental (Wundt funda en 1889 el primer laboratorio).
+- Hume opina que la moral no se funda en la razón, sino en el sentimiento. El sentimiento moral es un sentimiento de aprobación o desaprabación ante determinadas acciones o caracteres cuando se consideran sin referencia a nuestro interés particular, siendo la conciencia un desdoblamiento por el que interiorizamos al "espectador desinteresado".
+
+## 3. La Ética y los paradigmas de la Psicología contemporánea
+
+### 3.1 La Gestalt
+
+- Influida por la fenomenología de Husserl. 
+- Considera que el todo es más que la suma de las partes.
+- Las motivaciones y los valores éticos son percepciones psicológicas ante ciertas condiciones de estímulos.
+
+### 3.2 El conductismo
+
+- Nace con J. B. Watson, que opina que la psicología debe limitarse al estudio de la conducta, entendida como respuestas observables a estímulos también observables.
+- La conducta moral se aprendería como cualquier otra, a través de vivir sus consecuencias y mediante la observación de la conducta de otros.
+- Las respuestas éticas tienen su origen en las sanciones del proceso educativo.
+- La conciencia es explicable en términos del reflejo condicionado. Las inhibiciones no proceden del medio a las consecuencias sociales, sino mecanismos internos que no siguen, sino que preceden al delito (Eysenk).
+
+### 3.3 La crítica psicoanalítica de la moral
+
+#### 3.3.1 Inconsciente y represión, Modelos del psiquismo y teorías de las pulsaciones
+
+- De acuerdo con Freud el psiquismo humano es fundamentalmente conflictivo.
+- Se diferencian tres instancias:
+  1. Consciente. Presente en en la consciencia.
+  2. Preconsciente. No presente en la consciencia, pero de fácil acceso.
+  3. Inconsciente. Sólo accesible tras un largo proceso en el que hay que vencer muchas resistencias internas.
+- En la histeria hay una alteración funcional sin que haya lesión orgánica. Es consecuencia de la represión.
+- La represión consisten en no percibir que algo se desea. Proviene de disociar en una determinada pulsión su contenido de su  carga efectiva. Esta energía liberada y sin objeto vuelve transformada, dando lugar a la neurosis.
+- La sexualidad es una pulsión no instintiva, pues carece de un objeto específico, debiendo ser culturalmente moldeada.
+- *El yo y el ello* (1923). Nuevo paradigma tripartito, que no se opone al anterior:
+  1. *Ello*. Polo pulsional
+  2. *Yo*. Agente de la adaptación y de los procesos racionales.
+  3. *Superyó*. Instancia de las normas e ideales morales.
+
+#### 3.3.2 La génesis de las instancias ideales y morales: sublimación, idealización e identificación
+
+- La sublimación cambia el fin del impulso sexual.
+- La idealización no lo cambia sustancialmente, pero la magnifica y da lugar al "yo ideal".
+- En la identificación el niño, que es obligado a renunciar a sus tendencias incestuosas, sólo es capaz de aceptar su pérdida aceptando que es como sus padres.
+- En la transmisión cultural el vínculo más poderoso no es la imitación sino los lazos libidinosos inconscientes.
+- El ideal del yo conecta con las normas en la línea de los sentimientos de culpabilidad. 
+- En el varón la angustia moral proviene del miedo a la castración.
+- El desgraciado *yo* debe mediar entre las pulsiones del *ello*, las exigencias del *superyó* y la realidad indiferente.
+
+#### 3.3.3 Balance de la crítica
+
+1. Crítica genético-funcional y crítica sustantiva: descentramiento y protagonismo de la conciencia moral:
+   - Freud no se pregunta por las razones que justifican los preceptos morales sino por su origen y dinámicas internas. No hay por tanto una teoría del deber-ser, sino una psicología de lo que llega a ser deber.
+   - El momento fundacional (renuncia a la omnipotencia) no anula la moral.
+2. Ambigüedad de los ideales: ¿es el amor al otro simple amor al yo?
+   - Llama la atención sobre la conexión entre el orden pusional y el orden normativo y sobre la ambigüedad de las formaciones morales.
+   - Sin embargo que no sea posible amar al otro sin amar al yo, no implica que el amor propio ya sea amar al otro o que amar al otro sea simplemente amor al yo.
+3. El atolladero de la libertad.
+   - Se ha propuesto sustituir tal antigualla por el de responsabilidad.
+   - El sentimiento de culpa es la increpación de una instancia interior, que se autoobserva y acusa, lo que puede enriquecer la perspectiva psicoanalítica.
+4. Determinismo y libertad
+   - Con frecuencia Freud confunde motivo y causa.
+
+### 3.4 La psicología genético-estructural
+
+#### 3.4.1 Jean Piaget
+
+- Se ocupó del juicio moral en su estudio sobre el desarrollo de la inteligencia.
+- En el desarrollo del niño se distinguen cuatro etapas:
+  1. Sensomotora. Hasta los dos años.
+  2. Preoperatoria o prelógica. Hasta los 7 años.
+  3. Operaciones concretas. Hasta los 11. El niño cuestiona sus percepciones, pero aún tiene poca capacidad de abstracción.
+  4. Operaciones formales.
+-  La inteligencia también opera sobre la esfera de los afectos. Es en el campo moral donde prevalece la relación entre conocimiento y afecto.
+- Los niños ya a los 6 años comprenden la importancia de las reglas, así como conceptos tales como responsabilidad o justicia.
+
+#### 3.4.2 Lawrence Kohlberg
+
+- El ejercicio del juicio moral es un proceso cognitivo que nos permite reflexionar y ordenar nuestros valores.
+- Los valores provienen de la *asunción de roles* (que empieza a los 6 años).
+- Se pueden distinguir tres niveles, con dos estadios cada uno:
+  1. Preconvencional. Las cuestiones se enfocan desde el interés concreto. Es típico de los niños, aunque también hay adolescentes y adulto en este nivel.
+  2. Convencional. El individuo se esfuerza por vivir positivamente el rol asumido. Típico de la mayoría de la población.
+  3. Postconvencional. El individuo va más allá de las normas sociales.
+- Supone que hay una serie de valores universales, aunque las prácticas concretas puedan ser muy variadas.
+- Se ha criticado esta teoría de etnocentrismo, aunque se ha intentado contrastar con estudios longitudinales. 
+- Como curiosidad en Méjico y Turquía nadie superaba el nivel convencional. En EEUU la clase media no llegaba al nivel 6, dándose sólo entre los filósofos.

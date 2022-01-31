@@ -187,3 +187,77 @@ De acuerdo con muchos, más que de dos tipos de ética se trata de las difícile
 - Supone que hay una serie de valores universales, aunque las prácticas concretas puedan ser muy variadas.
 - Se ha criticado esta teoría de etnocentrismo, aunque se ha intentado contrastar con estudios longitudinales. 
 - Como curiosidad en Méjico y Turquía nadie superaba el nivel convencional. En EEUU la clase media no llegaba al nivel 6, dándose sólo entre los filósofos.
+
+# Capítulo VI. Ética y antropología
+
+## 1. Introducción. Entre universalismo y multiculturalismo: usos y abusos de la antropología
+
+- En estos tiempos de globalización y multiculturalismo es un posible una ética universal no imperialista, inspirada en el "universalismo interactivo". Para esta "interpelación cultural" es pertinente la antropología.
+- De acuerdo con el multiculturalismo cada cultura es un sistema autorreferido, de lo cual se sigue un relativismo cultural. Sin embargo, a este enfoque se le puede criticar:
+  1. De hecho, que las culturas no son entes aislados.
+  2. De derecho, que de ello no se sigue que no puedan ser interpeladas por la razón.
+
+## 2. El paso del "es" al "debe", ¿una excepción antropológica?
+
+- Louis Dumont en su *Homo Equalis* concluye que la civilización moderna es radicalmente diferente del resto, porque asigna la primacía a los individuos y no a las relaciones. En una sociedad de iguales el gobierno legítimo requiere de consentimiento.
+- Nuestro mundo desencantado, de religión privada y socialmente horizontal parece carecer de catalizadores que permitan el paso del "es" al "debe".
+- "Nuestra idea de que los deberes humanos no guardan relación con la naturaleza de las cosas es algo aberrante e incomprensible."
+- Hay dos configuraciones morales:
+  1. El valor está en el todo, como en el caso de la sociedad hindú de castas.
+  2. El valor está en el individuo, con lo que se separan ideas y valor.
+- Dumont no explica cómo es posible la innovación moral, ni cómo se pueden universalizar los valores.
+
+## 3. ¿Puede la antropología identificar universales éticos?
+
+### 3.1 La moral de reciprocidad de Marcel Mauss. La prestación social y el *potlatch*
+
+- En *Ensayo sobre el Don* se propone la "moral de la reciprocidad" de tribus maoríes como medio de regeneración de nuestras sociedades. Pero, convertir esta moral en un universal supone problemas.
+- En las sociedades no modernas el comportamiento social, económico y moral son una unidad. En ese sentido el *homo oeconomicus*, motivado por el afan y el lucro sólo se da en las sociedades capitalistas.
+- Se da una prestación total, ya que es todo el clan el que contrata por medio de su jefe. En el *potlatch*:
+  1. El jefe debe dar.
+  2. El otro está obligado a recibir.
+  3. Se debe devolver, compitiendo en generosidad con el primer donante.
+- La obligación material es una obligación entre almas, pues los bienes adquieren alma en el intercambio.
+- Es un intercambio voluntario y forzoso a un tiempo.
+- El orden social coincide con el imperativo categórico de Kant.
+
+### 3.2. Reciprocidad, honor y reconocimiento 
+
+- El *potlatch* es "un comercio noble, lleno de etiqueta y de generosidad".
+- Es la invitación-competición la que permite al jefe convalidar o mejorar su rango.
+- El  no recibir se entiende como tener miedo de no poder devolver. Quien obra así queda para siempre desacreditado.
+
+### 3.3 El *Ensayo sobre el Don* como proyecto ético de reforma social
+
+- Podemos deducir una serie de principios de la "moral de le reciprocidad", que puede ayudar a resolver nuestra crisis social y económica.
+- Mauss asume tesis del estado del bienestar, desde sus convicciones éticas y antropológicas.
+- Debemos complementar nuestras políticas con elementos que las hagan más morales, sociales y en definitiva humanas.
+- "Toda moral se basa en el profundo reconocimiento de uno mismo y de los demás".
+
+## 4. Interpretaciones y debates en torno a "la moral de la reciprocidad" de Marcel Mauss
+
+### 4.1 La reciprocidad como derivación de la naturaleza del orden simbólico
+
+- Interpretación debida a Claude Lévi-Strauss. 
+- La reciprocidad pasa ser una relación humana con exigencia de simetría a una estructura de pensamiento simbólico. El sujeto no habla, sino que es hablado.
+
+### 4.2 La reciprocidad como reconocimiento entre libertades
+
+- El don es a la vez gratuito y obligatorio. La noción sartreana de "juramento" podría explicar esta ambivalencia.
+- El juramento es una estructura práctico-formal que consiste en que la relación binaria A-B está mediada por C.
+- Se denomina de "Fraternidad-Terror".
+- No es inconsciente, como supone Levi-Strauss, ya que las prácticas juramentadas requieren ser actualizadas de manera consciente. 
+- En un mundo de escasez y alienación el "potlatch" es ambivalente, pues junto con amistad supone enemistad, es generosidad al tiempo que servidumbre y don y deuda a la vez.
+
+### 4.3 La reciprocidad bajo la hermenéutica de la sospecha
+
+- Susana Narotzky y Paz Moreno le aplican el concepto de reciprocidad negativa.
+- Las relaciones recíprocas no tienen porqué ser justas. Puede darse el caso de que una de las partes no reciba nada.
+- Podemos distinguir tres tipos, según la distancia social presente, de acuerdo con M. Sahlins:
+  1. Reciprocidad equilibrada.
+  2. Reciprocidad positiva. 
+  3. Reciprocidad negativa.
+- "Para tener algo hay que haberlo producido (...) La redistribución ostentosa oculta la forma en qué se han obtenido los bienes, que no es sino a través de la posesión o del esfuerzo de los más débiles" (Bourdieu).
+- La justicia sólo es posible si hay una reflexión crítica sobre qué significa "dar a cada uno lo suyo".
+- Disienten con Sahlins en que el punto crítico no es la distancia social, sino la distancia moral.
+- Situaciones extremas como las dadas en los campos de concentración, deben ayudar a redefinir y ampliar las tres obligaciones de *potlatch* de Mauss.

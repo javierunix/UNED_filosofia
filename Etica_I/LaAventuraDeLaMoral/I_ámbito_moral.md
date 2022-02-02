@@ -140,9 +140,66 @@ De acuerdo con muchos, más que de dos tipos de ética se trata de las difícile
 - "La virtud es un modo de ser selectivo, siendo un término medio relativo a nosotros, determinado por la razón y por aquello por lo que decidiría el hombre prudente".
 - Se trata de un ética trágica, pues no hay garantías ni respuestas prefabricadas.
 
-## 3.3. La justicia y la amistad
+### 3.3. La justicia y la amistad
+
+- Aunque desde el punto de vista intelectual, la primacía corresponde a la prudencia, desde el punto de vista de la voluntad corresponde a la justicia.
+- En la justicia están incluidas todas las demás virtudes.
+- La justicia iguala lo desigual. Sin embargo, en Aristóteles esta igualdad está muy lejos de ser universal.
+- Lo más original en su pensamiento es la vinculación que hay entre justicia y amistad.
+- "La amistad es una virtud o algo acompañado de una virtud, y además, es la más necesario en la vida".
+- Al ser el hombre un ser en relación con otros, la amistad llegará a superar incluso a la propia justicia.
+- Aristóteles se refiere a la amistad completa, que es la que está motivada por el bien.
+
+### 3.4. De la ética a la política
+
+- La felicidad que hay que buscar no es tanto la del individuo como la de la comunidad. 
+- De entrada, ética y política convergen.
+- Dado que uno de los defectos típicos de las democracias liberales es la excesiva atomización de los individuos, ciertas corrientes contemporáneas como el comunitarismo o el republicanismo toman elementos aristotélicos.
+- La distancia entre teoría y práctica es un constante obsesión en el filósofo. Para ello recurre al debilidad de la voluntad. También concluye que con frecuencia hay que hacer uso de la coacción.
+
+## 4. Lá ética en las escuelas helenísticas
+
+1. Cínicos:
+   - Desarrollan un pensamiento contracultural. 
+   - Diógenes el Cínico desprecia cualquie convención social y defiende la igualdad de los esclavos.
+   - La libertad se basa en la naturaleza.
+   - El fin de la vida moral es la autoarquía.
+2. Estoicos:
+   - Las leyes del cosmos rigen tanto la naturaleza como la conducta humana.
+   - El sabio ha de cooperar con el cosmos, aceptando lo necesario.
+   - Se predica la *ataraxia* como forma de vida.
+   - Ideas como la de la inmortalidad son absurdas.
+   - Todos los hombres son iguales.
+3. Epicureismo:
+   - El individuo y su conciencia son el núcleo de la moral.
+   - Se trata más de un estilo de vida que de una filosofía al uso.
+   - Ideas fundamentales:
+     1. El conocimiento tiene sentido en tanto en cuanto sean útiles y eficaces para ser feliz. No hay una diferencia esencial entre conocimiento y sensación. La física es materialista.
+     2. La felicidad consiste en el placer, que no es otra cosa que la ausencia de dolor. El placer que hay que buscar es la *apathéia* o serenidad de ánimo. 
+     3. Conseguir la independencia respecto a los deseos y a los demás hombres. La política se basa en la ambición y es ilusorio pensar que se pueda cambiar el mundo a mejor. Lo único que merece la pena es la amistad.
+   - Pese a su hedonismo es una ética austera; solidaria a pesar que individualista. Parte del lema: "Vive en lo oculto".
 
   
+
+# Capítulo 3. Del Renacimiento a la Ilustración: Kant y la ética de la modernidad
+
+## 1. La ambigua modernidad
+
+- El libro que mejor ilustra el humanismo es *Discurso sobre la dignidad del hombre* de Pico della Mirandola. 
+- Lo específico moderno del humanismo es su orientación a la reflexión moral del hombre en tanto que microcosmos.
+- El hombre, al ser libre, tiene una naturaleza de alguna forma indeterminada.
+- La ambigüedad de la modernidad, entre su potencial civilizatorio y su capacidad de explotación se ilustra en los paradigmas de Maquiavelo y Moro.
+- La tensión entre ética y política es constante.
+
+## 2. Kant y la Ilustración
+
+- Immanuel Kant vivió entre 1724 y 1804, en la antigua ciudad prusiano-oriental de Königsberg, hoy Kalingrado (Rusia). Procenddente de una familia modesta y profundamente cristiana. Tenía un espírito cosmopolita y era famoso por la extensión y profundidad de sus conocimientos. Sus alumno destacan de él el recibir la consigna de pensar por uno mismo.
+- Se aprecian tres influencias:
+  1. Tradición metafísica racionalista de inspiración lejanamente leibniziana.
+  2. Empirismo antimetafísco de Hume.
+  3. Radicalismo político de Rousseau.
+
+
 
 # Capítulo 4. Ética y psicología: psicogénesis de la moral
 
@@ -238,7 +295,7 @@ De acuerdo con muchos, más que de dos tipos de ética se trata de las difícile
 - Se ha criticado esta teoría de etnocentrismo, aunque se ha intentado contrastar con estudios longitudinales. 
 - Como curiosidad en Méjico y Turquía nadie superaba el nivel convencional. En EEUU la clase media no llegaba al nivel 6, dándose sólo entre los filósofos.
 
-# Capítulo VI. Ética y antropología
+# Capítulo 6. Ética y antropología
 
 ## 1. Introducción. Entre universalismo y multiculturalismo: usos y abusos de la antropología
 

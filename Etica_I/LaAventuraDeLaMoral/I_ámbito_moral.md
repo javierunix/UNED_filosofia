@@ -94,6 +94,56 @@ De acuerdo con muchos, más que de dos tipos de ética se trata de las difícile
 
 
 
+# Capítulo 2. La Ética griega: Aristóteles
+
+## 1. En busca de la excelencia
+
+- El objetivo del pensamiento moral no es otro que la excelencia de las personas.
+- "Virtud", es término con el traducimos el griego *areté*, que significa la excelencia en una cosa. Se trata de un término que designa o remite al fin o función de una cosa.
+- El fin al que tiende cada cosa es el "bien".
+- Por la tanto, la Ética, así planteada supone dos cosas:
+  1. Que la naturaleza humana tiene un fin determinado que hay que realizar.
+  2. Que la realización de dicho fin depende de uno mismo.
+- La virtud, por tanto puede y debe adquirirse.
+- En los poemas homéricos los buenos o mejores son los héroes, ya que la guerra es el espacio natural del hombre. La vida interior no cuenta, por lo que se trata de una moral de la vergüenza, en el que el aprecio de la sociedad es fundamental como indicador del valor moral.
+- Con el comienzo de la reflexión filosóficas surgen las dudas y el relativismo. Lo que es no es lo que debería ser.
+
+## 2. Los sofistas. Sócrates y Platón: la virtud es conocimiento
+
+- La duda alcanza su cénit con los sofistas. No existe una esencia de la justicia ni de la virtud: la única esencia de la que dependen es de la necesidad de convivencia humana.
+- Platón señala el contraste entre la concepción esencialista del bien y de la virtud de Sócrates y la convencional de los sofistas.
+- Sócrates aplica la mayéutica para que cada cual encuentre en sí mismo el bien del alma.
+- Platón cree que sólo los filósofos deberían gobernar. Es una moral elitista y aristocrática. 
+- En Platón ética y política son complementaria.
+
+## 3. Aristóteles: la ética de la felicidad
+
+- Con Aristóteles nace la filosofía moral occidental. 
+- Dedica a la Ética tres libros:
+  1. Ética a Nicómaco
+  2. Ética a Eudemio
+  3. Magna Moralia
+
+### 3.1. La virtud y la felicidad
+
+- La misión del filósofo es ir más allá de las subjetividades y determinar dondé debe hallarse la felicidad y por qué.
+- El hombre es un animal con logos. Por la tanto, la vida virtuosa consiste en desarrollar la capacidad racional que radica en el alma y establece la regla del comportamiento.
+- El discernimiento no es estrictamente intelectual. La virtud no es (sólo) conocimiento. Aprendemos a ser buenas personas en la práctica, enfretándonos a situaciones difíciles y procurando elegir de manera correcta. Esta decisión no es la misma siempre ni para todos.
+
+### 3.2. La virtud y el término medio
+
+- En la mentalidad griega las cosas se pueden pervertir, tanto por exceso como por defecto.
+- Las virtudes cardinales son prudencia, justicia, fortaleza y templanza. Todas, excepto la justicia, suponen un término medio entre dos extremos.
+- Las virtudes se clasifican en éticas y dianoéticas:
+  - Son éticas las que dependen principalmente de las costumbres y los hábitos. El virtuoso no es lo es por actos aislados, sino por el conjunto de su vida. La virtud consiste en adquirir buenos hábitos.
+  - La prudencia (*phrónesis*), en cambio se adquiere por enseñanza. El prudente es que sabe juzgar rectamente, toma la decisión justa y aprovecha el momento oportuno, haciendo lo que conviene. Es la síntesis de todas las virtudes, pues consiste en la "regla" que manda buscar el término medio.
+- "La virtud es un modo de ser selectivo, siendo un término medio relativo a nosotros, determinado por la razón y por aquello por lo que decidiría el hombre prudente".
+- Se trata de un ética trágica, pues no hay garantías ni respuestas prefabricadas.
+
+## 3.3. La justicia y la amistad
+
+  
+
 # Capítulo 4. Ética y psicología: psicogénesis de la moral
 
 ## 1. Importancia de la Psicología para la Ética

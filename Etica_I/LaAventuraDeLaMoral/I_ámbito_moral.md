@@ -198,8 +198,83 @@ De acuerdo con muchos, más que de dos tipos de ética se trata de las difícile
   1. Tradición metafísica racionalista de inspiración lejanamente leibniziana.
   2. Empirismo antimetafísco de Hume.
   3. Radicalismo político de Rousseau.
+- La influencia de Hume hay que matizarla, pues frente a la idea empirista de que no hay nada en el entendimiento que no haya estado previamente en los sentidos, Leibniz hubiera respondido que ciertamente no, a excepción del propio entendimiento.  De esta manera, al tiempo que elude el dogmatismo del racionalismo también evita el escepticismo del empirismo.
+- Con Kant, el hombre, en cuanto sujeto del conocimiento vuelve a estar en el centro del universo, pues oficia la condición de posibilidad de los objetos o hechos en tanto que conocidos.
+- De Rousseau toma "el sentido de la humanidad", que se traduce en la autonomía moral, pues es el hombre el que debe imponerse a sí mismo la ley moral.
+- Kant entiende que la esencia de la Ilustración consisten en pensar por uno mismo.
 
+## 3. El lugar de la ética en la filosofía kantiana
 
+- José Luis Aranguren considera a Kant el filósofo por antonomasia de la Ilustración. Asimismo, no dejaba de contemplar con reticencia la "ola de neokantismo que nos invade".
+- Nada hay menos kantiano que leer *escolásticamente* a Kant. 
+- De Kant pensaba que *no se aprende filosofía*, sino que se *aprende a filosofar*.
+- Cualquier vuelta al pasado también es una traición al espírito de la filosofía kantiana, que fue pionera en su introducción de una "dimensión de futuro".
+- Más decisivo que las respuestas que Kant ofreció lo son los *problemas* que planteó.
+
+### 3.1 ¿Qué puedo saber?
+
+- A este cuestión dedica *Crítica de la razón pura*.
+- Responde a la pregunta diseñando la *estructura del sujeto cognoscente* de acuerdo con los presupuestos del trascendentalismo. Es un sujeto cuya sensibilidad se halla configurada espacio-temporalmente y cuyo entendimiento se ajusta a principios como el de causalidad.
+- Cualquier suceso que conozcamos se dará en el espacio-tiempo y puede ser concebido como el efecto de una causa.
+- Se trata de un esquema rígidamente determinista, de acuerdo con la mecánica clásica.
+- Cuando la razón pura va más allá de sus posibilidades aparecen dificultades insalvables, como las que pueblan la historia de la metafísica.
+- Sin embargo, el mundo de la ética es un mundo de motivos y no de causas. 
+- Aparece la *antinomia de la causalidad y la libertad*. Como seres naturales y sociales estamos sometidos a causas de un tipo u otro. Sin embargo, como seres racionales, somos libres. La libertad nos lleva más allá del *ser*, para entrar en el mundo del *deber*.
+
+### 3.2 ¿Qué debo hacer?
+
+- Le dedica tres libros: *Fundamentación de la metafísica de las costumbres*, *Crítica de la razón práctica* y la *Metafísica de la costumbres*.
+
+- Con esta cuestión entramos en el orden de la *moralidad*.
+
+  > --  <cite> Sólo un ser racional posee la capacidad de obrar según la representación de las leyes o con arreglo a principios del obrar, esto es, posee voluntad (...) (L)a voluntad no es otra cosa que razón práctica. (...) (S)i la razón no determina  determina por si sola suficientemente la voluntad y esta  se ve sometida además a condicione subjetivas que no siempre coinciden  con las objetivas, en una palabra, si la voluntad no es de suyo plenamente conforme con la razón, entonces las razones que son objetivamente reconocidas como necesarias serán subjetivamente contingentes y la determinación de una voluntad semejante con arreglo a leyes objetiva supone un apremio (...) La representación de un principio objetivo, en tanto que resulta apremiante para la voluntad, se llama mandato (de la razón) y la formula del mismo se denomina imperativo (...)</cite>
+
+- El imperativo moral a de ser categórico (no hipotético) y autónomo (la ley de Dios sería heterónoma).
+
+- La ética de Kant no es una ética del bien o de la felicidad pues se sitúa por encima de estas. 
+
+- Tampoco es una ética de las consecuencias, pues supondría instrumentalizarla. Se basa en "la recta intención".
+
+- Kant presenta varias formulaciones:
+
+  1. "Obra de tal modo que la máxima de tu voluntad siempre pueda valer al mismo tiempo como principio de legislación universal". 
+     - Esta forma hace difícil casar universalismo y autonomía. Sólo es posible si se apela al sujeto trascendental ese Hombre con mayúscula, idealizado, que encarna la razón.
+     - Jurgen Habermas ha apelado a la "ética del diálogo", para armonizar ambos elementos.
+     - Además se ha acusado de formalismo.
+  2. "Obra de tal modo que tomes a la humanidad, tanto en tu persona como en la de cualquier otro, siempre como un fin al mismo tiempo y nunca como un medio" *(Fundamentación metafísica de las costumbres)*.
+
+- Al contrario del tópico, Kant no se olvida de la felicidad ni del fin de la acción humana. El deber del hombre es procurar la perfección propia y la felicidad ajena. "La moral no debe convertitse en una teoría de cómo ser felices, sino de cómo hacernos dignos de serlo".
+
+### 3.3 ¿Qué me es dado esperar?
+
+- El esfuerzo moral del hombre no puede ser en vano, de lo que surgen los dos postulados de la razón práctica: la existencia de Dios y la inmortalidad del alma. 
+- La existencia de Dios pasa de ser la garantía de la ética a la ser ética la garantía de la existencia de Dios.
+- Kant admite la posibilidad de un sumo bien derivado que permita a los hombres ser felices en esta vida. Lo denomina el **el reino de los fines** y se puede identificar con la asociación de seres racionales bajo leyes comunitarias. 
+- Kant admite que tal reino de los fines no pasa de ser un ideal. No obstante, de manera práctica expreso su preferencia por una constitución civil republicana que diera lugar a un Estado liberal de Derecho.
+- Aunque nunca aprobó la revolución como método, se solidarizó con los movimientos revolucionarios de su tiempo.
+- Intuyó en la disposición moral un indicio hacia el progreso de la humanidad.
+- La condición del hombre, su "sociabilidad insociable" hace que casi nunca se de el progreso sin conflicto.
+
+## 4. Nuestro presente y Kant
+
+- A diferencia de Hegel y Marx, Kant nunca creyó que la historia dependiera de leyes inmutables, sino solo de las que de manera contingente se otorgan a si mismos los seres humanos. 
+- Siempre es posible imaginar un mundo mejor del que nos ha tocado vivir.
+- En cualquier caso el protagonista moral siempre es el individuo.
+- Los imperativos de Kant se pueden traducir en un imperativo de la disidencia.
+- Focault oye en él una llamada a concentrarse en el presente.
+
+## 5. ¿Qué es el hombre?
+
+- Vivimos en la postmodernidad, que también puede entenderse como postilustración.
+- La ilustración se caracterizaba por la confianza absoluta el la capacidad de la razón humana para hacer del mundo un lugar más justo y bueno.
+- Recordando el grabado de Goya, parece que el sueño de la razón con frecuencia engendra monstruos.
+- Kant fue un pionero en advertir que la razón no tiene solo luces, sino también sombras.
+
+> -- <cite>Dos cosas colman el ánimo con una admiración y una veneración siempre renovadas y crecientes, cuanto más frecuente y sostenidamente reflexionamos sobre ellas: el cielo estrellado sobre mí y la ley moral dentro de mí. [...] El primer espectáculo de un sinfín de mundos aniquila, por decirlo asó, mi importancia en cuanto criatura animal que ha de reintegrar  al planeta (un simple punto en el cosmos) esa materia que durante un breve  lapso (no se sabe bien cómo) fue dotada con energía vital. En cambiom el segundo espectáculo eleve infinitamente mi valor en cuanto inteligencia gracias a mi condición de personam en la que la ley moral me revela una vida independiente de la animalidad e incluso del mundo sensible en su conjunto. </cite>
+
+> -- <cite> La moral tomó origen en el más noble atributo de la naturaleza humana, cuyo desarrollo y cultivo hacían vislumbrar un provecho inexhaustible, y terminó en el fanatismo o la superstición. </cite> 
+
+- Hoy debemos aprender tanto de la teoría de Kant sobre el mal radical, como de su creencia en la progresión indefinida de la racionalidad.
 
 # Capítulo 4. Ética y psicología: psicogénesis de la moral
 

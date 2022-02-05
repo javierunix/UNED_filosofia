@@ -370,6 +370,72 @@ De acuerdo con muchos, más que de dos tipos de ética se trata de las difícile
 - Se ha criticado esta teoría de etnocentrismo, aunque se ha intentado contrastar con estudios longitudinales. 
 - Como curiosidad en Méjico y Turquía nadie superaba el nivel convencional. En EEUU la clase media no llegaba al nivel 6, dándose sólo entre los filósofos.
 
+# Capítulo 5. Ética y sociología: sociogénesis de la moral
+
+## 1. El estudio sociológico de la moral
+
+Podemos distinguir cinco corrientes principales:
+
+1. Darwin y las ideas evolucionistas:
+   - Muy influyentes en los estudios sociales y culturales del XIX. 
+   - El representante más destacado es Spencer.
+   - La sociedad industrial se convierte en la cima de la evolución social y su ética en la ética definitiva.
+2. Estudios históricos y comparativos de la escuela alemana:
+   - Destacan Wilhem Wundt y Georg Simmel.
+   - También señalar el ensayo de Weber *Ensayos de sociología de la religión*.
+3. Emilio Durkheim y la escuela francesa:
+   - Establece que la evolución social depende del tipo de normas morales y jurídicas. 
+   - Hay dos tipos de moral:
+     1. La moral de la uniformidad que junto con el derecho represivo da lugar a una solidaridad mecánica.
+     2. La moral de la diferencia, que unidad a un derecho cooperativo da lugar a una solidaridad orgánica.
+   - Las sociedades avanzadas se caracterizan porque cada profesión tiene su código ético.
+   - La conciencia colectiva de la sociedad es el sujeto ético por antonomasia.
+   - Muchos de los males contemporáneos se explican por la primacía que lo individual ha adquirido sobre lo colectivo.
+   - Destacar el punto de vista positivo con el que se afronta el problema de la ética.
+4. Antropología social y cultural
+   - Se centra en las creencias y valores. 
+   - La moral se entiende como una parte de la cultura.
+   - Ha dado lugar a una gran cantidad de datos, que quedan por interpretar.
+   - Problemas:
+     - A menudo ha dado lugar a un relativismo cultural.
+     - La diferencia entre moral absoluta y moral situacional.
+     - La relación cultura-naturaleza. La etología y la sociobiología ha permitido el estudio científico de las relaciones entre instintos y conducta.
+     - La ética comparativa se encuentra poco desarrollada.
+5. Sociología del conocimiento:
+   - Las ideas están determinadas socialmente.
+   - Destacan Max Scheler y Karl Mannheim.
+
+## 2. Max Weber: la ética en un mundo desencantado
+
+### 2.1. Una visión agónica de los conflictos morales y políticos
+
+- Hay que situarla a finales de la Primera Guerra Mundial.
+- La moral se basa en la decisión activa del individuo sobre lo impuesto por las condiciones sociales.
+- Lo colectivo no tiene la capacidad de determinar las convicciones más íntimas del individuo.
+- La historia está dominada por las leyes del poder y la violencia y la única manera de sustraerse es salirse de la instituciones.
+- Solo el hombre que dirige conscientemente su vida se desarrolla como persona.
+- Los valores tampoco son productos de la ciencia ni de los sentimientos.
+- Ciencia, filosofía y discusión racional pueden esclarecer la decisión, pero no suplantarla. La ciencia mo puede establecer los fines morales, ya que los ideales que el individuo quiere realizar y los deberes éticos son de una dignidad radicalmente diferente al mero conocimiento de los hechos.
+- Es importante el debate para conocer los valores de los otros, pero el valor no depende del consenso.
+- El conflicto es inevitable, pues no deja de ser el enfrentamiento de cosmovisiones diferentes.
+
+### 2.2. De la ética del trabajo a la "corrosión del carácter"
+
+- El mundo actual, sin certezas laborales da lugar a la perspectica de que no hay un futuro digno.
+- Con frecuencia conduce a las nuevas generaciones a la desesperanza y al rechazo de la educación.
+
+## 3. Norbert Elias: los dos códigos de conducta
+
+- Ha llevado a cabo un exhaustivo análisis del comportamiento humano que da lugar a la "civilización", mediante un detallado estudio de la historia de las palabras.
+- Entre los siglos XI-XII y XVII-XVIII en occidente se da el paso de una civilización guerrera a una civilización cortesana, dándose un mayor control del individuo y pasando de la coacción externa a la autocoacción. 
+- El sistema emotivo del individuo cambia, con una mayor contención de las emociones.
+- Se origina el hombre calculador, siempre a la defensiva, que reprime sus emociones, buen observador y conocedor de sí mismo y de los otros.
+- En la mayoría de los estados nacionales hay dos cánones de conducta:
+  1. Uno moral, igualitario.
+  2. Uno nacionalista, no igualitario.
+- Concretamente en Alemania, la pervivencia del canon guerrero-aristocrático supone el fracaso del canon burgués ilustrado. La autonomía de la concienca se transforma en heteronomía estatal.
+- Como ejemplo, citar a Hans Frank, gobernador de la Polonia ocupada: "Actúa de tal manera que el Führer aprobara tu conducta en el caso de que tuviera conocimiento de ella"
+
 # Capítulo 6. Ética y antropología
 
 ## 1. Introducción. Entre universalismo y multiculturalismo: usos y abusos de la antropología

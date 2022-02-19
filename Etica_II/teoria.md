@@ -63,3 +63,48 @@ La **falacia naturalist**a consiste en deducir un juicio de valor a partir de un
 - John Rawls sostiene la primacía de la justicia sobre las diferentes concepciones del bien moral.
 - Victoria Camps: "que sea lógico buscar el consenso a la hora de tomar conjuntamente decisiones no implica que el consenso sea un valor en sí mismo", especialmente porque "la voluntad de los afectados ha de ser respetada".
 - Cabe dejar a un lado la discusión acerca de la bondad o maldad de las decisiones, para acatar, en cambio, la voluntad de la sociedad mayoritariamente expresada en la legislación.
+
+# Capítulo 10. Lo justo y lo bueno
+
+## 1. Lo bueno y lo correcto y justo
+
+- Los temas centrales de la ética griega son la forja del carácter desde la adquisición de las virtudes y el logro de la felicidad. En la modernidad el puesto central lo ocupan las normas. 
+- La ética griega es teleológica (a veces perfeccionista, otras hedonista), mientras que la moderna es deontológica. Las primera toman como prioritario un bien no moral (ontológico, psicológico o social) para construir a partir de el lo justo, mientras que las segundas parten de lo justo y entienden que en su marco las gentes pueden vivir con total legitimidad lo que consideren su bien.
+- Podemos apuntar tres razones de este cambio:
+  1. Se relega toda explicación teleológica del mundo, por la que también se abandona la idea de una función última del ser humano discernible por la razón. Los juicios morales pueden ser justos o injustos, correctos o incorrectos, pero en ningún caso verdaderos o falsos.
+  2. La secularización impide que la visión religiosa del mundo legitime la obligatoriedad de las normas.
+  3. El individualismo, por la que la meta de la política no será la felicidad de los miembros de la comunidad, sino la defensa de sus derechos.
+- El oscurecimiento de la ética de las virtudes, dirigida al bien y el florecimiento de una ética de las normas hunde sus raíces en la filosofía de Kant.
+
+## 2. Lo correcto y lo justo es lo valioso en sí
+
+De acuerdo con Kant el bien específicamente moral es lo que en sí valioso. En el obrar humano hay, al menos dos tipos de interés: el egoista (según Hobbes el único existente) y el moral. Lo bueno en sí reclama universalidad y necesidad. 
+
+## 3. El ámbito de la exigencia y el ámbito del consejo
+
+- Los proyectos de vida buena cobran sentido desde lo que una persona o grupo de personas consideran su bien. Tienen el carácter de consejos e invitaciones.
+- Lo justo es exigente porque es moralmente objetivo.
+- Cual es el fundamento de lo moralmente objetivo, de su exigencia y cuales son los criterios para descubrirlos en las normas concretas es uno de los grandes problemas de la filosofía práctica. Se han dado diferentes respuestas (intuicionismo, éticas de lo bueno, éticas de lo justo...).
+
+## 4. Lo correcto como lo útil, la justicia como rama de la utilidad
+
+- Lo bueno es lo útil, lo correcto es lo más útil para la mayoría.
+- El utilitarismo entiende que ofrece un criterio racional para las elecciones, porque se basa en hechos observables y cuantificables. La razón moral se convierte ante todo en una razón calculadora. 
+- Críticas al utilitiralismo:
+  - Dificultades para pasar del bien subjetivo al bien objetivo.
+  - Extiende a la sociedad de forma ilegítima el principio individual de elección, fundado en la prudencia (Rawls):
+    - Legitimaría el recorte de derechos y libertades básicas de algunos miembros, si con ello aumenta el bienestar general.
+    - Los sacrificios y gratificaciones se distribuyen entre personas distintas, y la distribución puede ser desigual.
+  - Hay capacidades que son valiosas por sí mismas, independientemente de cualquier utilidad.
+
+## 5. El bien de la política: la primacía de lo justo
+
+- "En una sociedad justa las libertades básicas se dan por garantizadas, y los derechos, asegurados por la justicia, no están sujetos al regateo político ni al cálculo de intereses sociales" (Rawls).
+- Aunque lo justo y lo bueno son complementarios, la primacía de lo justo es un elemento esencial, lo que tiene su origen en la distinción entre hombre y ciudadano.
+- "La primacía de lo justo no significa que se deba evitar las ideas de bien".
+
+## 6. Bondad como racionalidad, justicia como razonabilidad
+
+- Una persona obra racionalmente cuando tiene una idea de bien, tiene sus proyectos vitales y organiza su vida tratando de alcanzarlos.
+- **Mientras que lo racional tiene su precedente en los imperativos hipotéticos, lo razonable lo tien en los imperativos categóricos**.
+- Lo razonable, la capacidad de intersubjetividad cooperativa, presupone lo racional, pero lo racional está subordinado a lo razonable, lo bueno a lo justo.

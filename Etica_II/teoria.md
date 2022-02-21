@@ -108,3 +108,54 @@ De acuerdo con Kant el bien específicamente moral es lo que en sí valioso. En 
 - Una persona obra racionalmente cuando tiene una idea de bien, tiene sus proyectos vitales y organiza su vida tratando de alcanzarlos.
 - **Mientras que lo racional tiene su precedente en los imperativos hipotéticos, lo razonable lo tien en los imperativos categóricos**.
 - Lo razonable, la capacidad de intersubjetividad cooperativa, presupone lo racional, pero lo racional está subordinado a lo razonable, lo bueno a lo justo.
+
+## 7. Virtud soberana: la igualdad
+
+- De acuerdo con el liberalismo un sociedad democrática debe tratar a sus ciudadanos como iguales (Dworkin).
+
+### 7.1. ¿Igualdad en qué?
+
+- Según el liberalismo social (Rawls) sería una igualdad de bienes primarios (mínimo decente o mínimo razonable).
+- Dworkin habla de una igualdad de recursos.
+- En la tradición socialdemócrata el estado está obligado a considerar a los ciudadanos como "ciudadanos sociales", protegiendo sus derechos civiles y políticos, económicos, sociales y culturales.
+- En una línea un tanto similar se propone un ingreso mínimo de ciudadanía.
+- Sem propone el *enfoque de las capacidades*. Se parte de dos hechos: la heterogeneidad de los seres humanos y la diversidad de variables por las que es posible evaluar la desigualdad injusta. Se reclama a la sociedad un compromiso en la promoción de la igual capacidad de los seres humanos para llevar adelante aquellos proyectos que valoran.
+
+### 7.2. Concepciones de la vida buena: el hecho del pluralismo
+
+- El liberalismo exige al gobierno, para ser justo, asumir un principio de neutralidad respecto a las distintas concepciones de la vida buena.
+- El comunitarismo entiende que en la comunidad se precisa una cierta concepción compartida de vida buena para poder tratar a las personasa como una persona buena desearía ser tratada.
+
+## 8. Normas justas y proyectos de vida buena
+
+- La ética del discurso es deontológica. 
+- Lo justo es lo universalmente exigible, lo bueno queda a la opción personal dentro del marco de lo justo, que viene diseñado por normas.
+- Se debe encontrar un procedimiento (discurso práctico), para dilucidar lo moralmente objetivo.
+- Se parte de *la acción comunicativa*, en la que hablante y oyente organizan sus planes de vida mediante el mutuo entendimiento.
+- El núcleo de la vida social es el reconocimiento recíproco de los sujetos.
+- Racionalidad equivale a argumentabilidad.
+- Los dos principios que orientan el diálogo son:
+  1. Universalización. Una norma es válida cuando todos los afectados puedan aceptar libremente las consecuencias de su cumplimiento general.
+  2. Discurso. Se requiere la aceptación de los afectado como participantes en un discurso activo.
+
+## 9. Autonomía y autorrealización: lo justo y lo bueno
+
+- En la ética del discurso preocupa la validez de la norma.
+
+- Hay dos dimensiones que constituyen al sujeto:
+  1. Autonomía personal. Es la dimensión moral universalizable, que atiende a intereses defendibles con argumentos y aceptables por los demás (ética de mínimos).
+  2. Autorrealización individual. Intereses que pertenecen a la propia idiosincracia y que no deben someterse al consenso (ética de máximos).
+
+## 10. Justicia creadora: ética cívica transnacional
+
+- Debe compartirse y fomentarse unos mínimos de justicia, progresivamente ampliables (ética de mínimos) y respetar activamente unos máximos de felicidad y de sentido de la vida (ética de máximos).
+- Rasgos de esta ética:
+  1. Realidad social
+  2. Vincula a las personas en tanto que ciudadanas.
+  3. Dinámica.
+  4. Cristalización de los valores compartidos por las diferentes éticas de máximos.
+  5. Se exige pero no se impone ni se coacciona.
+  6. Es cívica y no estatal.
+  7. Germen de un ética mundial.
+- Está siendo decisivo el papel de las éticas aplicadas (comisiones éticas locales, nacionales y transnacionales). Estas comisiones son la concreción de esa moral cívica que une a los ciudadanos.
+

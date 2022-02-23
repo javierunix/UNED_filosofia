@@ -57,3 +57,121 @@ Escepticismo, con un fuerte influjo de las religiones orientales.
 
 Aparecen el neopitagorismo y el platonismo medio. Posteriormente, el neoplatonismo.
 
+# Capítulo XXX. La academia antigua
+
+Se pierde la amplitud enciclopédica de Platón y sólo se desarrollan aspectos parciales del platonismo.
+
+## 1. Escolarcas
+
+- **Eusisipo**: 
+  - Acentúa la tendencia pitagorizante, identificando las Ideas con los números matemáticos.
+  - Hace una copiosa recolección de definiciones de las virtudes y los vicios.
+- **Jenócrates**: 
+  - Fue un gran amigo de Aristóteles. 
+  - Identifica las Ideas con los números.
+  - Distingue tres planos en la realidad, cada uno de los cuales tiene su propia parca: el supraceleste, el celeste y el terrestre.
+  - Define el alma como número que se mueve a sí mismo.
+  - Identifica Bien y Uno.
+  - La virtud por sí misma  basta para ser feliz.
+- **Polemón**:
+  - Se preocupa sobre todo por las cuestiones morales.
+
+## 2. Otros platónicos
+
+- **Heráclides de Ponto**: acentúa el pitagorismo y lo combina con el atomismo materialista.
+- **Eudoxo de Cnidos**: médico, matemático,  geógrafo y astrónomo. Fue un gran amigo de Platón. Fue hedonista en lo ético.
+- **Crantor**: buen orador y primer comentarista del *Timeo*. También un moralista muy severo.
+- **Filipo de Opunte**. Discípulo de Eudoxo. Matemático y astrónomo muy influido por el pitagorismo.
+
+# Capítulo XXXI. El Liceo
+
+El Liceo fue saqueado por Filipo de Macedonia en el año 300. La mayor parte de los escritos de los discípulos de Aristóteles se ha perdido.
+
+## Escolarcas
+
+- **Teofrasto**:
+  - Conserva de su maestro la amplitud de conocimiento, pero inicia inicia la tendencia al empirismo.
+  - Destaca en Historia Natural.
+  - Se le puede considerar el padre de la botánica.
+- **Estratón**:
+  - Cultiva especialmente la psicología y la física.
+  - Influido por el atomismo y el pitagorismo adopta una posición materialista.
+- **Lycón de Troas**:
+  - Buen retórico y dialéctico, aunque vacío de contenidos.
+- **Aristón de Iuis**
+  - Recupera el esplendor de la escuela.
+  - Adopta un postura ecléctica, pues admite doctrinas estoicas y epicúreas.
+  - Se ocupa sobre todo de ética.
+
+## Otros peripatéticos
+
+- Eudemo de Rodas. Añade nuevos modos a la figura del silogismo.
+- Aristoxeno de Tarento: Influido por el pitagorismo deriva en el materialismo.
+- Diacearco de Messenia: Destaca como geógrafo, historiador y político. 
+
+Sólo en un sentido amplio se puede considerar peripatéticos a un conjunto de autores de Alejandría, que se dedicaron sobre todo a la erudición, a la Historia, a la Geografía y a las Ciencias Positivas. Entre estos destacamos Aristarco de Samos, conocido como el Copérnico de la antigüedad.
+
+# Capítulo XXXII. Epicureísmo
+
+## 1. Epicuro y la escuela epicúrea
+
+- Epicuro fue natural de Samos.
+- El "Jardín de Epicuro" era mas bien "un círculo de amigos, una especie de seminario o de congregación, o más bien una casa de retiro y un sanatorio moral".
+- Tuvo una salud muy delicada. Su éxito, aparte de sus dotes personales se debe a la claridad y sencillez de su enseñanza.
+- De sus escritos, sólo se conservan unos pocos fragmentos.
+
+- Tuvo numerosos discípulos, que, aunque de poco relieve, se mantuvieron alejados de las luchas entre escuelas. 
+
+## 2. Noción de Filosofía
+
+- El fondo ontológico de la filosofía epicúrea, esencialente materialista, sensista y empirista, es el atomismo de Demócrito.
+- La Filosofía es inútil si no sirve para alcanzar la felicidad.
+- Divide la Filosofía en tres partes, subordinadas entre sí:
+  1. La Canónica.
+  2. La Física.
+  3. La Ética.
+
+## 3. Canónica
+
+- La única fuente de conocimiento es la sensación. 
+- La sensación se produce por los efluvios, que son átomos sutiles y veloces que se desprenden de los cuerpos y penetran por los poros en los órganos de los sentidos.
+- Hay tres criterios de verdad:
+  1. Los sentidos, que versan de los objetos presentes y actuales.
+  2. La anticipación, que versa sobre los cuerpos lejanos o invisibles que no podemos percibir directamente.
+  3. Las pasiones, que versan de los cuerpos presentes, en cuanto que pueden causar placer o dolor.
+
+## 4. Física
+
+Su finalidad es práctica, pues es suprimir el miedo al destino, a los dioses y a la muerte.
+
+#### a. Atomismo
+
+- Los elementos eternos, constitutivos de las cosa son la materia (átomos) y el vacío (espacio) y el movimiento.
+- El universo es infinito.
+- Todas las cosas se originan de los choques fortuitos entre los átomos.
+- Los átomos del alma tienen una cierta "declinación", para libertarse, hasta cierto punto, del destino ciego.
+
+#### b. Supresión de las causas de intranquilidad
+
+1. No hay que temer al destino, ya que este no existe. Sólo existe el azar. En el universo no hay orden ni finalidad.
+2. Tampoco hay que temer la muerte. "Mientras vivimos ella no ha venido, y cuando ella ha venido ya no estamos nosotros".
+3. Tampoco hay que preocuparse de los dioses, ya que estos ni nos conocen ni se ocupan de nosotros. Existen (formados por átomos más perfectos) pero son indiferentes a cualquier asunto humano. Las oraciones, los sacrificios y los actos de culto son inútiles. No obstante, dada su excelente naturaleza, son acreedores de nuestra veneración.
+
+## 5. Ética
+
+Dentro de lo que cabe en una filosofía absolutamente materialista, la moral de Epicuro permanece en un plano de dignidad humana.
+
+#### a. El placer
+
+- La única felicidad posible consiste en evitar el dolor, que es el único mal, y procurarse la mayor cantidad de placer, que es el único bien.
+- El placer se defina negativa y positivamente:
+  1. Negativamente es la ausencia de dolor.
+  2. Positivamente se asocia al movimiento o a la actividad del alma o del cuerpo.
+
+#### b. La virtud
+
+- Consiste en el medio de evitar y el dolor y procurarse el placer. 
+- No obstante, ni todos los dolores son absolutamente malos, pues pueden reportarnos un bien mayor, ni todos los placeres son deseables, pues pueden causar dolor.
+- El sabio debe moderar la satisfacción de sus apetitos mediante la templanza.
+- Epicuro recomendaba una vida austera, refrenando los apetitos inmoderados.
+- El sabio debe sobreponerse a todo mediante una severa disciplina, limitando sus apetitos, moderando sus deseos y regulando sus pensamientos e imaginaciones.

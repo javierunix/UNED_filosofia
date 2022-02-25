@@ -196,7 +196,7 @@ Dentro de lo que cabe en una filosofía absolutamente materialista, la moral de 
 - La filosofía es la ciencia de las cosas humanas y divinas.
 - Se divide en Lógica, Física y Ética (a la que se subordinan las otras dos). 
 
-###  2. Lógica
+### 2. Lógica
 
 - Quieren buscar una base sólida sobre la que apoyar la ciencia y orientar la acción y la vida virtuosa.
 
@@ -221,3 +221,94 @@ Los sentidos se hallan en comunicación directa con el alma mediante los cinco *
   3. Representación o percepción (Φαντασία).
   4. Comprehesión (Καρκαληψις).
   5. Asentimiento (συγκατάθεσις).
+- La representación es el resultado producido en el alma por las impresiones de los objetos externos. Pueden ser:
+  1. Comprehensivas. Si proceden de un objeto realmente existente.
+  2. No-comprehensivas.
+- A las representaciones comprehensivas corresponde el *asentimiento*. En el asentimiento se mezclan lo racional y lo volitivo, por la que es en parte libre y en parte necesario.
+
+##### e) La razón.
+
+- El *hegemonikón* tiene dos funciones:
+  1. Rectora y dominante de los sentidos.
+  2. *Ciencia* o la *sabiduría*, que es la representación comprehensiva evidente, y que versa sobre todo sobre lo moral. Sus características son la *verdad*, la *firmeza* y la *infalibilidad*.
+- En el hombre hay tres verbos:
+  1. *Verbo interno* o *verbo mentis*. Es una cualidad interna del alma.
+  2. *Verbo exterior*, que es la palabra en vías de ser pronunciada.
+  3. La *Voz*
+- Solo hay una Sabiduría perfecta, que es la del Logos. Los logos particulares de los hombres son participaciones del Logos único y divino.
+
+##### f) Criterio de verdad
+
+- Se esforzaron por establecer un criterio firme de verdad. 
+- En último término el criterio es la estabilidad y la evidencia del acto *cognoscitivo*, que se puede hallar en:
+  1. Las primeras noticias o nociones comunes.
+  2. Las percepciones sensibles.
+- La ciencia es un conjunto de percepciones sensibles. Los escépticos nunca rebasaron el concepto nominalista y concreto del universal.
+
+##### g) Categorías
+
+Reducen la lista a 4:
+
+1. Sujeto o substancia.
+2. Cualidad.
+3. Modalidad.
+4. Relación.
+
+### 3. Física
+
+- En su Física se incluye la Ontología, la Teología, la Biología y la Antropología.
+- Es un *dualismo dualista*, que combina la ontología de Heráclito con la teoría hilemórfica de Aristóteles.
+- Identifican realidad y corporeidad, lo que hay que entender como un reacción contra el idealismo de Platón más que como un materialismo al uso.
+
+##### a) Los principios eternos
+
+- Son la Materia y el Fuego, distintos e inseparables.
+- La Materia:
+  - Es un principio pasivo. Es incognoscible en cuanto tal e inmóvil.
+-  El Fuego:
+  - Penetra la materia, la organiza, la vivifica, la determina y la mueve.
+  - Es equivalente a la noción fundamental de la forma sustancial en Aristóteles.
+  - Esta todo en cada una de las partes.
+  - Dios y el Fuego son una misma cosa. Dios es inmanente al mundo y todas las cosas son divinas.
+- El Logos:
+  - Es una ley inmanente y universal. En parte se identifica y en parte se distingue del Fuego.
+  - Es el λογος σπερματικος.
+
+##### b) La transformación cíclica
+
+- El universo se transforma incesantemente.
+- En la *vía hacia abajo*, el fuego primordial da origen a todos los seres.
+- La *vía hacia arriba* es el proceso inverso.
+
+##### c) El cosmos
+
+El mundo es único (los epicúreos creían en la existencia de muchos mundos), limitado, esférivo y finito.
+
+##### d) Las conflagraciones universales
+
+- La transformación icesante del Universo se desarrolla de manera cíclica (Gran Año), regida por el Logos.
+- Termina en una conflagración que acaba con todos los seres, quedando solo la Materia y el Fuego.
+
+##### e) Determinismo finalista
+
+- Reaparece la fatalidad, como ley universal e inmanente.
+- Es una necesidad absoluta consecuencia de la absoluta racionalidad del cosmos.
+- Es una necesidad finalista, ordenada a la perfección.
+- Todos los seres del Universo están estrechamente ligados.
+- Ofrecieron varios argumentos para justificar su determinismo:
+  1. Físicas:
+     - Concatenación de todos los acontecimientos.
+     - Principio de causalidad.
+     - Principio de finalidad.
+  2. Lógicas:
+     - Una proposición verdadera lo es desde toda la eternidad, por lo que hay que hay verdades necesarias eternas.
+     - Sólo son posibles los acontecimientos que ocurren. Lo posible que se realiza se hace necesario.
+
+##### f) La libertad
+
+- Crisipo intenta conciliar la libertad con la necesidad absoluta. Para ello distingue entre causas perfectas y principales  (remotas) y causas auxiliares (próximas).
+- La libertad se reduce a la resistencia (inútil) o la cooperación con el universal necesario.
+
+##### g) Optimismo
+
+#####  

@@ -311,4 +311,33 @@ El mundo es único (los epicúreos creían en la existencia de muchos mundos), l
 
 ##### g) Optimismo
 
-#####  
+- Todo es bueno, bello, armonioso, perfecto, ordenado y todo esta admirablemente dispuesto conforme con la divinidad predeterminada por la Providencia divina.
+
+##### h) Teología
+
+- La Teología estoica se confunde con su Física, pues Dios no es más que el principio activo inmanente en el mundo.
+- Aparte hay una multitud de dioses e infinidad de demonios y de almas de héroes. 
+- Es un concepto panteísta acorde con el paganismo.
+- **Pruebas de la existencia de Dios**:
+  1. El orden, la armonía y la belleza del mundo. 
+  2. Por el consentimiento universal.
+  3. Por la adivinación.
+- **Atributos de la divinidad**:
+  - Es corpóreo.
+  - No es creador, sólo es el organizador y la providencia que equilibra y gobierna todas las cosas.
+  - Mueve el mundo a la manera del Primer Motor Móvil de Aristóteles.
+
+##### i) Biología
+
+- Los seres orgánicos constan de diversas partes, que se mantienen unidas por una fuerza cohesiva.
+- Cada uno tiene funciones propias y obra espontáneamente según su naturaleza y su fin particular.
+
+##### j) Antropología
+
+- El cuerpo es una mezcla de los elementos paternos.
+- Las almas son partículas desprendidas del Fuego divino. Por lo tanto son corpóreas. Es la fuerza cohesiva y armonizadora del cuerpo.
+- En el alma hay 8 partes o potencias:
+  - El alma central (*hegemonikón*). De la que se derivan siete soplos vitales:
+    - Los cinco sentidos.
+    - La facultad generativa y la facultad locutiva.
+- Sólo es inmortal el Alma del mundo. Todas las demás, incluso si sobreviven a la muerte del cuerpo, perecerán en la conflagración final.

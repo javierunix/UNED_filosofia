@@ -175,3 +175,49 @@ Dentro de lo que cabe en una filosofía absolutamente materialista, la moral de 
 - El sabio debe moderar la satisfacción de sus apetitos mediante la templanza.
 - Epicuro recomendaba una vida austera, refrenando los apetitos inmoderados.
 - El sabio debe sobreponerse a todo mediante una severa disciplina, limitando sus apetitos, moderando sus deseos y regulando sus pensamientos e imaginaciones.
+
+# Capítulo XXXIII. El estoicismo primitivo
+
+## I. Carácter general
+
+- La nota distintiva del estoicismo primitivo es el dogmatismo. 
+- La lucha contra los escépticos de la Nueva Academia obligó a los estoicos a elaborar una síntesis de toda la Filosofía. Es una síntesis con una fuerte personalidad propia.
+- Es un pensamiento cosmopolita.
+- No ha llegado íntegro hasta nosotros ningún escrito del estoicismo antiguo o medio.
+- Datos acerca de su fundador, **Zenón**:
+  - Recorrió varias escuelas de filosofía.
+  - Su pensamiento tiene un carácter sincrético. Tanto sus ideas, como, sobre todo, su vida no va mucho más allá de la de los cínicos.
+- Zenón traza las líneas fundumentales del estoicismo, pero su desarrollo sistemático es obra de Crisipo.
+
+## II. Doctrina estoica
+
+### 1. Noción y división de la Filosofía
+
+- La filosofía es la ciencia de las cosas humanas y divinas.
+- Se divide en Lógica, Física y Ética (a la que se subordinan las otras dos). 
+
+###  2. Lógica
+
+- Quieren buscar una base sólida sobre la que apoyar la ciencia y orientar la acción y la vida virtuosa.
+
+##### a) División. 
+
+Se divide en *Dialéctica* y *Retórica*.
+
+##### b) Origen del conocimiento
+
+- Hay dos órdenes del conocimiento: *sensitivo* y *racional*.
+- No admiten las ideas innatas. Tampoco las Ideas platónicas ni el universal aristotélico.
+
+##### c) Conocimiento sensitivo
+
+Los sentidos se hallan en comunicación directa con el alma mediante los cinco *pneumas* que lo relacionan con el *hegemonikón*.
+
+##### d) Etapas del conocimiento
+
+- Se distinguen 5 etapas:
+  1. Presencia (εξις).
+  2. Portencia (Δυναμις).
+  3. Representación o percepción (Φαντασία).
+  4. Comprehesión (Καρκαληψις).
+  5. Asentimiento (συγκατάθεσις).

@@ -341,3 +341,81 @@ El mundo es único (los epicúreos creían en la existencia de muchos mundos), l
     - Los cinco sentidos.
     - La facultad generativa y la facultad locutiva.
 - Sólo es inmortal el Alma del mundo. Todas las demás, incluso si sobreviven a la muerte del cuerpo, perecerán en la conflagración final.
+
+### 4. Ética
+
+##### a) Fundamento
+
+- Su idea fundamental procede del concepto estoico de Naturaleza. El hombre debe ajustar su conducta al orden universal que gobierna en el mundo, sometiendose voluntariamente a su finalidad.
+- El principio supremo de la virtud es *vivir conforme con la Naturaleza*, lo que significa vivir conforme consigo mismo. Es la virtud la garante de la verdadera felicidad.
+- Un fórmula equivalente a la anterior es la de *vivir conforme con la razón*.
+- La vida humana es racional y libre.
+
+##### b) El bien
+
+- Los estoicos distinguen entre cosas:
+  1. *Buenas*. Básicamente la virtud.
+  2. *Malas*. Las pasiones y los vicios.
+  3. *Indiferentes*. La vida y la muerte, el placer y el dolor, la salud y la enfermedad... Acompañan los actos humanos, pero no deben constituir el fin de las acciones. Tienen un valor muy relativo.
+
+##### c) La virtud
+
+- Lo único que debe ser deseado por si mismo.
+- Es una, indivisible y sin grados. Fundamentalmente, se identifica con la prudencia.
+- Se adquire y se cultivo gracias al ejercicio continuo.
+- Debe dominar la vida del sabio.
+- Se vuelve a la tesis socrática, al identificarla con la ciencia, la utilidad, el bien y la belleza.
+
+##### d) Las pasiones
+
+- Se originan por el impulso general primitivo de la naturaleza. 
+- Son movimientos excesivos de la parte sensitiva contrarios a la naturaleza y a la razón.
+- Se consideran enfermedades del alma.
+- Fundamentalmente hay 4:
+  1. Concupiscencia ciega: deseo desordenado de un bien futuro.
+  2. Temor: tiene por objeto un mal futuro.
+  3. Dolor o tristeza: se refiere a un mal presente.
+  4. Placer: se refiere a un bien presente.
+- De acuerdo con el exagerado racionalismo de los estoicos, las pasiones no sólo hay que dominarlas, sino extirparlas por completo.
+
+##### e) Norma de moralidad
+
+- Su ontología suministra una norma fija y estable para orientar la conducta, lo que la hace superior en este sentido a la ética de Aristóteles.
+- Hay una relación objetiva entre las acciones humanas con un principio superior.
+- La *ley natural* es anterior y superior a cualquier ley positiva humana.
+
+##### f) Cosmopolitismo
+
+- Se basa en la universalidad de la ley natural.
+- Condenan la esclavitud, ya que atenta contra la igualdad de todos los hombres.
+
+##### g) La felicidad
+
+- Se reduce a la sabiduría, si bien esta tiene un sentido mucho más elevado que en Sócrates.
+- El bien particular de cada ser se integra con el Bien total del Universo.
+- La felicidad no resulta del conocimiento teórico del Bien, sino del orden y armonía que la razón introduce en el ser humano.
+
+##### h) El sabio
+
+- La rígida perfección del sabio estoico (se basta a sí mismo, es impasible ante todo sufrimiento, moral o físico...) lo convierte en una entelequia antihumana.  
+
+## III. Escuela estoica
+
+### 1. Escolarcas
+
+- Cleantes de Assos.
+- Crispipo.
+  - Reorganiza la escuela y sistematiza la doctrina, por la que se le considera el segundo fundador de la Stoa.
+  - Introduce la tendencia a dividir y subdividir los conceptos y de recargar el lenguaje con términos técnicos.
+- Diógenes de Babilonia.
+  - Sustituye la teoría de la conflagración física por la aristotélica de la eternidad del mundo.
+  - Identifica a Zeus con el Alma Universa.
+- Antípatros de Tarso.
+
+### 2. Otros representantes
+
+- Aristón de Quíos.
+- Herillos de Cartago.
+- Dionisio de Heraclea...
+
+##### 

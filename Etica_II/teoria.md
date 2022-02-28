@@ -159,3 +159,55 @@ De acuerdo con Kant el bien específicamente moral es lo que en sí valioso. En 
   7. Germen de un ética mundial.
 - Está siendo decisivo el papel de las éticas aplicadas (comisiones éticas locales, nacionales y transnacionales). Estas comisiones son la concreción de esa moral cívica que une a los ciudadanos.
 
+# Capítulo 11. La virtud
+
+## 1. Introducción
+
+- En *Ancient Phylosophy*, Julia Annas afirma: "en el pensamiento ético moderno la virtud se había convertido en algo parecido a un concepto que sonaba a broma (...). En la última década sin embargo la 'ética de la virtud' ha experimentado un regreso espectacular". 
+- Este regreso se ha dado sobre todo en el ámbito anglosajón.
+- Se ha tomado conciencia de las insuficiencias que para la orientación de la praxis humana tiene la filosofía moral que ha sido hegemónica desde la Ilustración.
+- Se trata de una vuelta a Aristóteles, ya que las éticas kantianas son demasiado rígidas e irreales.
+- Lo importante no es tener las mejores leyes, sino la forja del carácter de los individuos con arreglo al ideal de la vida buena.
+
+## 2. Aristóteles o el modelo clásico de virtud
+
+- La ética de Aristóteles comienza con descripciones y análisis empíricos sobre el comportamiento humano.
+
+- Somos seres capaces de actuar de manera consciente y libre. 
+
+- De acuerdo con las metas, las acciones pueden ser de dos tipos:
+
+  1. *Poiêsis*. Su finalidad es la producción de un objeto. 
+  2. *Praxis*. El fin consiste en la propia acción.
+
+- Las acciones poéticas se subordinan a las acciones prácticas.
+
+- Entre los hombres parece haber un acuerdo en que el fin último que persiguen todas las acciones es la consecución de la *felicidad* o *eudaimonia*.
+
+- La vida feliz ha de ser una vida plena, que trasciende la casualidad y el instante.
+
+- Acerca de en qué consiste la felicidad hay 4 grandes posturas:
+
+  1. *bios apolaustikos*. La felicidad está en el placer. Sin embargo el placer tiene un carácter defectivo, episódico y dependiente de circunstancias externas que no lo hacen un buen candidato.
+  2. *chrêmastistês bios*. En la riqueza.
+  3. *bios politikos*. En la virtud.
+  4. *bios thêorêticos*. En la vida contemplativa.
+
+- Sólo el hombre virtuoso es feliz. La felicidad consiste en ir ejercitándose poco a poco en el "oficio de ser hombre".
+
+- Hay que cultivar la razón y actuar de acuerdo con ella. Sólo en este esfuerzo gozoso esta la felicidad.
+
+- Las virtudes se dividen en éticas y dianoéticas.
+
+- Las virtudes éticas van a propiciar que la actuación de los humanos evite los extremos pasionales y se sitúe en el justo medio.
+
+- La prudencia guía a las virtudes éticas.
+
+- El actuar virtuoso es aquel *que se debe hacer en cada momento* porque es lo correcto. 
+
+- La virtud en Aristóteles tiene un carácter absoluto.  
+
+- La virtudes son disposiciones que solo se adquiere y perfecciona a través de la educación, la práctica y el esfuerzo, por lo que es fundamental que la sociedad también sea virtuosa.
+
+  
+

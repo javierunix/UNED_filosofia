@@ -172,42 +172,43 @@ De acuerdo con Kant el bien específicamente moral es lo que en sí valioso. En 
 ## 2. Aristóteles o el modelo clásico de virtud
 
 - La ética de Aristóteles comienza con descripciones y análisis empíricos sobre el comportamiento humano.
-
 - Somos seres capaces de actuar de manera consciente y libre. 
-
 - De acuerdo con las metas, las acciones pueden ser de dos tipos:
-
   1. *Poiêsis*. Su finalidad es la producción de un objeto. 
   2. *Praxis*. El fin consiste en la propia acción.
-
 - Las acciones poéticas se subordinan a las acciones prácticas.
-
 - Entre los hombres parece haber un acuerdo en que el fin último que persiguen todas las acciones es la consecución de la *felicidad* o *eudaimonia*.
-
 - La vida feliz ha de ser una vida plena, que trasciende la casualidad y el instante.
-
 - Acerca de en qué consiste la felicidad hay 4 grandes posturas:
-
   1. *bios apolaustikos*. La felicidad está en el placer. Sin embargo el placer tiene un carácter defectivo, episódico y dependiente de circunstancias externas que no lo hacen un buen candidato.
   2. *chrêmastistês bios*. En la riqueza.
   3. *bios politikos*. En la virtud.
   4. *bios thêorêticos*. En la vida contemplativa.
-
 - Sólo el hombre virtuoso es feliz. La felicidad consiste en ir ejercitándose poco a poco en el "oficio de ser hombre".
-
 - Hay que cultivar la razón y actuar de acuerdo con ella. Sólo en este esfuerzo gozoso esta la felicidad.
-
 - Las virtudes se dividen en éticas y dianoéticas.
-
 - Las virtudes éticas van a propiciar que la actuación de los humanos evite los extremos pasionales y se sitúe en el justo medio.
-
 - La prudencia guía a las virtudes éticas.
-
 - El actuar virtuoso es aquel *que se debe hacer en cada momento* porque es lo correcto. 
-
 - La virtud en Aristóteles tiene un carácter absoluto.  
-
 - La virtudes son disposiciones que solo se adquiere y perfecciona a través de la educación, la práctica y el esfuerzo, por lo que es fundamental que la sociedad también sea virtuosa.
 
-  
+## 3. Kant o el modelo ilustrado-moderno de virtud
+
+- Si en el paradigmo clásico-aristotélico la idea que guía la reflexión moral está presididad por el par "virtud-felicidad", en el kantiano ese lugar lo preside la preocupación por la libertad.
+- Kant escribe en la época en la que se impone la visión newtoniana del universo, fuertemente determinista y causal.
+- La reflexión sobre el fenómeno moral no es una investigación teórica sobre lo *que es* (razón teórica), sino un saber acerca del *debe ser* (razón práctica).
+- En la constitución humana se cruzan y friccionan la libertad y la necesidad.
+- Dado que el ser humano no es puramente moral, la ética kantiana es una ética, imperativa, del deber y de la ley.
+- Las inclinaciones (*Neigungen*) humanas están siempre presentes y tiran del hombre hacia el ámbito de la necesidad natural.
+- La clave para probar si una máxima es moral o no es que tenga la forma de la universalidad. 
+- Sin embargo, Kant identifica la inclinación con la satisfacción egoísta de los deseos e intereses, que con frecuencia equipara con el concepto de felicidad. Los deseos siempre son particulares y volátiles.
+- El comportamiento moral es tan difícil, ya que, aún asumido libremente, se trata de un deber que llevamos a cabo violentando una parte esencial de nuestra constitución.
+- Define la virtud como "la fuerza de la máxima del hombre en el cumplimiento de su deber". Es "una autocoacción según un principio de libertad interna". "[la moral se presenta] desvestida de toda mezcla con lo sensible y de todo ornamento espurio de la recompensa o del amor a uno mismo".
+- Al contrario que en el caso de Aristóteles no se trata de cultivar el carácter o de educar los sentimientos según la experiencia. El componente afectivo siempre es un peligro y la virtud depende de la resistencia que haya habido que vencer.
+- La prudencia aristotélica se convierte en un cálculo espurio, que no tiene cabida en el ámbito moral. No se negocia con la realidad ni hay matizes para las máximas morales (Pierre Aubenque pensaba que Kant temía que el análisis de las condiciones de realizabilidad repercutiría negativamente en la definición de la máxima moral).
+- La definición kantiana de virtud supone un claro empobricimiento si la comparamos con la clásica (se prescinde el ideal *eudemonista* y de las ideas de hábito, práctica, educación y trabajo sentimental).
+- De acuerdo con Kant sólo hay una virtud, que esforzarse en el cumplimiento del deber.
+- El deber es inflexible y no interpretable. 
+- "El rechazo de una doctrina moral de la prudencia (...) priva a Kant de toda mediación entre la teoría y la práctica, entre la libertad y la naturaleza" (Aubenque).
 

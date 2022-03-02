@@ -168,6 +168,7 @@ De acuerdo con Kant el bien específicamente moral es lo que en sí valioso. En 
 - Se ha tomado conciencia de las insuficiencias que para la orientación de la praxis humana tiene la filosofía moral que ha sido hegemónica desde la Ilustración.
 - Se trata de una vuelta a Aristóteles, ya que las éticas kantianas son demasiado rígidas e irreales.
 - Lo importante no es tener las mejores leyes, sino la forja del carácter de los individuos con arreglo al ideal de la vida buena.
+- La ética contemporánea, ya sea desde la orilla de Aristóteles o de Kant parece buscar una síntesis entre ambos modelos.
 
 ## 2. Aristóteles o el modelo clásico de virtud
 
@@ -211,4 +212,69 @@ De acuerdo con Kant el bien específicamente moral es lo que en sí valioso. En 
 - De acuerdo con Kant sólo hay una virtud, que esforzarse en el cumplimiento del deber.
 - El deber es inflexible y no interpretable. 
 - "El rechazo de una doctrina moral de la prudencia (...) priva a Kant de toda mediación entre la teoría y la práctica, entre la libertad y la naturaleza" (Aubenque).
+
+## 4. Alisdair MacIntyre o virtud contra Ilustración
+
+- En 1981 se publica *Tras la virtud*.
+
+- En este libro sistematiza con trazos firmes y vigorosos la situación de crisis moral en la que nos encontramos:
+
+  - Por una parte establece el origen de la crisis.
+  - Por otra, una posible solución.
+
+- Nos encontramos en una Babel moral y filosófica en la que es imposible ponerse de acuerdo, pues los interlocutores parten de premisas éticas y políticas diferentes e inconmensurables, dando lugar a una jaula de grillos y a un diálogo de sordos.
+
+- **Origen**:
+
+  - Se encuentra en el fracaso de la Ilustración.
+  - En ella se defiende una nueva idea de racionalidad que conlleva un concepto errado de la naturaleza humana, que imposibilita alcanzar un fundamento ético.
+  - Tradicionalmente, este fundamento partía de tres elementos:
+    - "El hombre tal como es".
+    - "El hombre tal y como debe ser, si realiza su naturaleza esencial".
+    - La ética, que permite el transito de uno a otro estado.
+  - La razón moderna rechaza cualquier visión finalista del hombre.
+  - El proceso termina con las críticas de Kierkegaard y Nietzche la idel kantiana de razón.
+
+- **Remedio**:
+
+  - Debe restaurarse un concepto premoderno de la virtud en la línea de la tradición aristotélico-medieval. No obstante, hay que hacerlo evitando las ideas erróneas, como la de la biología metáfísica de Aristóteles.
+
+  - Dado que la finalidad no puede ser de orden biológico, pivota sobre los conceptos de *tradición* y de *estructura narrativa del ser humano*.
+
+  - En un sociedad los proyectos individuales deben decantarse en función de los modelos sociales (prototipo del buen ciudadano), que han ido puliendose en el transcurso de los siglos.
+
+    Tal planteamiento parece quebrar la universalidad de fines humanos y virtudes, propiciando un relativismo comunitarista que parece contradecir la propia idea de fundamentación.
+
+  - Nussbaum defiende que en todo caso la universalidad no debe ser un presupuesto de partido, sino en todo caso una aspiración.
+
+  - La universalidad se lograría mediante una especie de confrontación entre tradiciones para ver cuál aborda mejor los problemas morales (falibilismo historicista).
+
+  - Dado que no hay a priori morales, el decurso histórico podría depararanos que los problemas morales y epistemológicos no tienen solución racional.
+
+## 5. Martha Nussbaum o el carácter transcultural de la virtud
+
+- El gran enemigo a batir es el relativismo.
+- Todos los humanos somos portadores de una serie de capacidades y funciones que son transculturales y definen nuestra común humanidad.
+- No se trata de rehabilitar el un esencialismo metafísico externo, sino de un método basado en la investigación empírica, histórica y comparada (esencialismo empírico interno), que ya utilizó el propio Aristóteles.
+- La ética universal de la virtud se basaría en la plenificación de las capacidades humanas, que hace que la vida sea buena y digna.
+- Aristóteles comienza su *Ética a Nicómaco* identificando las cuestiones humanas en las que las personas deben elegir de un cierta manera.
+- Nussbaum, por su lado identifica una serie de esferas específicamente humanas, aunque la lista se presenta con ligeras variaciones a lo largo de su obra (en negrita se especifican las centrales en ética):
+  - Mortalidad
+  - Corporalidad
+  - El placer y el dolor
+  - Las capacidades cognitivas.
+  - Las emociones.
+  - **La razón práctica.**
+  - **La comunidad con otros seres humanos.**
+  - La relación con otras especies y con la naturaleza.
+  - El humor.
+  - El juego.
+  - La individualidad.
+- La autora denomina a su teoría densa y vaga del bien:
+  - Densa por que se opone a la *teoría débil de la justicia* de **Rawls**, el cual reduce el bien a una serie de bienes primarios que los sujetos pueden utilizar como medios para alcanzar sus conceptos personales de la vida buena o virtuosa. Por el contrario, Nussbaum sí cree que es posible llegar a un acuerdo acerca de en qué consiste la vida buena.
+  - Vaga, ya que es lo suficientemente flexible.
+
+
+
+
 

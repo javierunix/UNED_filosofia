@@ -273,8 +273,3 @@ De acuerdo con Kant el bien específicamente moral es lo que en sí valioso. En 
 - La autora denomina a su teoría densa y vaga del bien:
   - Densa por que se opone a la *teoría débil de la justicia* de **Rawls**, el cual reduce el bien a una serie de bienes primarios que los sujetos pueden utilizar como medios para alcanzar sus conceptos personales de la vida buena o virtuosa. Por el contrario, Nussbaum sí cree que es posible llegar a un acuerdo acerca de en qué consiste la vida buena.
   - Vaga, ya que es lo suficientemente flexible.
-
-
-
-
-

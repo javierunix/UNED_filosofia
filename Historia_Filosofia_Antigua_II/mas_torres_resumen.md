@@ -112,3 +112,46 @@ Hay cuatro cosas que atormentan a los hombres:
 - El sabio no debe desear intervenir en política, pues esto supondría perder la ataraxia y llenar el alma de dolor y turbación.
 - La ética y la política de Epicuro se sitúa radicalmente en el más acá, donde solo hay cuerpos que gozan o sufren.
 - El sabio debe retirarse al Jardin a vivir entre sus amigos y a estudiar filosofía.
+
+## El estoicismo
+
+- Se parte del supuesto metafísico de que la realidad se encuentra racionalmente ordenada, y de que quien conoce y se somete a este orden es capaz de elevarse sobre los azares y pesadumbres de esta vida.
+- El estoicismo primitivo tiene un cierto talante cínico. Se busca una vida  libre de temores y de preceptos, independiente de todo afecto y de ánimo imperturbable. Es la una vida conforme a la naturaleza y que se puede lograr mediante la disciplina de ánimo.
+- Se asume la realidad, al tiempo que se marca una cierte distancia respecto a ella.
+- No existe el azar.
+
+#### El conocimiento y el lenguaje
+
+- Hay una estrecha relación entre la lógica, la física y la ética.
+- En el centro de la filosofía se encuentra la naturaleza, como principio y como norma.
+
+> <cite>Zenon no prestaba fe a todas las representaciones, sino sólo a aquellas que presentaban ciertas característica propias de las cosas que se pueden ver (representaciones aprehensibles) (...). Cuando ella había sido ya acogida y aprobada, la llamaba "aprehensión (...) aquello que era captado por el sentido lo llamaba "sensación", y si de tal modo era captado que no pudiera ya ser desarraigado de la razón lo denominaba "ciencia", en caso contrario "ignorancia". De esta surgía igualmente la "opinión", que es débil y está mezclada con lo falso y lo desconocido. Pero entre la ciencia y la ignorancia colocaba aquella "aprehensión" (...) la aprehensión basada en los sentidos no sólo le parecía verdadera, sino también fiel (...) porque no pasaba por alto nada que a ella pudiera someterse y porque la naturaleza le otorgó la norma de la ciencia y el principio de la misma, por medio de los cuales se imprimirían luego en las almas las nociones de las cosas </cite> (Académicos posteriores)
+
+> <cite>El concepto pues es una representación del entendimiento, no un ente o una cualidad, pero al modo del ente y de la cualidad.</cite> (DL)
+
+> <cite>(la) ciencia (es) un comprensión firme o disposición en la aceptación de las representaciones que no puede cambiar por obra del raciocinio.</cite> (DL)
+
+- Se identifica la opinión con la ignorancia sin contemplar matices intermedios.
+
+> <cite>El pensamiento en tanto que capacidad de expresar aquello a lo que es estimulado por la representación, se manifiesta mediante la palabra </cite> (DL)
+
+- En el estoicismo ser racional comporta como nota, la capacidad del habla articulada, de usar el lenguaje (Anthony Long)
+
+> <cite>Los estoicos dicen que el hombre se diferencia de los animales irracionales debido al lenguaje interno (..) El hombre  se distingue (de los animales) en virtud de unas impresiones creadas por inferencia y combinación (o concepto) (del tipo) 'si esto, entonces aquello'.</cite> (Sexto Empírico)
+
+- Si cabe establecer conexiones entre las cosas y las proposiciones es porque en la naturaleza hay una legalidad universal, obra y manifestación de un *lógos* cósmico y divino.
+
+#### Lógos y materia
+
+- No hay azar y todo acontece por necesidad.
+
+- > Zenón proclama al *logos* ordenador de las cosas de la naturaleza y artífice del conjunto universal. (Lactancio)
+
+- No debe entenderse la doctrina del *logos* en sentido espiritualista, aunque a veces se dice "que no es naturaleza, sino alma y racional por cierto".
+- La materia se opone al *lógos* como principio pasivo.
+- Zenón defiende un monismo-dualista en el que el logos es materia o algo inseparable de ella: "Dios está mezclado con la materia, penetra toda la materia y la conforma."
+- Es un planteamiento panteísta.
+- El hombre es un ser animado y conducido por un alma, que es un soplo material (*pneuma*).
+- Crisipo consideraba al *pneuma* un vehículo del *logos*. El *logos* sería una mezcla de fuego y aire.
+- *Pneuma* y materia se entremezclan totalmente, de manera que todo el cuerpo es *pneuma*.
+- La doctrina del *logos-pneuma* permite una concepción teleológica de los seres.

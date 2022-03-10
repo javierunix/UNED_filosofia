@@ -141,17 +141,70 @@ Hay cuatro cosas que atormentan a los hombres:
 
 - Si cabe establecer conexiones entre las cosas y las proposiciones es porque en la naturaleza hay una legalidad universal, obra y manifestación de un *lógos* cósmico y divino.
 
-#### Lógos y materia
+#### *Lógos* y materia
 
 - No hay azar y todo acontece por necesidad.
 
 - > Zenón proclama al *logos* ordenador de las cosas de la naturaleza y artífice del conjunto universal. (Lactancio)
 
 - No debe entenderse la doctrina del *logos* en sentido espiritualista, aunque a veces se dice "que no es naturaleza, sino alma y racional por cierto".
+
 - La materia se opone al *lógos* como principio pasivo.
+
 - Zenón defiende un monismo-dualista en el que el logos es materia o algo inseparable de ella: "Dios está mezclado con la materia, penetra toda la materia y la conforma."
+
 - Es un planteamiento panteísta.
+
 - El hombre es un ser animado y conducido por un alma, que es un soplo material (*pneuma*).
+
 - Crisipo consideraba al *pneuma* un vehículo del *logos*. El *logos* sería una mezcla de fuego y aire.
+
 - *Pneuma* y materia se entremezclan totalmente, de manera que todo el cuerpo es *pneuma*.
+
 - La doctrina del *logos-pneuma* permite una concepción teleológica de los seres.
+
+#### Obedecer a la naturaleza: acciones apropiadas y acciones virtuosas
+
+- Las reflexiones epistemológicas y físicas están subordinadas a la ética.
+- La vida virtuosa es en sí misma feliz. El sabio es libre porque comprende, acepta y vive de acuerdo con la ley natural.
+- Obedecer a la propia razón equivale a seguir el orden y armonía de la naturaleza.
+
+- **Teoría estoica del impulso**
+
+  - El impulso básico del hombre no puede ser el mismo que el de los animales, ya que el hombre tiene razón. Por la tanto no sólo percibe situaciones, ya que además las valora. 
+
+  - ***oikeíôsis* o autoconservación**. Los hombres desean mantenerse en el ser.
+
+  - El sujeto humano es desde el principio un sujeto ético.
+
+- Acciones apropiadas y acciones virtuosas.
+
+  - Las acciones apropiadas (*kathêkonta*) son aquellas conformes con la naturaleza humana.
+  - Las acciones virtuosas (*katorthômata*) son aquellas conformes con el *logos* eterno, del cual la naturaleza humana participa. 
+  - Por la tanto toda acción virtuosa es apropiada. Pero no toda acción apropiada es virtuosa, ya que una acción apropiada puede ser moralmente indiferente, como casarse, presidir una embajada...
+
+- De acuerdo, con Zenón el fin de la vida humana era "vivir coherentemente". Cleantes añadió "de acuerdo con la naturaleza".
+
+#### Algunos problemas: obrar irracionalmente
+
+- Derivar el *deber ser* del *ser* supone un problema lógico. Además, la idea de un supuesto orden natural es inútil hasta que no se determina su contenido.
+- Si el deber esta fundado en la ley universal de la naturaleza, que es obligatoria, ¿cómo es posible actuar en contra del deber?
+- Las pasiones y los afectos se consideran perturbaciones del alma, que vician su disposición.
+- De acuerdo con Crisipo la manera en la que se responde a los estímulos está determinada por la estructura interna del sujeto. Desde el punto de vista de la ley universal la voluntad está determinada, pero para hablar deberes morales se tiene que presuponer la libertad. 
+- Crisipo radicaliza la perspectiva de Zenón al presuponer que el *hêgemonikón* del hombre es puro *logos*. Tanto la "recta razón" como la razón "viciada y viciosa" son "razón". En este segundo caso el *logos* no es irracional, sino débil. La división no se establece, por tanto, entre buenos y malos, sino entre sabios y necios. El sabio es el que mantiene siempre, en toda circunstancia, la perfecta tensión de su racionalidad.
+
+#### La transformación del estoicismo: Panecio
+
+- Panecio adopta el legado estoico a las necesidades del mundo romano.
+- Se aleja tanto del cinismo aún latente en Zenón como del dogmatismo e intelectualismo de Crisipo.
+- Abandona el monismo psíquico: "Las almas poseen doble capacidad y naturaleza: una de ellas es el instinto".
+- Defiende la armonía, bajo el mando de la "recta razón", entre pensamiento, deseo y acción. 
+- No hay una división tan tajante entre sabios  y necios. No se trata de se bueno o malo, sabio o necio, sino en mostrar "alguna semejanza con la virtud". El cumplimiento de los deberes es criterio de progreso moral.
+- Posidonio llega identificar el ideal estoico con la dominación romana universal.
+
+#### Estoicismo vs Epicureísmo
+
+- A pesar de las notables diferencias en las bases teóricas, en la práctica el ideal de ambas escuelas es más parecido.
+- El ideal epicúreo de *ataraxia* (la ausencia de turbaciones) está cerca de la *apatheía* (adecuar los deseos al *logos* universal) estoica, con una importante diferencia:
+  - El sabio epicúreo piensa que tal ideal no puede realizarse públicamente, por lo que se retira con sus amigos a la intimidad del Jardín.
+  - El sabio estoico si se compromete políticamente.

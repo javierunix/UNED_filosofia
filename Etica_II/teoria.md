@@ -273,3 +273,126 @@ De acuerdo con Kant el bien específicamente moral es lo que en sí valioso. En 
 - La autora denomina a su teoría *densa* y *vaga* del bien:
   - *Densa* por que se opone a la *teoría débil de la justicia* de **Rawls**, el cual reduce el bien a una serie de bienes primarios que los sujetos pueden utilizar como medios para alcanzar sus conceptos personales de la vida buena o virtuosa. Por el contrario, Nussbaum sí cree que es posible llegar a un acuerdo acerca de en qué consiste la vida buena.
   - *Vaga*, ya que es lo suficientemente flexible.
+
+# Capítulo 12. Las éticas aplicadas
+
+## 1. El surgimiento de las éticas aplicadas
+
+- En los años sesenta y setenta del Siglo XX surgen en los países de tradición occidental.
+- La realidad social exigía orientaciones éticas interdisciplinares en sociedades moralmente plurales, en las que las cuestiones no pueden abordarse desde un único código moral. Por ello es necesario encontrar orientaciones comunes.
+
+## 2. Los nuevos protagonistas del mundo ético
+
+- Podemos destacar:
+  - Gobiernos
+  - Expertos
+  - Ciudadanos
+  - Filósofos morales
+- Es un trabajo interdisciplinar cuyos resultados se recogen en documentos públicos, que con frecuencia tienen fuerza normativa.
+- Son instituiciones de nivel local, estatal, transnacional o global.
+- Destacamos:
+  - Código de Nurenberg (1946)
+  - Declaración de Helsinki de la Asociación Médica Mundial (1964)
+  - Pacto Mundial de las Naciones Unidas (1999)
+  - Carta a la Tierra
+
+## 3. La necesidad de confianza
+
+- Profesionales y expertos, insatisfechos con la calidad de sus prácticas y con el grado de confianza de la sociedad, entienden que la mejor manera de revitalizar su labor es mediante una renovación ética, la *forja del carácter* de su profesión.
+- Ejemplos:
+  - El Código de Nurenberg establece que el consentimiento informado es imprescindible en cualquier experimento médico.
+  - La *ética de la empresa* entiende la confianza de los consumidores como un valor empresarial.
+  - *La ética de la información* de la Federación de Asociaciones de la Prensa de España (1993)
+
+## 4. La buena voluntad en las instituciones
+
+- Debe evitarse que los ciudadanos requieran un grado heróico de virtud para comportarse de manera ética.
+- Hay que construir unas actividades e instituciones que hagan que el bien y el logro del sentido sean algo cotidiano.
+
+## 5. La estructura de la ética aplicada
+
+- Podemos distinguir 4 modelos:
+
+  - "Equilibrio reflexivo rawlsiano"
+
+  - *Casuística 1*. Los casos prácticos se consideran un particularización de los principios generales. No es un enfoque adecuado en sociedades plurales.
+
+  - *Casuística 2*. Se basa en realizar juicios probables sobre situaciones concretas, de acuerdo con el criterio convergente de todos los hombres, o al menos de los más prudentes y sabios. Es un modelo habitual en Bioética.
+
+  - Propuesta de Apel. Se distingue una parte A, que se ocupa de la fundamentación y una parte B, que se ocupa de la aplicación. La aplicación viene dada de acuerdo con una *racionalidad estratégica*. Puede ser adecuado en ámbitos empresariales y políticos, aunque no en otros como bioética y ecoética.
+
+- Las éticas aplicadas tienen una estructura circular propia de la *hermenéutica crítica*.
+
+  - No se parte de unos primeros principios que puedan ser directamente aplicados. Tampoco se buscan principios de alcance únicamente medio.
+  - Cada ética es, en principio, la ética de una actividad social (*momento aristotélico*).
+  - Asimismo, cada actividad debe respertar el marco deontológico de una sociedad que ha alcanzado un nivel moral post-convencional (*momento kantiano*). 
+  - El marco deontológico se expresa en la *ética cívica*, cuyo núcleo racional está constituido por dos principios:
+    1. El imperativo kantiano del Fin en sí mismo.
+    2. Reformulación dialógica del principio de universalidad: "Todos los seres capaces de comunicación lingüística han de ser reconocidos como personas".
+  - Lo moral no se entiende sin lo incondicionado. 
+
+## 6. La dimensión pública de las éticas aplicadas
+
+-  Son una forma de saber y de actuar indeclinables, ya que han nacido de las demandas de la propia sociedad.
+- Se han encarnado en instituciones, organizaciones e instrumentos.
+- El núcle es la *ética cívica*, que paulatinamente se ha ido conformando como transnacional.
+
+## 7. Ética y éticas
+
+- Por primera vez en la historia del pensamiento se habla de éticas, en plural.
+- El giro lingüístico proviene del positivismo lógico, que quiso hacer de la ética una disciplina aséptica, que analizara los lenguajes sin hacer juicios de valor. Este enfoque se agotó en poco tiempo.
+- Los acontecimietos del siglo XX mostraron la necesidad de una nueva forma de hacer filosofía que no desoyera a la sociedad y con efectos en lo público.
+- Se han desarrollado en sociedades laicas y liberales.
+- En los equipos interdisciplinares el filósofo tiene una función específica, coordinando la reflexión y el debate.
+- Las éticas aplicadas no carecen de ambición universalista, con los siguientes valores: respeto a la dignidad de la persona, defensa de la libertad individual, el imperativo de hacer el bien y evitar el daño o la responsabilidad social.
+
+## 8. Lo público y lo privado: la justicia y el bien
+
+- Mientras que la justica alcanzable mediante la política y las leyes, el bien depende de la libertad de elección de los individuos.
+- A pesar de muchas de las cuestiones que se abordan tienen más que ver con "lo bueno" que con lo "justo", las éticas aplicadas tienen una dimensión pública.
+- Debe considerarse hasta que punto nuestras elecciones personales obstaculizan el desarrollo de la justicia y del bien común, por lo que la distinción entre "bueno" y "justo" es cuestionable. 
+- "Lo privado es político", pues las desigualdades en lo privado provocan desigualdades sociales.
+- Las éticas aplicadas pueden tratar disfunciones del sistema que son impermeables a los requerimientos legales.
+- Ser "autómo" no significa ser arbitrario, todas nuestras decisiones morales definen "nuestra común humanidad".
+
+## 9. Ética y derecho: los códigos éticos
+
+- Cabe plantearse qué añaden los códigos éticos o las guías de buenas prácticas a las leyes. Dado que las recomendaciones éticos obligan solo en conciencia.
+- Podemos distinguir los siguientes cometidos:
+  1. Recordar o enfatizar principios básicos.
+  2. Adelantarse a las leyes.
+  3. Hacer recomendaciones que no tienen por qué tener rango legal.
+
+## 10. Autonomía y autoregulación
+
+- La moral es autónomo, mientras que lo legal es heterónomo. Precisamente porque se abordan cuestiones privadas no conviene regularlo demasiado.
+- La *phrónesis* aristotélica precisa mejor que cualquier otro concepto el cometido de las éticas aplicadas, pues se trata de encontrar la decisión justa para cada caso.
+- El objetivo es una autorregulación colectiva y organizada, descubriendo conjuntamente la razón práctica.
+
+# Capítulo 13. Ética y feminismo
+
+## 1. Introducción
+
+- La moral es parte de la estructura social y antropológica; es supervivencial. Un grupo que cuestionas sus normas es un grupo que se pone en peligro. Asimismo, todo grupo aislado no se enfrenta a "situaciones de contraste".
+- A medida que el grupo aumenta en tamaño y complejidad, se tiende a la aparición de un cuerpo de "interpretadores" de las normas.
+- En situaciones aisladas y estables no hay necesidad de una ética. La ética es una invención reciente que , entre otras cosas sirve para enfrentarse con lo imprevisto.
+- Dos características de la ética son su caracter abstracto y su pretensión de universalidad.
+
+## 2. Feminismo y moral heredada
+
+- El feminismo es la consecuencia de aplicar el racionalismo para acabar con la moral diferenciada en función del sexo, lo que hace elevando la cuestión en clave ética y política. Se da en la Modernidad, que se gestó en el Barroco y eclosionó en la Ilustración.
+- Podemos distinguir cuatro componentes:
+  1. Cuerpo teórico y explicativo.
+  2. Agenda
+  3. Grupo de interés o vanguardia.
+  4. Acciones.
+- La norma deja de considerarse espontánea o natural.
+- El *género* es la solidificación normativa de la diferencia sexual. Mientras que el sexo es una categoría natural, el género es un constructo social, que supone costumbres, vestimentas, rituales familiares o matrimoniales... 
+- En todas las culturas la indiferenciación sexual se ha visto con malos ojos.
+- Hegel correlata la *eticidad* con la división normativa de los sexos. Mientras que el espacio propio de los varones es el público, el de las mujeres es el privado. Lo masculino es diferenciado, mientras que lo femenino es indiferenciado. El individualismo, supuesto y deseable para los varones, está totalmente prohibido a la mujer.
+
+## 3. El cuidado y las reglas
+
+- **Kohlberg** concluyó que había diferencias significativas en el modo en el que hombres y mujeres abordan las cuestiones morales. Mientras que ellos se centraban en los derechos individuales y en los criterios universales, ellas se situaban en un marco emocional con un fuerte sentido de la responsabilidad frente al mundo más próximo.
+-  **Gilligan** habló de una ética abstracta de los varones frente una ética más próxima de las mujeres, que llamó *ética del cuidado*.
+- Esta diferencia se puede explicar aduciendo que la situación de mayor dependencia social de la mujer hace que la suya sea una moral más heterónoma. La mujer, en general, se encuentra "hipernormada", ya que tiene que cumplir más normas y más estrictas que sus congéneres varones (lo cual es cierto incluso en nuestra sociedad, a pesar de los numerosos avances de los últimos tiempos).

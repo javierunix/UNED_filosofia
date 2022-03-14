@@ -208,3 +208,50 @@ Hay cuatro cosas que atormentan a los hombres:
 - El ideal epicúreo de *ataraxia* (la ausencia de turbaciones) está cerca de la *apatheía* (adecuar los deseos al *logos* universal) estoica, con una importante diferencia:
   - El sabio epicúreo piensa que tal ideal no puede realizarse públicamente, por lo que se retira con sus amigos a la intimidad del Jardín.
   - El sabio estoico si se compromete políticamente.
+
+## El escepticismo
+
+- En este caso es difícil hablar de una corriente homogénea, ya que sus estrategias varían según contra quien polemizan. 
+- La necesidad de autojustificación es continua.
+- No se trata de una teoría o conjunto de ellas, sino de una actitud.
+
+### El escepticismo como actitud vital
+
+- El escepticismo helenista se origina con **Pirrón de Elis**, del que tenemos más información sobre su vida que sobre sus planteamientos filosóficos.
+- *skeptikós* significa el que observa y reflexiona. 
+- El escéptico desea purgar la vida de todo compromiso cognitivo y de toda creencia para liberarse de toda inquietud.
+- Pirrón se propone ser feliz y que se trate de un estado de ánimo constante.
+- **Sexto Empírico** afirma que todos los argumentos son equivalentes e igual de explicativos, al tiempo que intenta evitar el carácter dogmático de su afirmación. La *dynamis antithetikê* consiste en contraponer a todo argumento otro de igual fuerza. 
+- Como consecuencia lo más sabio es suspender el juicio (*epochê*). No hay que confundir la *epochê* y *akatalêxía*, ya que la "suspensión del juicio" no es la mismo que la "incognoscibilidad" defendida por cirenaicos y Académicos.
+
+### La indeterminación de la realidad
+
+- De acuerdo con el una pasaje de Aristocles transmitido por Eusebio conocido como*fragmento de Timón* "Pirrón declaraba que las cosas eran (...) indeterminadas, sin estabilidad e indiscernibles. Por esta razón, ni nuestras sensaciones ni opiniones son verdaderas o falsas."
+- Debe tenerse en cuenta que Pirrón defiende la *epochê* como conclusión a alcanzar, no como premisa de la que partir.
+- Se trata de un afirmación que ataca todas las teorías del conocimiento que consideran que ciertas percepciones informan fidedignamente acerca de la naturaleza real del objeto. No es cuestion que tal objeto se perciba de una manera u otra, sino que tal objeto sea de una manera u otra.
+- Aunque afirmar que las cosas sean indeterminadas sea de por sí dogmático, se trata de un dogmatismo instrumental.
+- La misma actitud se aplica a la vida moral, pues los escépticos niegan que hayan de suyo cosas buenas o malas.
+
+### El problema de la acción
+
+- Pirrón estima que no sólo hay que renunciar a pronunciar juicios sobre las cosas, sino, en la medida de lo posible a toda actuación práctica.
+- Galeno distingue entre un escepticismo extremo y otro moderado. 
+  - El extremo (representado por Pirrón y el primer escepticismo) rechaza todas las opiniones.
+  - El moderado acepta las opiniones comunes  y las sensaciones (*pathê*) y dirige la *epochê* hacia las cuestiones filosóficas y científicas. 
+- *Sexto Empírico* critica a los dogmáticos por poner en el mismo nivel los signos evocativos (los que siguen necesariamente un a fenómeno, como el humo al fuego) y los signos indicativos en el mismo plano, cuando sólamente los primeros están "avalados por la vida"
+
+### El escepticismo en la Academia
+
+- La Academia nueva (siglos III y II a. C) renuncia a pretender un saber absoluto.
+- **Arcesilao**:
+  -  Afirma que el fin de la filosofía es el conocimiento de la verdad. Ahora bien, como este fin es inalcanzable debe sustituirse por una *epochê* que consiste en la liberación del error. 
+  - Considera que esta postura está en coherencia con la práctica socrática.
+  - Tanto las posturas pirrónicas como las estoicas se consideran equivocadas.
+- **Carnéades**:
+  - La teoría estoica  requiere de un criterio definitivo que distinga las representaciones falsas de las verdaderas. 
+  - Dado que este criterio no existe no se puede considerar seguro o definitivo ningún saber. 
+  - Sin embargo se acepta un conocimiento probable, ya que hay unas representaciones más fiables (*pithanótês*) que otras.
+  - Es absurdo afirmar que no hay ninguna correspondencia entre las impresiones y los objetos.  
+  - Si bien ninguna impresión, cuando se considera de manera aislada, es evidente, **la claridad, la continuidad y el contraste** las hacen más fiables.
+  - El juicio probable ya permite orientarse en la vida, pues permite el comportamiento racional.
+- La Academina posterior vuelve a decantarse por posturas dogmáticas.

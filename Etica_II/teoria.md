@@ -396,3 +396,21 @@ De acuerdo con Kant el bien específicamente moral es lo que en sí valioso. En 
 - **Kohlberg** concluyó que había diferencias significativas en el modo en el que hombres y mujeres abordan las cuestiones morales. Mientras que ellos se centraban en los derechos individuales y en los criterios universales, ellas se situaban en un marco emocional con un fuerte sentido de la responsabilidad frente al mundo más próximo.
 -  **Gilligan** habló de una ética abstracta de los varones frente una ética más próxima de las mujeres, que llamó *ética del cuidado*.
 - Esta diferencia se puede explicar aduciendo que la situación de mayor dependencia social de la mujer hace que la suya sea una moral más heterónoma. La mujer, en general, se encuentra "hipernormada", ya que tiene que cumplir más normas y más estrictas que sus congéneres varones (lo cual es cierto incluso en nuestra sociedad, a pesar de los numerosos avances de los últimos tiempos).
+
+## 4. Universalismo y feminismo
+
+- El feminismo es universalista y siempre ha dirimido su agenda política con la ayuda de declaraciones universales.
+- El frente de batalla ha sido la moral y no las leyes explícitas o lo político.
+- Se acoge primeramente en las posiciones progresistas, aunque una vez consolidado, su agenda se traslada a todo el espectro político.
+- Ha disuelto la eticidad tradicional y ha mostrado que lo que se consideraba buena costumbre no era más que opresión política.
+- Con frecuencia ha bebido del relativismo, del que ha tomado la cara amable. Si bien las vindicaciones del progresismo han de ser consideradas asintóticas, de eso no se sigue que sean realmente compatibles.
+- En la mayor parte de las mujeres del mundo todavían no gozan del estatus de individuos de pleno derecho.
+
+## 5. Ética y estética
+
+- El vestido es jerárquico y genérico, como muestra la obligación de vestirse adecuadamente en ciertas  circunstancias, de acuerdo con el rango y el sexo de cada uno.
+- El estándar superior es el masculino, y han sido las mujeres las que se han debido ganar el derecho a llevar prendas de hombre.
+- La gran transformación occidental del atuendo femenino empieza en los años 20 del siglo XX.
+- Rebelíon ética y rebelión estética van de la mano. 
+- Sólo se porta estéticamente un signo cuando su carga ética se ha desactivado. En este sentido el feminismo no acepta vestimentas que cuya carga moral atente contra la universalidad y la individualidad. En otras, palabras no se pueden asumir diferencias sexistas.
+- No se trata de que el feminismo desarrolle un ética propia, sino de que esté en la base de toda ética. En definitiva es un magnífica medidad de la realidad y vitalidad de la democracia.

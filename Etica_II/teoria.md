@@ -414,3 +414,91 @@ De acuerdo con Kant el bien específicamente moral es lo que en sí valioso. En 
 - Rebelíon ética y rebelión estética van de la mano. 
 - Sólo se porta estéticamente un signo cuando su carga ética se ha desactivado. En este sentido el feminismo no acepta vestimentas que cuya carga moral atente contra la universalidad y la individualidad. En otras, palabras no se pueden asumir diferencias sexistas.
 - No se trata de que el feminismo desarrolle un ética propia, sino de que esté en la base de toda ética. En definitiva es un magnífica medidad de la realidad y vitalidad de la democracia.
+
+# Capítulo 14. Ética y utopía
+
+## 1. El sueño de un orden de vida justo
+
+- Si bien el espirítu utópico es una constante en el ser humano, es en Occidente, a partir del Renacimiento y sobre todo en los dos últimos siglos donde el género ha entrado en su apogeo.
+- El contenido temático de las utopias es muy variado, por lo que lo más conveniente es una caracterización funcional, siendo su propósito abrir el campo de lo posible más allá de lo meramente factual.
+- De acuerdo con Leszek Kolawowski se caracterizan por:
+  1. "las creencias de que es alcanzable una condición definitiva e inmejorable, donde no haya más que corregir"
+  2. "son proyecciones supuestamente implementadas por el esfuerzo humano".
+
+## 2. Utopía e ideología
+
+- **Horkheimer**. Si la utopia es el sueño un orden justo y verdadero, la ideología provoca la apariencia de sueño realizado, por la que utopía e ideología aparecen enfrentadas.
+- **Tradición marxista**. La utopía sería una variante de la ideología. Asimismo la ideología son falsas apariencias de la realidad producidas por la sociedad burguesa, reduciendose la utopía a un consuelo imaginativo (*Del socialismo utópico al socialismo científico*, Engels). No obstante, dentro del marxismo se dio un giro antiengelsiano (*Del socialismo científico al socialismo utópico*).
+- **Karl Manheim**. Las ideologías son ideas desfasadas o inadecuadas de acuerdo con el desarrollo social, mientras que la utopía busca trascender la realidad. A pesar de su oposición ambas coinciden en que son *incongruentes* con la realidad. La utopía no es un mero sueño, sino un proyecto que tiende a realizarse.
+- **Paul Ricoeur**.
+  - Trata de establecer diversas correlaciones entre la utopía y la ideología, desde las más estrictamente *patológicas* a otras que podrían considerarse *constituyentes*.
+  - Cabe señalar que mientras que las utopías suelen ser asumidas por sus autores, las ideología son negadas por los suyos.
+  - En la ideología y en la utopía cabe distinguir tres niveles: distorsión, integración simbólica y legitimación.
+  - La ideología preserva la identidad del grupo, pero puede degenerar y convertirse en la expresión disimulada de ciertos intereses.
+  - *Si la patología de la ideología es el disimulo, la de la utopía es la evasión*
+
+## 3. Utopías y heterotopías
+- Las **heterotopías** (Foucault, 1999) son una especie de utopías efectivamente realizadas en ciertos contraemplazamientos; lugares diferentes a todos los demás, de manera que vienen estar fuera de ellos, aunque resulten efectivamente localizables.
+- Se distinguen dos grandes tipos:
+  1. *De crisis*. Son más propias de las sociedades primitivas. Son lugares sagrados, privilegiados o prohibidos, que se reservan a individuos que están en crisis respecto a la sociedad en la que viven. Ejemplos podrían ser los colegios del siglo XIX, los cuarteles militares, e incluso el viaje de novios.
+  2. *De desviación*. Son más típicas de nuestra sociedad son lugares en los que se situa a individuos desviados respecto de la media o la norma, como los hospitales psiquiátricos y las cárceles.
+- El funcionamiento de la heterotopía depende del contexto cultural, como ha sucedido con los cementerios desde el siglo XVIII hasta la actualidad.
+- Las heterotopías son heterocrónicas. Es decir rompen con el tiempo tradicional. Algunas son eternizantes, como los museos y las bibliotecas, otras se vinculan a la máxima futilidad como las ferias.
+- El acceso a estas heterotopías está regulado.
+- Su función es:
+  - Crear un espacio de *ilusión* como los burdeles.
+  - Crear un espacio de *compensación* como las misiones jesuitas del Paraguay.
+- Desde el siglo XVI el barco ha sido la heterotopía por excelencia.
+
+## 4. Utopía y esperanza
+### 4.1 De la esperanza teológica a la esperanza secular
+- La utopía se conecta más con la *esperanza* que con la simple *espera*. La esperanza es un espera activa gracias a la cual el hombre no se limita a huir de la insoportable presión del presente hacia un futuro mejor, sino que tiende a procurarlo. Tal audacia con frecuencia no facilita la vida sino que la vuelve más conflictiva.
+- En la tradición cristiana la esperanza es una de las virtudes teologales. Es más puede entenderse, que penetra completamente el contenido del cristianismo.
+- Kant:
+  - Opina que si bien el hombre presenta una *propensión* al mal, hay una *disposición* en él, más fuerte hacia el bien.
+  - Confía en que el tiempo podría dar lugar a leyes más justas.
+  - La moral y la esperanza se abren a la Trascendencia, como preservación y como plenificación de la propia bondad presente en los hombres.
+- Con el tiempo, la fe y la esperanza no se han desechado, sino que se han secularizado.
+- El siglo XX muestra como el desarrollo técnico puede ir acompañado de una degradación moral inimaginable, como constantan Adorno y Horkheimer constatan en su obra conjunta *Dialéctica de la Ilustración*.
+- Ernst Bloch (*El principio Esperanza*, 1977-1980):
+  - La utopía es la percepción realista del horizonte de posibilidades que atraviesan lo real.
+  - Acentua la importancia de la labor del sujeto ético en la historia. El "heroe" es el que encamina la posibilidad de lo real hacia el presente cumplido. 
+  - El presente cumplido se denomina "patria de la identidad", en la "que el hombre quedará naturalizaso y la naturaleza humanizada" (Marx).
+  - Es un pensamiento que se orienta hacia el futuro: "nada es más humano que traspasar lo que es", "la verdadera génesis no se encuentra al principio, sino al final".
+  - Cuando el deseo de superación de un presente no cumplido accede a la razón, se produce las esperanza; cuando la esperanza se conjuga con las posibilidades reales florece la utopía.
+  - La esperanza no es un afecto ni una categorái sino un principio rector del pensamiento y de la acción humanas.
+  - El movimiento revolucionario debe incorporar los contenidos mesiánicos y esperanzadores de la religión, en particular del cristianismo.
+  - La objetividad de la esperanza no implica seguridad. Ni la salvación ni la perdición están decididas o garantizadas.
+ 
+### 4.2 Teleología y arqueología o Bloch y Freud
+- Si Bloch se interesa por el despuntar de lo nuevo, Freud procura descubrir los ardides del deseo, regresivo y arcaico.
+- Bloch fue enormemente crítico con el psicoanálisis, si bien pensamos que aunque acierta en el *planteamiento* se extravía en la *argumentación*:
+  - Porque el reproche de "pansexualismo" es injustificado.
+  - Porque no se puede concluir que las necesidades alimentarias primen sobre las sexuales, ya que son los transtornos sexuales los que originan los conflictos psíquicos, pues las necesidades alimentarias están tan cerca de lo instintivo que no se puede recurrir a la represión para resolverlas.
+  - Porque no hay una clara dicotomía entre sueños nocturnos y sueños de vigilias, entre *sueños* y *ensoñaciones*.
+- Si bien el psicoanálisis se ha centrado en lo regresivo, no se dejan totalmente de lado las aspectos progresivos (**Riceour** decía que era *una doctrina de lo arcaico tematizada y una teleología implícita*).
+- Freud opinaba que la regresión a la inmoralidad y a la barbarie es una posibilidad siempre abierta. 
+
+### 4.3 Lo no resuelto en la "patria de la identidad"
+- La muerte es la "máxima antiutopía", de la que Bloch intenta zafarse recurriendo a un núcleo extraterritorial, que tiene en torno a sí el círculo protector de lo todavía-no-vivo y que, por tanto, no la teme.
+- El precio que se paga por esta solución es que nuestra vida se torma absurda y vacía.
+- Además es consciente de que pese a la disolución de los conflictos económicos y sociales, seguirá habiendo alienaciones existenciales.
+- El teólogo protestante **Moltmann** opina que sigue sin resolveres la cuestión de los hombres del pasado y, especialmente, de las víctimas.
+- **Marcuse** en *El hombre unidimensional* afirma que se "debe permanecer leal a aquellos que sin esperanza, han dado y dan su vida al Gran Rechazo".
+- **Paul Tillich** se pregunta cómo han de considerarse las relaciones entre política y religión, concluyendo que la fe no debe preservarse de los movimientos de liberación con el pretexto de que ninguno podrá realizarse de modo cabal, sino que ha de entregarse a ellos.
+- Volviendo a *Bloch* en la pugna entre la herencia kantiana y hegeliana, se decanta por la segunda, al rechazar la moral del esfuerzo infinito que no encuentra meta en la que reposar.
+
+### 4.4 De la utopía-cuadro a la utopía-intención o utopías horizontales y verticales
+- Javier Muguerza en *Razón, utopía y disutopía* (1990) señala que las "utopías horizontales", en las que se asegura que hay un culminación feliz y completa de la historia presuponen un filosofía de la historia de corte escatológico. Contrario a todo intento de hacer derivar el *deber ser* del *ser*, lo que Hegel denosta como *mala infinitud* es la única solución aceptable. 
+- Muguerza rechaza la historia de la filosofía de Bloch por considerarla una versión decantada de lo que Kolakowski denominaba "mito de la autoidentidad humana".
+- Propone un modelo de utopía diferente, centrado en la actividad y no en el resultado (*utopías verticales*).
+- Va en la línea de **K.O Apel**, cuando considera que la ética comunicativa tiene una intención utópica, no entendiendo la utopía como un cuadro acabado del mundo.
+- Asimismo en la línea de **Wellmer**: "la propia idea de una definitiva realización de un Estado no tiene sentido respecto a la historia humana. [...] Este final de la utopía no sería el bloqueo se las energía utópicas, sería más bien su redirección, [...], porque ninguna vida humana [...] parece concebible sin un horizonte utópico".
+- El carácter formal de la ética de Kant hace que no tenga un contenido definido ni definitivo, pero impulsa a la política a encarnarla en proyectos plausibles.
+
+### 4.5 Para no concluir
+- La concepción vertical de la utopía permite esquivar muchos de los reproches que habitualmente se ha aplicado a las utopías. Por el contrario, la crítica antiutópica suele desembocar en la peor de las utopías, la utopía del *statu quo*.
+- Volviendo a Kant y su pregunta "¿Qué cabe esperar?":
+  - Aunque fue muy cauteloso no desdeñó la posibilidad de una organización mundial de estados sometidos a leyes que habrían de civilizar las relaciones humanas.
+  - Sólo la conciencia individual es la que puede alzarse para exigir un situación mejor o más justa.
+  - Aunque *utópico*, la *eu-topía*, el lugar bueno y bello, lo que kantianamente debemos y podemos hacer es esforzarnos por el sin término, de manera que aunque no fuésemos *Hacia la paz perpetua*, nos encamináramos *Hacia la paz, perpetuamente* (como el profesor Carlos Pereda ha propuesto traducir a Kant).

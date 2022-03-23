@@ -110,3 +110,37 @@ El ensayo *El malestar en la cultura* se incluye en la última perspectiva.
 - Las necesidades religiosas derivan principalmente del desamparo infantil y de la nostalgia del padre. El sentimiento oceánico juega un papel menor y podría estar dirigido al restablecimiento de un narcisismo ilimitado.
 - También contesta a otro amigo que considera el yoga y otras experiencias místicas regresiones a estados primitivos de la psique. Freud, que no ha tenido experiencias de este tipo no considera oportuno discutirlas.. El sentimiento oceánico juega un papel menor y podría estar dirigido al restablecimiento de un narcisismo ilimitado.
 - También contesta a otro amigo que considera el yoga y otras experiencias místicas regresiones a estados primitivos de la psique. Freud, que no ha tenido experiencias de este tipo no considera oportuno discutirlas.
+
+## Capítulo 2
+
+- En su estudio sobre  *El porvenir de una ilusión* había concluido que una religión sirve a dos propósitos:
+  - Explica los enigmas del mundo.
+  - Le asegura una Providencia que guardará su vida y la dará una recompensa ultraterrena.
+- En definitiva, se propone un Padre grandiosamente exaltado.
+- La vida es demasiado pesada y sufrida como para afrontarla sin lenitivos, que pueden ser de tres tipos:
+  - distracciones
+  - satisfacciones sustitutivas
+  - narcóticos
+- La cuestión del sentido de la vida se ha planteado muchas veces, sin que se haya dado una respuesta satisfactoria, y sólo la religión puede responder a si la vida tiene alguna finalidad.
+- Dejando de lado la religión, se puede decir que todos los hombres aspiran a ser felices.
+- La felicidad se puede entender de dos maneras. Negativamente, es evitar el dolor y el displacer; positivamente es la experiencia de sensaciones intensamente placenteras. En definitiva, la felicidad depende del principio de placer.
+- La satisfacción siempre es algo episódico, pues se produce cuando se atiende a necesidades acumuladas, después de que se haya alcanzado una elevada tensión.
+- Sin embargo, parece haber menos limitaciones a la hora de experimentar desgracias. 
+- Las desgracias vienen de tres sitios:
+  1. El propio cuerpo.
+  2. El mundo exterior.
+  3. Las relaciones con los otros seres humanos.
+- Dadas las limitaciones impuestas el principio de placer da lugar al principio de realidad, cuya finalidad es evitar el sufrimiento. Para ello, el hombre puede seguir diferentes estrategias:
+  1. La satisfacción ilimitada de las necesidades.
+  2. El aislamiento voluntario.
+  3. Someter la Naturaleza a la voluntad humana.
+  4. La intoxicación.
+- Como estrategia general, influir sobre los instintos disminuye el sufrimiento, ya que al limitar los impulsos también se limita la frustración.
+- Otra estrategia consiste en desplazar la líbido mediante la *sublimación*, pues los impulsos también disminuyen su intensidad.
+- Podemos intentar independizarnos del mundo exterior y buscar la satisfacción en lo interior,como se hace cuando se goza del arte-
+- Se puede intentar romper en la medida de lo posible toda relación con el mundo exterior o luchar por transformarlo.
+- Una manera de independizarse de lo exterior sin romper con ello es trasladar la satisfacción a procesos internos, haciendo del amor el centro de la vida. Pero nunca el hombre se expone más a sufrir que cuando ama.
+- Otra recurso es intentar gozar de lo bello.
+- En definitiva, el designio de ser felices que el principio de placer nos impone se nos aparece como irrealizable, aunque no por ello hay que abandonar todo esfuerzo. 
+- Son muchos los caminos propuestos, pero ninguno permite alcanzar lo que anhelamos. 
+- No se puede hablar de un camino general y cada uno tiene que buscar el suyo. La religión perturba este libre juego cuando prescribe idéntico camino para todos. Su alcance se limita a evitar que muchos individuos caigan en un estado neurótico, aunque tampoco es capaz de cumplir sus promesas.

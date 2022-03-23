@@ -98,3 +98,15 @@ El ensayo *El malestar en la cultura* se incluye en la última perspectiva.
   1. En el marximos: Bloch, escuela de Frankfurt, Adorno y Horkheimeer, J. Habermas.
   2. Línea fenomenológico-existencialista y su transformación hermenéutica: P. Ricoeur.
   3. Postestructuralismo: Foucault, Deleuze, Zizeck...
+
+# El malestar en la cultura
+
+## Capítulo 1
+- Un amigo critica a Freud el que al valorar el fenómeno religioso no haya prestado interés a la fuente último de la religiosidad. Según este amigo se trata de una "sensación de eternidad" que Freud llama "sentimiento oceánico". Se trata de un sentimiento de indisoluble comunión, de inseparable pertenencia a la totalidad del mundo exterior.
+- Freud reconoce que no ha experimentado ese sentimiento.
+- En condiciones normales nada nos parece tan seguro y establecido como la sensación de nuestro propio *yo*. Sin embargo este sentido yoico adulto no puede haber sido el mismo desde siempre, sino que ha tenido que evolucionar. 
+- Originalmente el *yo* lo incluye todo; sólo desprendiendose más tarde del mundo exterior, lo que da lugar a una comunión más íntima entre el yo y el Todo.
+- Por la tanto, el "sentimiento oceánico" no es más que una frase temprana del sentido yoico.
+- Las necesidades religiosas derivan principalmente del desamparo infantil y de la nostalgia del padre. El sentimiento oceánico juega un papel menor y podría estar dirigido al restablecimiento de un narcisismo ilimitado.
+- También contesta a otro amigo que considera el yoga y otras experiencias místicas regresiones a estados primitivos de la psique. Freud, que no ha tenido experiencias de este tipo no considera oportuno discutirlas.. El sentimiento oceánico juega un papel menor y podría estar dirigido al restablecimiento de un narcisismo ilimitado.
+- También contesta a otro amigo que considera el yoga y otras experiencias místicas regresiones a estados primitivos de la psique. Freud, que no ha tenido experiencias de este tipo no considera oportuno discutirlas.

@@ -42,4 +42,59 @@ El ensayo *El malestar en la cultura* se incluye en la última perspectiva.
 - Existe un lazo inconsciente y sexual que liga a las generaciones.
 
 # 2. Problemas y caracteres del "psicoanálisis aplicado"
+- Las neurosis provienen de intentos del individuo compensar los deseos, lo que habría de ser resuelto socialmente.
+- Es un interpretación de la cultura en la que se consideran sobre todo el sueño y la neurosis. Supone un problema, pues se basa en una fuerte analogía entre psicología y sociología.
+- El psicoanálisis no debe convertirse en una concepción del mundo o en una filosofía.
+- La crítica psicoanalítica es, ante todo, una crítica *genética* y *funcional*, pero no ha de suplantar una crítica *sustantiva*.
+- Fundamentalmente, esta obra es una crítica a la religión y a la moral, si bien también hay algo de crítica a la *estética*.
 
+# 3. El malestar de la cultura
+
+## 3.1 Antecedentes
+- Las relaciones entre el individuo y la sociedad son un tema de larga data en Freud.
+
+## 3.2 Circunstancias de la obra
+- Se sitúa en verano de 1929.
+- Es uno de los estudios que más implacablemente fustiga las ilusiones de la cultura, abordando con firme serenidad el tema de la desdicha humana.
+
+## 3.3 Estructura
+- Tiene una estructura una tanto extraña y se deja estructurar de diversos modos.
+
+## 3.4 El sentimiento oceánico
+- Se abre con una discusión acerca del sentimiento religioso.
+
+## 3.5 La felicidad inalcanzable
+- El sufrimiento humano tiene varias fuentes:
+  1. La supremacía de la naturaleza.
+  2. La caducidad de nuestro cuerpo.
+  3. La insuficiencia de nuestros métodos para regular las relaciones humanas.
+- Nos negamos a aceptar el tercer motivo.
+- Ningunos de los senderos que se le abren al hombre le permite realizar satisfactoriamente sus pretensiones.
+
+## 3.6 Dominio de la naturaleza y relaciones sociales
+- La cultura es hija de lo obligación del trabajo y de las necesidades amorosas, siendo la función erótica la primordial.
+- Hay tensiones entre líbido y civilización.
+- Freud reconoce que tal vez "haya algo inherente a la propia esencia de la función sexual que nos priva de satisfacción completa. Considera dos factores (no obstante, considera que son suposiciones muy inciertas):
+  1. El desdoblamiento del objeto erótico y la creación intermedia de la barrera del incesto llevan con frecuencia a una búsqueda interminable.
+  2. Algunos de los componentes de la pulsión sexual no han podiso ser recogidos en su estructura posterior, por lo que deben ser reprimidos o destinados a otro fin.
+
+## 3.7 El control social de la agresividad y el amor al prójimo
+- El capítulo 5 adquiere un tono más agrio: analiza el mandamiento cristiano de "amar al prójimo como a sí mismo" y plantea reparos al intento revolucionario del marxismo. También se ocupa de los nacionalismos.
+
+## 3.8 Cultura y tragedia
+- La cultura debe limitar las disposiciones agresivas de los individuos, lo que vuelve los impulsos agresivos en contra del propio individuo.
+- Como resultado se produce una "exaltación del sentimiento de culpabilidad".
+- "[C]uanto más se limita al hombre su agresión hacia el exterior, más severo y agresivo se hace en su ideal del yo".
+- Nietzche en *La genealogía de la moral*: "Todos los instintos que no se desahogan hacia afuera *se vuelven hacia adentro*".
+- Nos lleva a plantearnos la cuestión del progreso.
+
+## 3.9 Progreso cuestionado. Perspectivas
+- El proyecto freudiano, tal y como se planteaba en *El porvenir de una ilusión* (1927) era sustituir la antigua legitimación religiosa de la moral por una basada en su necesidad social guiados por la luz de la ciencia.
+- En *El malestar en la cultura*, la dificultad de regular las relaciones sociales quiebra la confianza en la razón científico-técnica.
+- Los conflictos no son accidentales, sino *necesarios*, debido al dualismo pulsional y la renuncia a la agresividad que la civilización exige.
+- Sin embargo, Freud no niega toda posibilidad de futuro.
+- En Freud hay tensiones nunca resueltas entre positivismo y romanticismo, entre empirismo y especulación, entre cientificismo y poesía.
+- La influencia de Freud se ha dejado sentir mucho más allá de la teoría psicoanalítica:
+  1. En el marximos: Bloch, escuela de Frankfurt, Adorno y Horkheimeer, J. Habermas.
+  2. Línea fenomenológico-existencialista y su transformación hermenéutica: P. Ricoeur.
+  3. Postestructuralismo: Foucault, Deleuze, Zizeck...

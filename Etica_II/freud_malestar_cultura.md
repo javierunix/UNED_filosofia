@@ -158,4 +158,12 @@ El ensayo *El malestar en la cultura* se incluye en la última perspectiva.
 	2. Regular las relaciones inter-humanas.
   - Todas las actividades y bienes útiles son culturales, que han desembocado en que se haya definido al hombre como un dios con protesis.
   - También incluye manifestaciones que parecen inútiles, entre las que destacan las que tienen que ver con la *belleza*, que aparentemente se relacionan con el orden y la belleza.
+- Lo que caracteriza mejor una cultura es la valoración y culto que hace de las actividades psíquicas superiores (sistemas religiosos, especulaciones filosóficas y otras "construcciones ideales"). Estas creaciones no son independientes, sino que están íntimamente unidas entre sí.
+- Para que la vida en común de los hombres sea posible es necesario que se una una mayoría más fuerte que cada uno de sus miembros.
+- Los miembros de la sociedad deben restringir sus posibilidades satisfacción. El primer requisito es una idea de *justicia*, sin que implique ningún pronunciamiento ético.
+- La libertad individual no es un bien de la cultura, ya que era máxima antes de cualquier cultura.
+- En la inculturación los instintos pueden seguir diferentes caminos:
+  - Algunos, *consumidos*, aparecen posteriormente como rasgos individuales del carácter. Por ejemplo, el ahorro, el orden y la limpieza provienen del erotismo anal del niño.
+  - Otros se subliman.
+  - De más importancia es la renuncia a la satisfacción, que origina la *frustración cultural*.
 

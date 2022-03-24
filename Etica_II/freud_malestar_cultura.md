@@ -144,3 +144,18 @@ El ensayo *El malestar en la cultura* se incluye en la última perspectiva.
 - En definitiva, el designio de ser felices que el principio de placer nos impone se nos aparece como irrealizable, aunque no por ello hay que abandonar todo esfuerzo. 
 - Son muchos los caminos propuestos, pero ninguno permite alcanzar lo que anhelamos. 
 - No se puede hablar de un camino general y cada uno tiene que buscar el suyo. La religión perturba este libre juego cuando prescribe idéntico camino para todos. Su alcance se limita a evitar que muchos individuos caigan en un estado neurótico, aunque tampoco es capaz de cumplir sus promesas.
+
+
+## Capítulo 3
+- El hombre tiende a negar que las relaciones sociales sean causa de sufrimiento.
+- Es probable que nuestra propia constitución psicológica haga que sea inevitable que esto ocurra.
+- Muchos proponen como solución que se retorne a condiciones de vida más primitivas. En todo caso, resulta muy difícil juzgar si los hombres de antaño eran más felices, así como cuanto de esta felicidad se debía a cuestiones culturales, entre otras cosas porque la felicidad es algo profundamente subjetivo.
+- La neurosis se origina porque el hombre no puede soportar el grado de frustración al que lo somete la sociedad.
+- El dominio de la Naturaleza no garantiza la felicidad.
+- ¿Qué se entiende por *cultura*?
+  - Es la suma de producciones e instituciones que distancian nuestra vida de la de nuestros antepasados animales, y que sirve a dos fines:
+    1. Protegernos de la Naturaleza.
+	2. Regular las relaciones inter-humanas.
+  - Todas las actividades y bienes útiles son culturales, que han desembocado en que se haya definido al hombre como un dios con protesis.
+  - También incluye manifestaciones que parecen inútiles, entre las que destacan las que tienen que ver con la *belleza*, que aparentemente se relacionan con el orden y la belleza.
+

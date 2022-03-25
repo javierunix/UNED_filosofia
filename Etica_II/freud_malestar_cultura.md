@@ -217,3 +217,6 @@ El ensayo *El malestar en la cultura* se incluye en la última perspectiva.
   - *Eros* y *Thanatos* no suelen aparecer de manera aislada, sino amalgamados, como se aprecia en el sadismo y en el masoquismo.
 - El instinto de muerte es mucho más difícil de captar. Se puede asociar al placer narcisista de la omnipotencia.
 - La agresividad humana proviene del instinto de muerte, siendo el mayor obstáculo con el que tropieza la cultura.
+
+## Capítulo 7
+

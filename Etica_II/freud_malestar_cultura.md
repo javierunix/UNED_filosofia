@@ -219,4 +219,3 @@ El ensayo *El malestar en la cultura* se incluye en la última perspectiva.
 - La agresividad humana proviene del instinto de muerte, siendo el mayor obstáculo con el que tropieza la cultura.
 
 ## Capítulo 7
-Se supone que aquí debe ir algo nuevo

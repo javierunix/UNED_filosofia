@@ -137,7 +137,7 @@ El ensayo *El malestar en la cultura* se incluye en la última perspectiva.
   4. La intoxicación.
 - Como estrategia general, influir sobre los instintos disminuye el sufrimiento, ya que al limitar los impulsos también se limita la frustración.
 - Otra estrategia consiste en desplazar la líbido mediante la *sublimación*, pues los impulsos también disminuyen su intensidad.
-- Podemos intentar independizarnos del mundo exterior y buscar la satisfacción en lo interior,como se hace cuando se goza del arte-
+- Podemos intentar independizarnos del mundo exterior y buscar la satisfacción en lo interior,como se hace cuando se goza del arte.
 - Se puede intentar romper en la medida de lo posible toda relación con el mundo exterior o luchar por transformarlo.
 - Una manera de independizarse de lo exterior sin romper con ello es trasladar la satisfacción a procesos internos, haciendo del amor el centro de la vida. Pero nunca el hombre se expone más a sufrir que cuando ama.
 - Otra recurso es intentar gozar de lo bello.
@@ -167,3 +167,53 @@ El ensayo *El malestar en la cultura* se incluye en la última perspectiva.
   - Otros se subliman.
   - De más importancia es la renuncia a la satisfacción, que origina la *frustración cultural*.
 
+## Capítulo 4
+- La cultura tiene un doble fundamento: *Eros* y *Ananké*. Es decir, el trabajo, impuesto por las necesidades exteriores, y el amor, que impide separarse del objeto sexual.
+- El amor sexual ofrece al hombre las más intensas sensaciones placenteras, pero conduce a una fuerte dependencia. Unos pocos han optado y logrado dirigir en igual medida el amor hacia todos los seres, transformando el instinto en un *impulso coartado en su fin*, como es el caso de San Francisco de Asís.
+- El primer divorcio entre cultura y amor aparece porque la familia no está dispuesta a renunciar al individuo. 
+- La siguiente discordia es causada por las mujeres, que no tardan en oponerse a la corriente cultural, ya que la constante convivencia del marido con otros hombres llegan a sustraerlo de sus deberes de esposo y padre.
+- La cultura tiende a restringir la vida sexual, empezando por la prohibición de elegir un objeto incestuoso. Se ve obligada a sustraer a la sexualidad gran parte de la energía que necesita.
+- Nuestra cultura occidental impone, entre otras, las siguientes restricciones:
+  - Proscripción severa de la sexualidad infantil.
+  - Imposición de una vida sexual idéntica para todos.
+  - Restricciones de legitimidad y monogamia.
+ - Se concluye que la vida sexual del hombre civilizado se ha perjudicado gravemente.
+ - No obstante, parece haber algo inherente a la propia sexualidad que impide una satisfacción completa.
+
+## Capítulo 5
+- La cultura pretende ligar a sus miembros con lazos libidinales, poniendo en juego la máxima cantidad de libido con fin inhibido, para reforzar los vínculos; lo que exige la restricción de la vida sexual.
+- El precepto "amarás al prójimo como a tí mismo", sin embargo es contrario a la naturaleza humana:
+  - Además de difícil, se nos muestra como injusto.
+  - El prójimo no sólo es indigno de nuestroa amor, sino que parece merecedor de nuestro odio y hostilidad.
+  - Aún resulta más extraño el precepto "amarás a tu enemigo", aunque en el fondo viene a decir lo mismo.
+  - Debería formularse como "amarás al prójimo como el te ame a tí".
+- El hombre es un ser instintivamente agresivo, una bestia salvaje que no conoce el menor respeto por los seres de su propia especie. 
+- Debido a la primordial hostilidad entre los hombres, la civilización se encuentra constantemente al borde de la desintegración.
+- Dado que las pasiones instintivas son más poderosas que los intereses racionales, la cultura se ve continuamente a hacer una labor de contención.
+- No podemos reprochar a la cultura la pretensión de excluir la lucha y la competencia.
+
+#### Respecto a los comunistas
+- Creen haber descubierto una camino hacia la redención del mal, pues consideran que el hombre es bueno por naturaleza, siendo la propiedad privada el que lo corrompe.
+- Surge de una vana ilusión psicológica, ya que el instinto agresivo no es una consecuencia de la propiedad, sino que constituye el sedimento de todos los vínculos cariñosos y amorosos entre los hombres.
+
+#### Los nacionalismos
+- Dado que al hombre no le resulta fácil renunciar a la satisfacción de sus tendencias agresivas, la vinculación amorosa con un número mayor de hombres se facilita si hay otros en quienes descargar los golpes.
+- Se origina un *narcisismo de las pequeñas diferencias*.
+
+#### A modo de resumen
+- El hombre primitivo estaba menos agobiado, pues no restringía sus instintos. El hombre civilizado ha trocado, así, una parte de su felicidad por seguridad. 
+- No hay que ser enemigo de la cultura. Cabe esperar que poco a poco se logre imponer a nuestra cultura modificaciones que la hagan más satisfactoria.
+- No obstante, debemos asumir que tal vez existan dificultades inherentes a la propia esencia de cultura y que son inaccesibles a cualquier intento de reforma.
+- Otra amenaza es la de la "miseria psicológica de las masas", cuando hay una fuerte identificación entre los individuos sin la necesaria formación por parte de los dirigentes sobre la masa.
+
+## Capítulo 6
+- El planteamiento de que exista un instinto agresivo particular e independiente modifica la teoría psicoanalítica.
+- Desde el principio se aceptó la oposición entre los instintos del *yo* y los instintos objetuales. El término *libido* se refiere a la energía asociado a los segundos.
+- La neurosis sería la solución de una lucha entre los intereses de la autoconservación y las exigencias de la libido. El *yo* triunfarío, si bien pagando un alto precio.
+- El *narcisismo* muestra como el *yo* también esta impregnado de líbido. Precisamente que los sentimientos yoicos fueran libidinales parecía augurar que la libido fuera la energía instintiva en general. 
+
+- *Más allá del principio del placer* (1920)
+  - Además del Eros existe un instinto de muerte, que se puede orientar hacia el mundo exterior o hacia el propio individuo.
+  - *Eros* y *Thanatos* no suelen aparecer de manera aislada, sino amalgamados, como se aprecia en el sadismo y en el masoquismo.
+- El instinto de muerte es mucho más difícil de captar. Se puede asociar al placer narcisista de la omnipotencia.
+- La agresividad humana proviene del instinto de muerte, siendo el mayor obstáculo con el que tropieza la cultura.

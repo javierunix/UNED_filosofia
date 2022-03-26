@@ -5,7 +5,7 @@ El psicoanálisis puede considerarse desde una triple perspectiva:
 2. Como una teoría psíquica
 3. Como un método de estudio de aplicación general.
 
-El ensayo *El malestar en la cultura* se incluye en la última perspectiva.
+El ensayo *El malestar en la cultura* (1930) se incluye en la última perspectiva.
 
 ## 1. Algunos conceptos básicos de la teoría psicoanalítica
 
@@ -242,4 +242,20 @@ El ensayo *El malestar en la cultura* se incluye en la última perspectiva.
 - La cultura esta indisolublemente ligada a la exaltación del sentimiento de culpabilidad, que quizá llegue a alcanzar un grado difícilmente soportable para el individuo. 
 
 ## Capítulo 8
+- Las consideraciones sobre el sentimiento de culpa exceden los límites del presente trabajo. El sentimiento de culpabilidad es el problema más importante de la evolución cultural. Es el precio pagado por el progreso de la cultura y es la causa de la pérdida de la felicidad.
+- En las neurosis obsesiva, este sentimiento se impone a la conciencia con una excesiva intensidad, mientras que en los demás casos de neurosis permanece inconsciente, sin que por ello sus efectos sean menos intensos. La culpabilidad se expresa como una necesidad, consciente o inconsciente, de castigo.
+- El sentimiento de culpabilidad es una variante de la angustia y en sus fases ulteriores coincide con el *miedo al super-yo*.
+- Hay una profunda analogía entre la evolución cultural y la evolución individual. En la individual hay una lucha entre la aspiración a la felicidad (egoista) y el anhelo a fundirse con la humanidad (altruista).
+- La lucha entre el individuo y la sociedad no es hija del antogonismo entre Eros y Muerte, sino que responde a un conflicto dentro de la propia economía de la libido.
+- Se puede hablar de un *super-yo* cultural, que se funda en la impresión que han dejado los grandes personajes conductores, los cuales con frecuenci han sido denigrados, maltratados o incluso eliminados (siendo Jesucristo el ejemplo más cabal).
+- El *super-yo* cultural establece rígidos ideales cuya violación es castigada con la "angustia de la conciencia".
+- El *super-yo* cultural ha elaborado sus ideales y a erigido sus normas. Las que se refieren a las relaciones de los seres humanos entre sí estan comprendidas en el concepto de **ética**. La ética es una tentativa terapéutica, un ensayo destinado a lograr mediante un imperativo del *super-yo* lo que no ha podido alcanzar la restante labor cultural.
+- La ética no se preocupa por la constitución psicológica del hombre y parte de la idea de que el *yo* tiene una ilimitada autoridad sobre el *ello*. No hay un mandanto más antipsicológico que "amarás a tu prójimo como a tí mismo".
+- La ética "natural" es inútil, ya que solo satisface la pretensión narcisista de considerarnos mejor que los demás. La ética religiosa que predica la bondad del más allá también será impotente mientras la virtud no de sus frutos ya en esta vida.
+- Podemos afirmar con las debidas cautelas que la sociedad padece de neurosis. La principal dificultad es identificar respecto a que normalidad lo es.
+- En el libro se ha tratado de evitar valorar la cultura:
+  - Ciertamente no se comparte ningún prejuicio entusiasta que considere la cultura como la gran adquisición humana, que nos asegure el bien y la felicidad.
+  - La cultura es más bien algo forzado y forzoso.
+  - No podemos estar seguro de si se impondrá *Eros* sobre *Thanatos*.
+  - El dominio sobre la naturaleza hace que llegado el caso la total aniquilación de la humanidad sea posible.
 

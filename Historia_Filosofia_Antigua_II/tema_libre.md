@@ -7,3 +7,46 @@
 ## Neoplatonismo
 - En las *Enéadas*, Plotino limita la teología negativa a *El Uno*, permitiendo, en cambio una teología positiva para las demás hipóstasis divinas: *El Entendimiento* y *El Alma*. Su teología sobre la *Primera Realidad* es **exclusivamente** negativa, pues no se puede predicar nada de ella.
 - El punto de partida es que ser real significa ser uno. De que *El Uno* trasciende *El Entendimiento* y *La Forma* se deduce que es totalmamente incognoscible e impredicable.
+- A continuación enumeramos algunos de los puntos de la teología negativa neoplatónica.
+
+1. El Uno es ilimitado (*apeiron*). 
+     - En este punto se sigue a Platón, que a su vez seguía a Parménides.
+
+2. El Uno no necesita de nada
+
+3. El Uno engendra si experimentar ninguna disminución.
+
+4. El Uno no es eterno (*aion*)
+     - La eternidad tiene que ver con la inmutabilidad, los objetos inteligibles y el mundo de las Formas.
+
+5. El Uno no es vida (*zoe*)
+     - La vida, perfecto o imperfecta, *Nous* o *Alma*, pertenece al orden de *noesis* o *noeta*, por lo que no pertenece al Uno.
+
+6. El Uno no es una entidad (*ousía*), ni ningún otro *megiston genos*
+     - Plotino entiende los *megista gene* (*ousia*, *kinesis*, *stasis*, *tauton* and *heteron*) del *Sofista* de Platón como elementos lógicamente diferenciados del propio Entendimiento. De esta manera, enfatiza la radical trascendencia del Uno sobre la noción tradicional del platonismo acerca de las realidades más elevadas.
+
+7. El Uno no es *energeia*
+
+     - Al contrario que Aristóteles, Plotino cree que el término *energeia* no se puede aplicar a la realidad suprema. Energía es un término aplicable a uno entre otros pero no al Uno.
+
+     - El uno es fuerza activa pura (*dynamis ton panton*). 
+
+     - Si bien es cierto que no se puede predicar positivamente del Uno, el dejarlo completamente de lado en el discurso filosófico volvería a este vacío e inútil.
+
+
+   - En resumen, cualquier teología positiva es en principio incompatible con la idea de que la realidad es unidad. El Uno simplemente no puede ser objeto de conocimiento o sujeto de un predicado. A Dios se accede místicamente en una experiencia que trasciende el conocimiento.
+
+## Gnosticismo
+- Si bien gnosticismo y neoplatonismo divergen en muchos aspectos, ambas escuelas son mayoritariamente coincidentes en lo referente a la relevancia de la teología negativa.
+- Los gnósticos a primera vista coinciden con Plotino al negar la posibilidad de cualquier predicado acerca de la divinidad suprema, pero se diferencia en que los primeros extienden la inefabilidad de lo divino más abajo en la escala de lo real, especialmente cuando se aplica al Triple Poder del Gnosticismo Barbeloita.
+- Al igual que en Plotino, sólo la teología negativa es compatible con la unidad trascendente de Dios.+
+- Que Dios no es una Idea o Forma es evidente en los manuscritos barbeloitas.
+- No atributos de Dios:
+  - No es finito
+  - Carece de todo deseo o necesidad.
+  - El Padre de los gnosticos tampoco se ve mermado cuando engendra.
+  - No se le aplica el concepto de eternidad, pues trasciende el *pleroma* (el universo de los eones).
+  - No es vida.
+  - Está más allá del Ser.
+  - También se sobreentiende que está más allá de los conceptos energía y acto.
+- No obstante se puede hacer teología positiva de los dioses intermedios o inferiores. En ningún caso, del Triple Poder del gnosticismo barbeloita, que algunos llegan a identificar con el Dios Supremo.
